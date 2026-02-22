@@ -1,88 +1,5 @@
--- [ KEY SYSTEM START ]
-local CorrectKey = "dlame1"
-local KeyCorrect = false
-
-local function CreateKeyUI()
-    local ScreenGui = Instance.new("ScreenGui")
-    local Main = Instance.new("Frame")
-    local TextBox = Instance.new("TextBox")
-    local Button = Instance.new("TextButton")
-    local Corner = Instance.new("UICorner")
-    local Title = Instance.new("TextLabel")
-    local UIStroke = Instance.new("UIStroke")
-
-    ScreenGui.Name = "ValexAuthSystem"
-    ScreenGui.Parent = (game:GetService("CoreGui") or game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"))
-    ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-
-    Main.Name = "Main"
-    Main.Parent = ScreenGui
-    Main.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
-    Main.Position = UDim2.new(0.5, -125, 0.5, -65)
-    Main.Size = UDim2.new(0, 250, 0, 130)
-    Main.BorderSizePixel = 0
-
-    Corner.CornerRadius = UDim.new(0, 10)
-    Corner.Parent = Main
-
-    UIStroke.Parent = Main
-    UIStroke.Color = Color3.fromRGB(255, 0, 0)
-    UIStroke.Thickness = 2
-    UIStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
-
-    Title.Parent = Main
-    Title.BackgroundTransparency = 1
-    Title.Position = UDim2.new(0, 0, 0.05, 0)
-    Title.Size = UDim2.new(1, 0, 0.25, 0)
-    Title.Font = Enum.Font.GothamBold
-    Title.Text = "VALEX AUTHORIZATION"
-    Title.TextColor3 = Color3.fromRGB(255, 255, 255)
-    Title.TextSize = 16
-
-    TextBox.Parent = Main
-    TextBox.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
-    TextBox.Position = UDim2.new(0.1, 0, 0.35, 0)
-    TextBox.Size = UDim2.new(0.8, 0, 0.25, 0)
-    TextBox.Font = Enum.Font.Gotham
-    TextBox.PlaceholderText = "Введите ключ..."
-    TextBox.Text = ""
-    TextBox.TextColor3 = Color3.new(1, 1, 1)
-    TextBox.TextSize = 14
-    local BoxCorner = Instance.new("UICorner", TextBox)
-    BoxCorner.CornerRadius = UDim.new(0, 5)
-
-    Button.Parent = Main
-    Button.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-    Button.Position = UDim2.new(0.2, 0, 0.7, 0)
-    Button.Size = UDim2.new(0.6, 0, 0.2, 0)
-    Button.Font = Enum.Font.GothamBold
-    Button.Text = "ВОЙТИ"
-    Button.TextColor3 = Color3.new(1, 1, 1)
-    Button.TextSize = 14
-    local BtnCorner = Instance.new("UICorner", Button)
-    BtnCorner.CornerRadius = UDim.new(0, 5)
-
-    Button.MouseButton1Click:Connect(function()
-        if TextBox.Text == CorrectKey then
-            KeyCorrect = true
-            ScreenGui:Destroy()
-        else
-            TextBox.Text = ""
-            TextBox.PlaceholderText = "НЕВЕРНЫЙ КЛЮЧ!"
-            Button.BackgroundColor3 = Color3.fromRGB(150, 0, 0)
-            task.wait(0.5)
-            Button.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-        end
-    end)
-
-    repeat task.wait() until KeyCorrect
-end
-
-CreateKeyUI()
--- [ KEY SYSTEM END ]
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ImInsane-1337/neverlose-ui/refs/heads/main/source/library.lua"))()
-local CheatName = "valex"
+local CheatName = "vetrex"
 
 Library.Folders = {
     Directory = CheatName,
@@ -99,14 +16,13 @@ Library:ChangeTheme("Accent", Accent)
 Library:ChangeTheme("AccentGradient", Gradient)
 
 local Window = Library:Window({
-    Name = "valex",
-    SubName = "valex-release 1.2 @dawnnscript", -- ОБНОВЛЕНО
+    Name = "vetrex",
+    SubName = "vetrex scripts (best script)",
     Logo = "120959262762131"
 })
 
 local KeybindList = Library:KeybindList("Keybinds")
 
--- СЕРВИСЫ
 local Players = game:GetService("Players")
 local Run = game:GetService("RunService")
 local Replicated = game:GetService("ReplicatedStorage")
@@ -117,7 +33,6 @@ local TweenService = game:GetService("TweenService")
 local localPlayer = Players.LocalPlayer
 local Camera = Workspace.CurrentCamera
 
--- ПЕРЕМЕННЫЕ
 local enemyCache = {}
 local skeletonCache = {}
 local espDrawings = {} 
@@ -128,9 +43,6 @@ local WEAPON_TYPE = { knife = "Knife_Equip" }
 local throwStartRemote = Replicated.Remotes:WaitForChild("ThrowStart")
 local throwHitRemote = Replicated.Remotes:WaitForChild("ThrowHit")
 
----------------------------------------------------------
--- ФУНКЦИИ ВСПОМОГАТЕЛЬНЫЕ
----------------------------------------------------------
 local function GetCurrentVisualColor()
     if Library.Flags["RainbowMode"] then
         return Color3.fromHSV(tick() % 5 / 5, 1, 1)
@@ -202,9 +114,6 @@ local function UpdateSkeleton(player, character)
     end
 end
 
----------------------------------------------------------
--- ФУНКЦИИ ДЛЯ НОВОГО ESP
----------------------------------------------------------
 local function RemoveNewESP(player)
     if espDrawings[player] then
         for _, d in pairs(espDrawings[player]) do d:Remove() end
@@ -279,9 +188,6 @@ Character:FindFirstChild("HumanoidRootPart")
     end
 end
 
----------------------------------------------------------
--- ЛОГИКА ОСНОВНАЯ
----------------------------------------------------------
 
 local function updateCache()
     enemyCache = {}
@@ -441,13 +347,10 @@ MoveSection:Toggle({Name = "Anti Stun", Flag = "AntiStun"})
 Window:Category("Information")
 local InfoPage = Window:Page({Name = "Info", Icon = "138827881557940"})
 local InfoSection = InfoPage:Section({Name = "Release Info", Side = 1})
-InfoSection:Label("valex 1.2 release") -- ОБНОВЛЕНО
-InfoSection:Label("TG Channel: @dawnnscript")
-InfoSection:Button({Name = "Copy Telegram Link", Callback = function() setclipboard("https://t.me/dawnnscript"); Library:Notification({Title = "Valex", Text = "Link copied!", Duration = 3}) end})
-
----------------------------------------------------------
--- ЦИКЛЫ
----------------------------------------------------------
+InfoSection:Label("vetrex scripts")
+InfoSection:Label("Discord - https://discord.gg/bSCVptWePe")
+InfoSection:Button({Name = "Copy Telegram Link", Callback = function() setclipboard("https://discord.gg/bSCVptWePe"); Library:Notification({Title = "Vetrex", Text = "Link copied!", Duration = 3}) end
+        
 
 Run.Heartbeat:Connect(function()
 
@@ -536,7 +439,7 @@ localPlayer.CharacterAdded:Connect(function(char) if Library.Flags["AAEnabled"] 
 
 task.spawn(function()
     while true do
-        Library:Watermark({ "valex beta", "FPS: " .. math.floor(1 / Run.RenderStepped:Wait()) })
+        Library:Watermark({ "vetrex beta", "FPS: " .. math.floor(1 / Run.RenderStepped:Wait()) })
         task.wait(0.5)
     end
 end)
