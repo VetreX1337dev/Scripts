@@ -1,9 +1,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Visual by vomagla",
-   LoadingTitle = "Visual Menu",
-   LoadingSubtitle = "by vomagla",
+   Name = "vetrex visuals",
+   LoadingTitle = "best visuals [beta 1.0] ",
+   LoadingSubtitle = "by DottaWasCorupted",
    KeySystem = false,
    Theme = {
       TextColor = Color3.fromRGB(240, 240, 240),
@@ -57,7 +57,7 @@ local MainTab = Window:CreateTab("Main", 4483362458)
 
 MainTab:CreateParagraph({
    Title = "Important information",
-   Content = "ALL FUNCTIONS ARE VISUAL ONLY. No one can see them except you."
+   Content = "скрипт на стадии разработки так что пока что многово не ждите"
 })
 
 -- Chinese Hat Tab
@@ -499,7 +499,7 @@ local function toggleAnimeImage(value)
       
       Rayfield:Notify({
          Title = "Anime Image",
-         Content = "Anime image activated! --script by vomagla--",
+         Content = "Anime image activated! --script by DottaWasCorupted--",
          Duration = 3,
          Image = 4483362458
       })
@@ -578,7 +578,7 @@ end)
 
 print("Visual Menu Loaded!")
 Rayfield:Notify({
-   Title = "Visual by vomagla",
+   Title = "best visuals",
    Content = "Menu loaded successfully!",
    Duration = 4,
    Image = 4483362458
