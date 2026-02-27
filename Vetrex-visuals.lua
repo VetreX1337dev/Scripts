@@ -57,7 +57,7 @@ local MainTab = Window:CreateTab("Main", 4483362458)
 
 MainTab:CreateParagraph({
    Title = "Important information",
-   Content = "скрипт на стадии разработки,так что функций мало"
+   Content = "скрипт на стадии разработки так что пока что многово не ждите"
 })
 
 -- Chinese Hat Tab
@@ -576,10 +576,42 @@ player.CharacterAdded:Connect(function()
    end
 end)
 
-print("Visual Menu Loaded!")
-Rayfield:Notify({
-   Title = "best visuals",
-   Content = "Menu loaded successfully!",
-   Duration = 4,
-   Image = 4483362458
+-- Accessories Tab
+local AccessoriesTab = Window:CreateTab("Accessories", 4483362458)
+
+local korbloxEnabled = false
+local headlessEnabled = false
+
+AccessoriesTab:CreateToggle({
+   Name = "Korblox",
+   CurrentValue = false,
+   Flag = "KorbloxToggle",
+   Callback = function(value)
+      korbloxEnabled = value
+      if value then
+         getgenv().Mscuaz_Korblox = true
+         getgenv().Mscuaz_Headless = false
+         getgenv().MscuazScriptIsTheBest = "MscuazScripter"
+         loadstring(game:HttpGet('https://raw.githubusercontent.com/gwnrdt/Try/refs/heads/main/Headless%26Korblox.lua'))()
+      else
+         getgenv().Mscuaz_Korblox = false
+      end
+   end
+})
+
+AccessoriesTab:CreateToggle({
+   Name = "Headless",
+   CurrentValue = false,
+   Flag = "HeadlessToggle",
+   Callback = function(value)
+      headlessEnabled = value
+      if value then
+         getgenv().Mscuaz_Headless = true
+         getgenv().Mscuaz_Korblox = false
+         getgenv().MscuazScriptIsTheBest = "MscuazScripter"
+         loadstring(game:HttpGet('https://raw.githubusercontent.com/gwnrdt/Try/refs/heads/main/Headless%26Korblox.lua'))()
+      else
+         getgenv().Mscuaz_Headless = false
+      end
+   end
 })
