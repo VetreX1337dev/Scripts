@@ -57,7 +57,7 @@ local MainTab = Window:CreateTab("Main", 4483362458)
 
 MainTab:CreateParagraph({
    Title = "Important information",
-   Content = "скрипт на стадии разработки так что пока что многово не ждите"
+   Content = "скрипт на стадии разработки,так что функций мало"
 })
 
 -- Chinese Hat Tab
