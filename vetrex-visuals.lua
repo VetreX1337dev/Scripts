@@ -18,13 +18,13 @@ local Camera = camera
 -- СОЗДАНИЕ ОКНА RAYFIELD
 -- ======================================================
 local Window = Rayfield:CreateWindow({
-   Name = "Universal Hub",
-   LoadingTitle = "Vetrex x Echeron",
-   LoadingSubtitle = "Combined Script",
+   Name = "vetrex visuals [v1.1]",
+   LoadingTitle = "By DottaWasCorupted",
+   LoadingSubtitle = "vetrex visuals",
    KeySystem = false,
    ConfigurationSaving = {
       Enabled = true,
-      FolderName = "UniversalHubConfig",
+      FolderName = "VetrexVisuals",
       FileName = "HubSave"
    },
    Theme = {
