@@ -1,2 +1,834 @@
---[[ obfuscated @ discord.gg/25ms ]]
-return(function(...)local P={`OxcQXz6=`,`j8/1LAX=`,`Kjvh5O1=`,`lNEF3aC=`,`6yLwe1C=`,`hRn=`,`pwQt+/2=`,`kVGn`,`2C==`,`7L5DP06=`,`5FLo`,`MHcg7X==`,`sKrMrsx=`,`JzAajVO=`,`xX==`,`6uB1/F1=`,`/kv/pU2=`,`K0o2QkX=`,`YA70o0x=`,`B2KyaYv=`,`CC==`,`f2KKHu1=`,`hOeRW6Z=`,`shj=`,`LDkBPn2=`,`YHB0Rv==`,`IXuGZxx=`,`1KTgthn=`,`NZ==`,`yyNQZ6E=`,`d+oB`,`eq4F`,`TMwAzeE=`,`RokNsKE=`,`1hbRVhj=`,`3GqsEsx=`,`j/3bTCE=`,`Pcz36eO=`,`MTkEuGC=`,`kKv1bX==`,`pJ1+mQj=`,`YgV7ujn=`,`GGmVLI2=`,`tSdA4iI=`,`LC==`,`epwz`,`qxHY4Z==`,`IkF7wRH=`,`CjTUFQu=`,`+ZkBaZ2=`,`n3HPSAZ=`,`az0fX51=`,`P8yS`,`mOHW9zn=`,`DaHRFAH=`,`jNEMVOX=`,`cQQD`,`miAiY9x=`,`/LVM4fX=`,`bLpsTKC=`,`5k/qPAx=`,`ocHX6Aj=`,`aC6IoG1=`,`+YjesX==`,`1kj=`,`bPDwh/1=`,`7u2FNBx=`,`OhPRev==`,`uX==`,`XuQZtGm=`,`OO/jFe1=`,`VMjrieO=`,`E2bht5X=`,`DshZlX==`,`uVNaJ7I=`,`6X==`,`0Z==`,`Q/wEAmC=`,`Fc6=`,`1Z==`,`Nt2vKtH=`,`ydejyAX=`,`tkkPBmm=`,`nNerXC==`,`CQ2=`,`vNBZHX2=`,`aAMFNfu=`,`06tOMC==`,`5nEr1hO=`,`2Artvdj=`,`QeoNYX==`,`rbnJb7C=`,`7u5EH+C=`,`MRS+1Bu=`,`Jrv=`,`KbetdTv=`,`4JnQcwC=`,`WxQGFX==`,`yS/7nOv=`,`srWgTxC=`,`n2qMYVj=`,`8R9pzjZ=`,`oTa3bpH=`,`Qn1w9v==`,`dG70qSv=`,`UCQG1C==`,`+xWnxwm=`,`3dxF24x=`,`IoOBbZ==`,`RzaKerj=`,`NfNmc9C=`,`QSzfkxx=`,`IRO=`,`TvcOjsj=`,`xsZEGZ==`,`d1lA54n=`,`yr1=`,`07K8rMC=`,`sJ+0r3n=`,`xBX=`,`t0O4g7m=`,`o/n=`,`/YE=`,`X5NYcTv=`,`KqFSyex=`,`Iehd+Lj=`,`nKV+`,`ncNAswO=`,`DOPavvZ=`,`eVq22Z==`,`P9EA`,`HjhhiKv=`,`TMwv7e2=`,`qJkcSZu=`,`AeMFbc2=`,`3oFjWdm=`,`NjnR1X==`,`Up2=`,`eZ==`,`fOhn8YH=`,`+G+Ao+6=`,`RAl8+X==`,`vCiskAx=`,`Dkj=`,`UnODPyx=`,`rLLdx2H=`,`8BozuJZ=`,`q/NUj6n=`,`Wjq0OSx=`,`SWhdvuu=`,`E7pakv==`,`gvN+Uj6=`,`XT5n8XC=`,`hv==`,`VhvJz81=`,`I7aAY2x=`,`nldAtyE=`,`ni1=`,`i2Z=`,`+0m=`,`PyZF`,`Tq8F`,`U4ZOP3v=`,`dGu=`,`R5/55mj=`,`9QIw`,`Otj=`,`Xg/YfUX=`,`CNuLVe6=`,`h+v=`,`0GD/7TC=`,`8j2=`,`QnlG7e1=`,`F38V`,`xjMj`,`+3AdFXH=`,`tom=`,`42FLSFO=`,`zzHBZv==`,`/W/xQpx=`,`VPH32Ax=`,`Ip8XaZ==`,`VywP+eC=`,`bs/GzxX=`,`gCBc+FI=`,`fqRRlOv=`,`WZlh+ou=`,`SlCRLvn=`,`7RZ0Yz1=`,`czLR/on=`,`yimM+/C=`,`tv==`,`WYitjiE=`,`hgJMDAX=`,`6Ul1`,`M89Tv2H=`,`HmU1rC==`,`lPof`,`jUimgB2=`,`gDqtBKm=`,`NxLfvxu=`,`BrSJ2Z==`,`jV+p`,`g474`,`RpuyCPm=`,`/bjjTZ==`,`T0A0`,`IyQZWGZ=`,`wtFWiN6=`,`kUyB/R2=`,`EBm=`,`Pzl4Den=`,`RZ==`,`ogJG`,`SQ5r1v==`,`L9vmjDX=`,`C+7oX46=`,`1dC=`,`GvptM7C=`,`01XMAM2=`,`LoXz`,`oyvvxuu=`,`PawrL7H=`,`j7W9ucZ=`,`vK4DfxX=`,`IxH=`,`hK/sakO=`,`Ut1=`,`+fwYzv==`,`xOwZq5v=`,`mQhcNRC=`,`xV2=`,`mL2rfII=`,`0HcOjv==`,`RIYaWiI=`,`ZGyHlO6=`,`l37IvyC=`,`IeStzfu=`,`W7FV+ln=`,`v6ThEGm=`,`JkoSVXH=`,`XoG76I6=`,`1LX=`,`8/qfkA6=`,`wv==`,`lhfZjoI=`,`KD7U2Oj=`,`yk2=`,`mX==`,`adwMBRj=`,`ZYt8FSx=`,`7vSzUzI=`,`wn/TIcv=`,`aJEM3xX=`,`/C==`,`DwHed3C=`,`2FGKmx1=`,`lg62K9I=`,`5cI5t5C=`,`ZoTN5L2=`,`UOTpzpx=`,`egK44IX=`,`R8YyKfO=`,`XERgmT6=`,`AwfdqKH=`,`Mv==`,`1lWgZoE=`,`qyyOdQx=`,`zbgPajO=`,`+pJTqrv=`,`1mz2HZ==`,`HTLFVCH=`,`ohT3mC==`,`rXboSr6=`,`GPz1TZ==`,`VWcr`,`/pw3o+H=`,`+0qXO86=`,`Q55PCWj=`,`XeH=`,`uOrsSxm=`,`h9Jhch2=`,`Vo0C4+O=`,`JywMj1I=`,`IehHBV3tEM98jJk2pfzy+ebHFJwtpa5lzVsyIe6XnQugjJ38Eehtzam=`,`LmAS0eZ=`,`8vIfEjZ=`,`O6E=`,`k9E=`,`J6aOfFj=`,`DDlQhk1=`,`KpCaSjm=`,`gRkiP4v=`,`2LnaXv==`,`ov==`,`NGwruRj=`,`j+XxUeC=`,`NsMbgC==`,`c06=`,`Fcx=`,`FqiEHuu=`,`xQ1ppev=`,`PTUx`,`V2O=`,`MD4//DI=`,`uom7bFX=`,`MLQ6`,`jTqCHZ==`,`gOGH82j=`,`YpxZUNj=`,`ltO=`,`LiU9`,`AOSg`,`5l0kGPH=`,`DzU8H8n=`,`Fk+VeuI=`,`Hon9AZ==`,`UeUXRnu=`,`RWpYPtm=`,`dB7e8G2=`,`mKC=`,`Wee2SP1=`,`O9DEZ1I=`,`jX==`,`BM8ZM6v=`,`8dZ=`,`0lZwLTx=`,`5XfoYsH=`,`HNFL`,`sKbFsBm=`,`pr6Q8YH=`,`9WKKWLZ=`,`cReiwdE=`,`/RmKsGE=`,`cPLp+Ku=`,`9K/0zU6=`,`QhPyX3j=`,`bny+GTI=`,`3K/BPEO=`,`6VO=`,`37yGP+Z=`,`fM3xIjj=`,`0Lc9up2=`,`R7bq/n6=`,`09cH4lC=`,`VipWyB2=`,`jJ2LFm5ej0BtjC==`,`wUGpY0E=`,`NLGbpSO=`,`pD03liH=`,`N4GqBhm=`,`OWfE`,`M7IM701=`,`eZ+KLYC=`,`Tze2Nz6=`,`mqNv9v==`,`uLn=`,`daqSLv==`,`lsX=`,`0zeAOsu=`,`l3Ztu0Z=`,`8U0uSBO=`,`qLx=`,`+oTtadm=`,`FNw72U1=`,`WmO=`,`75gH8bu=`,`9gn5/fn=`,`iDMFsmx=`,`9C==`,`X3ufrcI=`,`21fNS0n=`,`RfKaxi2=`,`6sfzxqC=`,`y0IrH2H=`,`ydu=`,`pRT8hov=`,`UBRCqeI=`,`6GxR8MO=`,`U6q/oEZ=`,`HWIRzjE=`,`bYX=`,`yUu+QrO=`,`R/W6S/x=`,`r1chngH=`,`nAH=`,`GqN9O4E=`,`GfTU4C1=`,`UDXgwR1=`,`zbAdIRu=`,`4BrRcmu=`,`VHcKMTv=`,`+OBSiV2=`,`DfSM/1n=`,`Lm2dhZI=`,`YG1lsFv=`,`9Z==`,`12KyyAu=`,`MJhJtUZ=`,`IEjmvM6=`,`mrHPfsm=`,`ZeNra0Z=`,`nSv6Yo2=`,`F47Pqv==`,`R96=`,`ku15Xf6=`,`znUJbix=`,`hwi8aa1=`,`G5BeUYH=`,`q6SKmk2=`,`MHD67A6=`,`kTx98PZ=`,`9OaSMUZ=`,`rRE=`,`lYHR3Au=`,`2v==`,`hegdpZ==`,`12o917n=`,`CBSJil6=`,`AT1=`,`s+kuRX==`,`l/DJMh1=`,`lRCgYWO=`,`iQ/jYZ==`,`EnxIfmu=`,`sX==`,`3IX=`,`rv==`,`DwjGudn=`,`FnOUTO2=`,`ujINbC==`,`jUe7uJO=`,`CBQUBbH=`,`jPZFOun=`,`Cfky+e1r+MhYBC==`,`0zj=`,`7tjOJv==`,`kN41Ij6=`,`r2ab516=`,`jpEO`,`MI9P2sO=`,`BIcoQMX=`,`V2niJBu=`,`ztK2twu=`,`Vdle`,`XT7RTZ==`,`EhRsd9X=`,`tAyc6Rj=`,`TX==`,`prDRvg2=`,`/vGB`,`m2kqvf2=`,`Xlx=`,`r+2=`,`kxv=`,`rwlwzC==`,`vPO=`,`hJBZBXj=`,`8/mJ1sX=`,`gf1rX2m=`,`9rIjJv==`,`3fHfoh1=`,`5mgUEC==`,`Z73Iua6=`,`2GRRmXx=`,`5YGWLOO=`,`uyH=`,`XT6=`,`ulDc3SZ=`,`vVDzkWZ=`,`YZX5yZ==`,`wUDK3U6=`,`aj6=`,`pevW0tj=`,`2hKTHnX=`,`t87QaYZ=`,`/eHDNln=`,`DXxfEgC=`,`3GxCHkj=`,`vlKVb02=`,`2RKYao2=`,`98MVLK2=`,`McHA52H=`,`qZ==`,`jLpOC3Z=`,`QdLPJZ==`,`Bn8TaG1=`,`CnjrlmO=`,`XCkXj5H=`,`58CqQ66=`,`9SxzLBv=`,`Sp1/kIC=`,`k5Z2euO=`,`SmH=`,`lrv=`,`Pcq+cRZ=`,`tjXmQ9j=`,`5HEB912=`,`qouo3C2=`,`SIHBmij=`,`m3LEyuj=`,`0oi82EC=`,`a0PJeC6=`,`58BPVG6=`,`cdj=`,`9s2apOO=`,`hcJaE0E=`,`amv=`,`PsHj3mj=`,`mdgW`,`ZHFFVM1=`,`j9L/NO1=`,`Z2/CVC==`,`yT3Ib+Z=`,`VtarHSv=`,`2TMLnAO=`,`ZvlP0UZ=`,`IC==`,`9jj8`,`ALl/mNu=`,`aq0NLH6=`,`zWHNJ0m=`,`0EnwbxI=`,`Y32=`,`IiIQqXv=`,`kTafzTO=`,`q7kWXZ==`,`dvgjksu=`,`pt5/2e2=`,`TwU7pEv=`,`ap0LjvE=`,`5C2TYUx=`,`zC==`,`AMnZwZO=`,`OTKm4b2=`,`3dUXFTZ=`,`0RNOIC==`,`Cv==`,`Kl5Y`,`NUmdWjH=`,`YQn=`,`a01PQX==`,`zqNB2Vu=`,`152QaHC=`,`KEt4DGj=`,`mbfKVZ==`,`r2NrzOE=`,`gqZ=`,`a5nw1v==`,`jK5Pcxu=`,`eI08qUj=`,`Eu+eNM2=`,`X7rq`,`z6i51C==`,`BNNxUHE=`,`s4leBIO=`,`tMte`,`B+mM`,`xTjVPiO=`,`ZJrwgrm=`,`gFb2`,`4S/Y6AO=`,`qw3F`,`AKMk+X==`,`3B4tY3j=`,`2avt`,`4vtWbX==`,`BC==`,`i6cZ`,`u5LGs2j=`,`GFCP`,`i9sw`,`lYHjBcO=`,`37hWr91=`,`3X==`,`PpC=`,`kGapK1x=`,`uUv90qv=`,`+Qj=`,`+OH=`,`snUG3Z==`,`XSX=`,`Jv3G6v==`,`bw5zDsj=`,`IeStzfwd`,`NxhObtI=`,`q+aCQZ==`,`zck3wRZ=`,`K46bGB6=`,`x+O=`,`HFcJS6v=`,`TGDrFmC=`,`y6I3kZ==`,`Xoj=`,`s3OU6kE=`,`1dq/8cv=`,`E+jSvC==`,`POVcD4n=`,`RyKX4lX=`,`deDCQp2=`,`cH5Qe72=`,`XZvKnT2=`,`rLI=`,`4Xx=`,`4cZ2pEZ=`,`+aOqFo1=`,`/fnEOPI=`,`wnYjiuv=`,`KyEi9mm=`,`eCX=`,`T7A/9cj=`,`fcTi9CC=`,`4oGTLC==`,`teiTVe6=`,`a6Oks6n=`,`r91=`,`/PxQJGH=`,`XbpAA2m=`,`na89/Um=`,`7QQYSX6=`,`jZ==`,`45HmfZ==`,`0jTeaOu=`,`qX==`,`ZgfWlJI=`,`GAL0PpO=`,`dUnQ`,`bG0agnu=`,`EywAi1u=`,`omBe0fH=`,`jNzD`,`tw7Gmv==`,`pZgT`,`Tehsvqv=`,`RSqauiX=`,`vSHdw9x=`,`mBJV4C==`,`3UmVjv==`,`XC==`,`4Cd5gx1=`,`UFaDNDC=`,`e0gq2X==`,`gHpEXBx=`,`qzj=`,`dBDW`,`1UiSrJX=`,`90E=`,`JOzFLCH=`,`8bIaHA2=`,`BsNgPwj=`,`L6kWZw1=`,`ZP+Ew02=`,`SkebBgZ=`,`eBjPr0I=`,`M1JUEZ==`,`UPVbJSI=`,`TKuJm/H=`,`URvuXlZ=`,`O6mq4aO=`,`02MNG2j=`,`7dYtRqI=`,`2bw02Am=`,`PxWSeVx=`,`paZ4jQu=`,`dv==`,`2DWu4Z==`,`MC==`,`UIE5kZ==`,`lTaYiv==`,`2Uzx/2O=`,`bvCsrQX=`,`Yx491nE=`,`RqX=`,`OSNP0Z==`,`3QIEYYu=`,`+fwYzMbHIe5tzZ==`,`SYrLOF1=`,`7wvY`,`zY0Cz3m=`,`UhzGUnE=`,`y2n=`,`ux4wNp2=`,`hFW1572=`,`1TsuodZ=`,`xfYyxAu=`,`+HzdMe1=`,`BL48HGX=`,`AQm=`,`KjAPYNj=`,`hC==`,`Yr8fOJZ=`,`MR08eZ==`,`RznhwZ==`,`2I5k8X==`,`ecJ3rUx=`,`N6GQyf2=`,`fCBJR12=`,`l8K9/5n=`,`g56QcjI=`,`6wO6I3x=`,`5TA7V7v=`,`cEm5`,`nKcREGI=`,`XGR2`,`JO5OuC==`,`UJ1=`,`liz/kz1=`,`oqWyUCO=`,`QX1JyKj=`,`13JFvnX=`,`bzE=`,`rwN1GNx=`,`XeVO`,`7Ym=`,`qgnft2v=`,`LLwRVv==`,`zHRIQnm=`,`IGEQanZ=`,`GkZ6OvE=`,`ogu=`,`gaSKR7n=`,`rhrYGnZ=`,`f7xebZx=`,`7cYW`,`NVvJDoC=`,`EdCtdDE=`,`NIPOQDu=`,`i/aKqP1=`,`odP6a8E=`,`1ztdtzE=`,`AzdE9O6=`,`Yto20lI=`,`s1+sxTX=`,`p9swu3j=`,`RUX/rHx=`,`TN9smOn=`,`iLH3`,`+oH=`,`r2E3Ot1=`,`JIW5`,`aVKUaIu=`,`GlG1Yj1=`,`HJeGgY6=`,`tz1UhbI=`,`yln=`,`kDbg5dn=`,`waO7I5v=`,`t5OLrmE=`,`W+X6t1u=`,`Feu=`,`2rbJpNn=`,`gjdH`,`jFgni6n=`,`XBR9oZ==`,`2hvoL0Z=`,`qw6e`,`Znjy`,`glcRxm6=`,`Ii69`,`1t4Tnb2=`,`7J9V1WX=`,`12E7`,`ioINqDv=`,`mfk77Mx=`,`ILOw05Z=`,`au2XkU1=`,`+63wfNx=`,`1329JjC=`,`pbEa1Fx=`,`Ajuh2/2=`,`dMWFPZ==`,`Ya9BPZ==`,`y+ec8iX=`,`cC==`,`kC==`,`w4zX1RZ=`,`Xn9g3nI=`,`AHgxlZ==`,`Z+Oc1i1=`,`k0Z=`,`ZVpY`,`8ASAFGj=`,`EGxi`,`9ZiduDO=`,`65apRnx=`,`wiRsWcO=`,`zWgkt+I=`,`Zp3OvIu=`,`aCu=`,`HmV3VYE=`,`V6tgKNx=`,`gX==`,`CnYI`,`Ihb0NB1=`,`Edy0kb6=`,`4X==`,`UGnAJX==`,`nOX14rH=`,`8hJo`,`9LM9fqx=`,`CPfTq4C=`,`phUGLv==`,`A3U6MX==`,`HjgCCiO=`,`WGj3`,`w6U/Et2=`,`NGDD0Mx=`,`LCz9itZ=`,`3KCo`,`vFu30lj=`,`r5TYAmH=`,`ru/mTCI=`,`HvJF7AE=`,`JD2=`,`g4PyhC==`,`Saz4mv==`,`p3ZX1/X=`,`Bft7gRv=`,`CWA7Rkm=`,`e4kB9Z==`,`reOYEaO=`,`jpH81Z2=`,`OJ7W9WX=`,`nW0vkQH=`,`6U51agI=`,`uwrU+J6=`,`7AwGlUC=`,`d4CpDwO=`,`B9gmNX==`,`oKJ3bZ==`,`/mBmgnx=`,`8zUXC72=`,`0qDwUC==`,`kqNzVrx=`,`GC==`,`x2AXllH=`,`8lTnMIH=`,`89hgeA1=`,`I/LORdm=`,`V3TX`,`1BiMCC==`,`r/dU`,`ahCc`,`7LOxtv==`,`7pXblv==`,`+rI=`,`0SX=`,`bXTENCX=`,`L28Ohwm=`,`pfm=`,`fxj2jC==`,`PHXyToE=`,`ZIPXH4H=`,`0FrFBu6=`,`in08lq6=`,`QwlyMF1=`,`bj47XvX=`,`7vPzSuv=`,`ZZ==`,`Gp1HEjm=`,`hPSzy+2=`,`qPj+`,`Kh1gCgn=`,`MKBEFHX=`,`8BDfGZ2=`,`IT3WnoSEi5O0CX==`,`ZY0HE3Z=`,`yw2V`,`Ppvs5N2=`,`2wskseC=`,`QxylRC==`,`5iZx/nZ=`,`7cBPqC==`,`FJZ1MTI=`,`+6F+S6C=`,`2bCRQe6=`,`fV0MtQn=`,`u7kBa0j=`,`yTbA4gE=`,`BOx54q2=`,`yR0cr4C=`,`1LUp/Jv=`,`x9ux2Ax=`,`ESQXji2=`,`GHsOkeC=`,`scGZsqv=`,`WC==`,`AM3v8j6=`,`oYnYVXx=`,`f4tPeBH=`,`i6n=`,`BpgmtnE=`,`Ryi/`,`aGVp/GE=`,`N6Qc`,`OuAE`,`JTswL9u=`,`1QYU`,`6WbLvz2=`,`XNlH/Z==`,`/EQPi0X=`,`2IgcXXx=`,`7Ez03ej=`,`dYr53Yj=`,`b3klkmx=`,`q5A+jA1=`,`WrgDRkj=`,`0rQTx9v=`,`uowRDL1=`,`8Eu=`,`Vjah`,`7DoUCZ==`,`FHNbSi2=`,`O3k08+Z=`,`tPFGkqx=`,`rwH5C9Z=`,`9D9MeX==`,`S9u=`,`i+HCu4x=`,`Hnx=`,`mcnVMfZ=`,`I2GSlRv=`,`Zib6skE=`,`yhm=`,`Q4LXG6Z=`,`erxIkMH=`,`Ogm=`,`MhOwK86=`,`qPAU8II=`,`smTGCZ==`,`s+leUpu=`,`UkTXkjE=`,`YFQCqJI=`,`Om6RF7I=`,`ZVDXq6C=`,`Ylt7cZ==`,`nkVH+DX=`,`AxdoICO=`,`lxF6YHH=`,`+IJJ/E2=`,`o3MWuim=`,`F3WOFmZ=`,`hA7bZc6=`,`31yfCWH=`,`lR5iZLn=`,`cuFUioE=`,`es1fU1x=`,`bMYW`,`mC5v`,`LbDMfaZ=`,`1voksY6=`,`jTYYIX==`,`tVTt`,`Atv=`,`u5x=`,`Odn=`,`oF5hDZx=`,`VC3rGEm=`,`NDn+mSE=`,`chLESWH=`,`1X==`,`Poj3p4E=`,`cxpBZ3m=`,`+t4De1x=`,`7Jz+fNH=`,`DoVH3tj=`,`zy6=`,`b6U5idZ=`,`8ivE`,`GAl0xQ2=`,`K3yJfvI=`,`pKX=`,`aVLiwX==`,`kM4NcsX=`,`2b5C`,`1tH=`,`xbVk4Gv=`,`LI7xY/6=`,`hitKbVI=`,`uTXM`,`p9w7/fI=`,`aN35BMhl+g9ZjTS2+aYeBJU8Bf5r+gXPIehHBV3tEoxrEeSgjl35+eCP`,`xE8lP5X=`,`KsNDpJC=`,`Wvx=`,`NcGtYX==`,`ntmUd81=`,`Z6zImZ==`,`Jv==`,`HslotXO=`,`MXqBAYx=`,`5ymwq9m=`,`zumQzhn=`,`sNu=`,`TDuLiOx=`,`JkuM792=`,`KVj=`,`X1VqsZI=`,`WX==`,`O9bWKHI=`,`eSkVhi6=`,`/veLiZm=`,`KSpz/wZ=`,`ZwbWjov=`,`iSIJ5x6=`,`Jz+sCdv=`,`CdlFbPE=`,`Xv==`,`8mFm`,`j6H7PVI=`,`x+mG9Z==`,`TF8nLcX=`,`q41Wvg1=`,`C6ev4nx=`,`6esRtRZ=`,`mmJNg9E=`,`Icv/Vx2=`,`s3MNLdC=`,`g/jk/d2=`,`YA0zGYu=`,`xBn9Y+Z=`,`t5t4`,`nv9e+uC=`,`mC==`,`Y2DmDxm=`,`7tWk1v==`,`1iv=`,`TBwl24O=`,`ELqyDkm=`,`DAKAWCn=`,`oo0T9K1=`,`VywdzVC=`,`Jk6Tov==`,`fM79`,`/i3psX==`,`PcDOkC==`,`PnV+`,`YHSO`,`aPbcM3H=`,`/Hm=`,`LZ==`,`fDh9YC==`,`5KfKzQj=`,`CHJ1BHu=`,`ZmDZiXZ=`,`B+Rb7Hn=`,`d5/Uj+2=`,`U4+6Nl1=`,`ewQbrC==`,`aYBRUin=`,`SpSiuX==`,`ctu=`,`Z8FB0/E=`,`ecm2JV6=`,`aX0gncO=`,`J08LH9j=`,`Z+w3dC==`,`oK1WGyH=`,`n8hdIl9LjVnXFfhlzQvKpC==`,`3hCWh/2=`,`3dRnpg6=`,`xCKu`,`b49NpCZ=`,`7LAUPrn=`,`aWrHbex=`,`em2O8zm=`,`R7nhoVZ=`,`P7H=`,`8WzSAln=`,`znoAOSI=`,`ZbdMFx1=`,`mqwJ`,`2z/b`,`FZAig+I=`,`B6RMiX==`,`GFXwV2H=`,`/xbmzCI=`,`iPFUWTm=`,`Z5DW`,``,`ajMkC+x=`,`M/Iv3e2=`,`AEbaPC==`,`Ke7GTZ==`,`G9iRuzE=`,`/thK`,`6JvHAo1=`,`xRPfs91=`,`lZ==`,`VdhD4Y1=`,`fWyZQwu=`,`YKNmVBv=`,`Iwo7Dz2=`,`HLfVyC==`,`wCk1SX==`,`MbGV`,`C9r7WYx=`,`lNYUwOE=`,`E5E1OoZ=`,`9vluJC==`,`p31=`,`1MlamQm=`,`tj37fHv=`,`yp6plxj=`,`YpARmhn=`,`IYBtdRu=`,`VZ==`,`ZWu=`,`KMpvjUm=`,`dsk1vCn=`,`0rrTXBx=`,`JBxG5Mn=`,`iNZ=`,`Cj2Yn81=`,`PlarpX==`,`fejDpKH=`,`XFlqbh1=`,`ZTnnOI2=`,`t+m=`,`t7kbAyv=`,`KNPF2bZ=`,`5LOouIu=`,`sa2HCyZ=`,`jt0JCgj=`,`HZ==`,`xlOSq+x=`,`TiVvynI=`,`i/v=`,`cv==`,`maRGWo1=`,`20Fg`,`AXEjf7m=`,`GmD73C==`,`TqGrGZj=`,`VU9FoOj=`,`7cOcJIH=`,`wz2S7bu=`,`46lKL8Z=`,`lrmWwgm=`,`SN6LxBn=`,`3R970xH=`,`2Okklv==`,`VF6=`,`ikbW8sn=`,`E82=`,`mFB/G41=`,`6h1=`,`Iok69QC=`,`OcyhXmm=`,`gPRURIv=`,`Yv==`,`ocw4lC==`,`9dt9ExH=`,`jwlWdq1=`,`5TdVMun=`,`cePxiN1=`,`oGOIStm=`,`08JfhC==`,`Wvgd`,`fAkwc5u=`,`ldRxgv==`,`mgI44Jv=`,`xIVSAtE=`,`q6f81Om=`,`kIKk7HH=`,`oRUwIwO=`,`A4O=`,`nsZvQgj=`,`nPRnrpu=`,`ifdg`,`EX==`,`FLv=`,`CuiL`,`NUd7GWE=`,`5SsjyC==`,`+6v++v==`,`ymp9Y9u=`,`yS/K6G2=`,`rsom/v==`,`UX==`,`shkU8ku=`,`AIs1CZ==`,`c6Soinn=`,`2a6=`,`33b/QZ==`,`f3L87sZ=`,`aCffdX==`,`ZNqeHZ==`,`4gX5zaOP4X==`,`PCx=`,`Iv==`,`k2u=`,`Cywh`,`z319wQx=`,`iW56w+6=`,`C2rAlYE=`,`FNYOmGn=`,`P/2hD7E=`,`CRrB8Bm=`,`Dfe8de6=`,`LABfgix=`,`cwlkemm=`,`KGn=`,`5ubNMkC=`,`AOPJX31=`,`Rv==`,`pAqLda1=`,`/eDR3xX=`,`FZ2tayn=`,`f8X/yC==`,`Yaalz8H=`,`OT4tmnj=`,`Y+PtZFZ=`,`wWsxxrn=`,`hsFhUX==`,`bOPN66C=`,`jXfLAjn=`,`HC==`,`LvzWwjj=`,`bnqMian=`,`0xjVapE=`,`sZVC0Sv=`,`eL5urgX=`,`U7FmMaI=`,`VQSEfZ==`,`+cFP4X==`,`Zk9IjLm=`,`OXhPmX==`,`4v==`,`/U6=`,`1NfRId1=`,`QZSHIHZ=`,`9pBM4XI=`,`/v1rqMu=`,`4hC=`,`ypdSRbZ=`,`JNWZ/ZZ=`,`+X3y/z2=`,`6T8WNX==`,`49v=`,`yNkylrZ=`,`EFIgGRH=`,`15m=`,`yoUwoQX=`,`0RFTDX==`,`r1NG066=`,`BXahjin=`,`42JhMfv=`,`KLWHpkE=`,`uhXEufn=`,`iuVVFuH=`,`9SGWCxm=`,`KML0OR6=`,`GxjD95C=`,`63f1ggO=`,`1cdntqC=`,`6dif`,`QQ9dzJwLEfxX+fwHEC==`,`QO2=`,`9YOzYbC=`,`RXKtWCx=`,`X4bOULO=`,`HuZ=`,`NL/XVv==`,`XF7SHen=`,`Lp9shZ==`,`3hj=`,`S5DOpsE=`,`QI4Dqdv=`,`OqKnJnj=`,`W3jdYsv=`,`n5V/l06=`,`t0wN8G2=`,`OnK2401=`,`BUPwvQn=`,`Hzjgbkx=`,`gLU233X=`,`QzP+`,`vLJfQuZ=`,`G26r`,`XMQ5kpE=`,`r6n9mwv=`,`LjWWP+u=`,`PMIUXAZ=`,`oPQCtk2=`,`DIz36+n=`,`gBJf`,`nZ==`,`uoOxVjE=`,`9CE=`,`riAljv==`,`eBm=`,`uZNhfC==`,`QKC=`,`MduTydE=`,`T1x5hav=`,`EQpbq4u=`,`tSk2ov==`,`8zUV`,`sPjWkXv=`,`s5m3iux=`,`mKISOpI=`,`Da1uGKx=`,`kgeiGX==`,`xeuWgRI=`,`YY9kRdC=`,`NHyOCxx=`,`+x+B68j=`,`xyMp`,`rItAuEn=`,`pwC=`,`BQZ4Yo2=`,`PIj1`,`/HJVzCn=`,`n3lHENO=`,`ok8o5PC=`,`9IiV`,`aX==`,`ipUqeRZ=`,`OgCX0OZ=`,`lfQX`,`l7rU1C==`,`6+J4UZ==`,`x2MvfgE=`,`ZphuwlE=`,`sQE=`,`3S0f4yu=`,`h8v=`,`wVR8ddO=`,`8RAGD3O=`,`Z6hFXPC=`,`LUC=`,`p7GpBIO=`,`Dv==`,`s0a0QWu=`,`Iz6=`,`szb08FC=`,`fdnkuLZ=`,`gc7V+81=`,`aqaQ`,`rX==`,`QILSFUn=`,`x7SAFuC=`,`cqC3IYm=`,`+iP5Rv==`,`VoZlOv==`,`Fw3ukeC=`,`Fv==`,`zZO=`,`OIwsLYZ=`,`/FE=`,`7tVJwtj=`,`zekr+LE=`,`EQ+WtBO=`,`QHI=`,`/XL12x6=`,`bC==`,`EaZ=`,`irC=`,`mgCH/Z==`,`4Vdv`,`eQK7kLm=`,`Yq0lRX==`,`KflkZKn=`,`Vm7nAFX=`,`Uv==`,`CQ8GsfE=`,`Wg06Fam=`,`zW/0itm=`,`H7oX`,`GX==`,`ZdJM`,`CZhdPX==`,`g9q9qsC=`,`gKAXYtX=`,`CEIHnZ==`,`SkSCQtO=`,`ilN7/rX=`,`BGm2`,`WU3oFv==`,`JsHNw7X=`,`0RkkqDx=`,`TBy45en=`,`YgolwV1=`,`qzuZ`,`Fcm=`,`RutLQ2x=`,`BK0CJ52=`,`+OCa4sX=`,`HRK3DXj=`,`k6j=`,`9ivCb6I=`,`f66LUAu=`,`zVX=`,`Nr4QPSE=`,`2cc+SXZ=`,`5cqw`,`2LjJnJn=`,`sdOXvC==`,`6gj=`,`ngm/MZ==`,`8ppNQxZ=`,`5gNb`,`zXg/PF2=`,`72cn`,`BsqkMS6=`,`NsDu`,`K11sPC==`,`yWoxB0n=`,`RKiNiv==`,`WvH=`,`mYqv`,`LzWWZNH=`,`83il3SO=`,`Lapylv==`,`bzQURLC=`,`iqN+`,`XESB9WI=`,`1fSQ6pH=`,`JYCNcv==`,`kAWZWZx=`,`InnMdO1=`,`IO6=`,`WMFDAZu=`,`I2Z=`,`pFX=`,`OTY6jX==`,`CY8URQX=`,`JojI`,`ho/xPp2=`,`OmskoJO=`,`CASFZvO=`,`484A`,`vSPm5cv=`,`dVK1/9x=`,`g1Wcp4C=`,`MODdoPZ=`,`3P17JAC=`,`b5XDwPX=`,`bj2=`,`cSiLfoC=`,`HaBnR3E=`,`1hH4Stx=`,`N1280FI=`,`xBGTZvX=`,`hJBRfaC=`,`eFFQjKC=`,`/8m=`,`s8OQT0X=`,`m89JscX=`,`AT6PvfZ=`,`4pzfA/x=`,`jVsYjeZ=`,`nPv=`,`3C==`,`6ZZmk9E=`,`IGkd`,`PeGU2I6=`,`7kZWZHx=`,`jV/WagC=`,`KhBorv6=`,`vFfD`,`0VxWcgn=`,`3TxC2C==`,`BXfXu8O=`,`QVC6+cu=`,`bMosIbC=`,`BNUAhxX=`,`W1Lyhmn=`,`UwA15pj=`,`jH/UCpu=`,`LDvQanm=`,`nHZrWtH=`,`d7j0Tc6=`,`uwf165C=`,`gv==`,`DLn=`,`j+K0Aix=`,`TC==`,`1AcM`,`37VgZFm=`,`qvTDlku=`,`pfBkfgH=`,`kvTm6KX=`,`sB2WvtX=`,`9D/vK61=`,`6sU2`,`yIbo0am=`,`JChD2MO=`,`ScMWK01=`,`/bDYi3v=`,`E229`,`PHj5iIX=`,`yuH=`,`9XYOac1=`,`jym=`,`36chzJO=`,`2mfnFpC=`,`0C==`,`XI67qoE=`,`aDT6o4C=`,`c1I=`,`8xthGHZ=`,`n5QqRII=`,`H0X=`,`tj3CHAZ=`,`XZ==`,`rz9B`,`121u7bj=`,`LDZAVX==`,`Ohg51aO=`,`5gMWjv==`,`4aRIIlI=`,`qDk4W66=`,`6mitajO=`,`8cKUzOx=`,`4C==`,`RC==`,`rvgzVX==`,`tEb04cH=`,`8lgjWVx=`,`ybSBMC==`,`hmvPut1=`,`ikUpov==`,`LCPOvmv=`,`Woi9Bex=`,`e3BdtC==`,`sy+bcAj=`,`fQoFbM1=`,`Pk8G`,`nMBbcAX=`,`5CsBDxC=`,`6LLZ`,`BdhwYYI=`,`/0G/wX==`,`HGkJvgv=`,`sRt3`,`9FGv14Z=`,`ADbXlwZ=`,`H5pdi5v=`,`maUl9X==`,`k19NbtZ=`,`+RROrYj=`,`dsa4kL1=`,`rfsg`,`FC==`,`5VdTxZ==`,`wHt+GNZ=`,`EHShNjv=`,`nRC8`,`zHHTj2x=`,`MxX7`,`JYApz8u=`,`VEH=`,`0YMwGeI=`,`IeZHb151FHSobNSsBoB9`,`kGm5fMx=`,`m7RP`,`Z+r6Gd1=`,`iaFgaUn=`,`hTgVCIX=`,`9Esh2zu=`,`xx8/KdO=`,`BJUZjJbW`,`amu=`,`QPO=`,`uSeYKHX=`,`NGD20kZ=`,`qHBvgv==`,`vJgVBgC=`,`t+9+qC1=`,`ihEM+3I=`,`erx4mX==`,`h9eZenu=`,`f1H9WAn=`,`MSeTN4n=`,`eP9LV8u=`,`ctE4HAu=`,`PlB/+X==`,`8kNjn0H=`,`bgMXMmX=`,`zA9af+X=`,`nX==`,`95m5PVn=`,`NqJjpUX=`,`XkAkFBx=`,`bDiG`,`ACEk0Z==`,`y2G99XX=`,`PbVAJZm=`,`bShRnqH=`,`1qXFs8H=`,`Sox=`,`gW3wYWv=`,`0sC=`,`tIBG6N6=`,`rGtObxH=`,`kLYwgTC=`,`4rbImCx=`,`xNn=`,`zGYsj1Z=`,`RP1=`,`sk3lEhO=`,`gzjCQSE=`,`HiI=`,`Xa6=`,`Y/C=`,`gGjVBLv=`,`jurtPC==`,`Ny/RmYn=`,`7Gm//kZ=`,`NZqZOX==`,`wC==`,`6utLuk6=`,`itYH2vE=`,`Oic8AuE=`,`2Bf96Kx=`,`6U6=`,`RtK6zVj=`,`QFCsuxI=`,`0DVVwX==`,`FZ==`,`bbzNleI=`,`oSiu3Z==`,`4RZ=`,`kdUcApE=`,`OgMUvCE=`,`ieyazC==`,`Kz/gdX==`,`nVeP`,`iMwFgNv=`,`YJk8dNn=`,`8uqVUXn=`,`mY2uCqx=`,`0+0RdIH=`,`Ms3+psH=`,`+z6Pvy2=`,`V8HL6eZ=`,`zTyYBfbO`,`L3tfbv==`,`fxNumv==`,`WEMKtjI=`,`fWzAmjO=`,`6ndq5DX=`,`iCzYhXO=`,`onH=`,`+fht`,`YMA3UYu=`,`qjDxdj2=`,`uq3XHH1=`,`PlSUlCm=`,`CdvPQKn=`,`JAWr5xZ=`,`P7cKyeH=`,`wMoyifH=`,`Zxv=`,`JwD8wX==`,`D1MUNRn=`,`nsmR+C==`,`MOiU6WX=`,`zmjLwCv=`,`tMv=`,`KGNMKp6=`,`d3Npks2=`,`e5gXJh1=`,`KwJYg42=`,`YRwACDE=`,`/5TRvqu=`,`4gfTWR6=`,`A5u9S86=`,`kKW2KZ==`,`Os+VDZ==`,`Cbe4djI=`,`r+KGD5H=`,`68nGLC==`,`9DghMsZ=`,`cHJO5gE=`,`jOoScrI=`,`akRE49u=`,`Igxixlj=`,`r1+s`,`kINHZ46=`,`NZv+VXC=`,`7S6pUAj=`,`lv==`,`H1Nb3lm=`,`pX==`,`g96JdHC=`,`uNeXP1H=`,`o/UCgRO=`,`X6wyZeC=`,`qi94CZ==`,`ImsG`,`F61qSdx=`,`wfzqigI=`,`DTum9Vx=`,`njC=`,`uv==`,`VEFlW+C=`,`40T+ge2=`,`666L1C==`,`400G`,`8lI8Y8Z=`,`65mX/Jn=`,`Dzdlx7H=`,`qMlU`,`zypmNpm=`,`Vv==`,`jdpHbgX=`,`WdgKf8u=`,`ic09kqE=`,`1MU9pMx=`,`SSyy4aE=`,`oGH=`,`3jxWUK6=`,`ijO=`,`rS31PL6=`,`VcUSz+6=`,`4keq`,`7HGzYjI=`,`SERsRZZ=`,`/KHZJLI=`,`HGYD/m2=`,`ZX==`,`gEgj/A6=`,`qdpYluE=`,`ToHRoy2=`,`3601iX==`,`bX==`,`nk4888v=`,`iPE=`,`ut1AvEv=`,`ajnD7Z==`,`2X2bk0x=`,`oBJbnPv=`,`jaDt1YX=`,`UlHKvm6=`,`RoOohfZ=`,`591=`,`XTRuyC==`,`4bj=`,`idf+VTE=`,`+5bpXZ==`,`jx4iXHC=`,`9r7A`,`jZo1BX==`,`g+9SYZ==`,`HDpuuRj=`,`5z9asxu=`,`l7MfvC==`,`kqBs0R2=`,`UAmEhZv=`,`6aisEEm=`,`e8r8iRv=`,`Aj5J5gj=`,`j5ZEuC==`,`LnHx`,`g8x5`,`VkImNhO=`,`awweM36=`,`V7IHMEx=`,`5v==`,`qHU19+O=`,`Yi5ypLX=`,`xnZ3yVx=`,`9qRfgqx=`,`PvfRozH=`,`Lb3X3Wj=`,`6Ohb`,`Jh0g`,`8bQdpxv=`,`y8Wz`,`PoUNlzE=`,`fG1=`,`tRmO9PZ=`,`DdJXJMu=`,`HoNHm+O=`,`Wxi5/fI=`,`FeS9/C==`,`abxzWtu=`,`CX==`,`Vj+3`,`zzH=`,`6gGihuu=`,`kxPXBIZ=`,`ZOdcyFx=`,`uKWkNv==`,`aGhupC==`,`Zv==`,`8s/fhiI=`,`jwM6Asv=`,`/2MIzC==`,`nRavQfm=`,`Kin=`,`nMkg8su=`,`uoY4kCm=`,`uA+ANh1=`,`kX==`,`pibEiLO=`,`VKJX532=`,`U6fyKh6=`,`0xxRyv==`,`MteFe9m=`,`WHZ=`,`9tiShQv=`,`JYrMIVX=`,`pk7chZ==`,`z9wrddv=`,`oXr0tx2=`,`34I=`,`hsZRXum=`,`64u=`,`RHdi5wv=`,`o2DTS86=`,`4rSjOZ==`,`o4GQ4Uu=`,`GRVMiDm=`,`M4O=`,`IRNuQhv=`,`lbT33ux=`,`gMf1kFO=`,`1+lB9N6=`,`MbqsVgv=`,`zkSFLkn=`,`XX==`,`366KuZ==`,`gwldt86=`,`7pE=`,`v0LYl6E=`,`BQcVxC==`,`rlejzX==`,`64+RxqE=`,`FdbhZov=`,`PV3wTTX=`,`CKRvIQj=`,`Ua4V99O=`,`kHHmVKH=`,`s8uLxv==`,`MeDD`,`Rhhp9i6=`,`ofm=`,`7KZ=`,`nv==`,`t3DwTDj=`,`gqobc4x=`,`BZ64F7u=`,`ew1pVLn=`,`iAgAJv==`,`XvQVJv==`,`jfvjCHv=`,`UMH=`,`CDUhgBH=`,`qo46Ze2=`,`fXNrpZ==`,`S4bFe9Z=`,`QSY5h03lQZ==`,`I+uzFfO=`,`KyFJm1C=`,`45D1pE2=`,`Utfr/NE=`,`nC==`,`vLX=`,`mw8aP/O=`,`KOvZpZ==`,`ocSXTpx=`,`w9SU0Z==`,`X7DcvX==`,`JX83Jv==`,`FfNrtX==`,`JjXfE7X=`,`NbCuyiO=`,`j20NHEj=`,`XAj=`,`CZ==`,`ujA2eLH=`,`Z56IvMO=`,`kflrgzx=`,`N9ia5CE=`,`hr7GNNv=`,`RwP6hb2=`,`qHeAN2x=`,`DGzwZ4m=`,`samJkB2=`,`f8oxqMm=`,`7tWmLb2=`,`3mFc5ZE=`,`PJEzm0m=`,`QMu=`,`AX==`,`lJEMVzx=`,`pyH1GXH=`,`jIc0+Hj=`,`NC8Z`,`MFyX/ex=`,`jN5HzC==`,`d5rC`,`av==`,`2wbIJOu=`,`wav=`,`JjRxHz6=`,`rJpumHE=`,`/62=`,`4laSXj1=`,`UherQjE=`,`dbAwXX==`,`o/dIZjn=`,`sK+Vp31=`,`93X=`,`frkEtC==`,`tzqG`,`WItG`,`ulhO`,`Geqnb+m=`,`Lj/BRIZ=`,`lU0zTLI=`,`IByA9fx=`,`wyKTY+6=`,`867pRZ==`,`14k+QX==`,`87GICaH=`,`HHzAf/v=`,`4BR6`,`1S3mNRv=`,`P7t2/HZ=`,`Z/ozuC==`,`AJ77`,`/Q5mvgH=`,`W1IeBt2=`,`JZ==`,`fzWfvYO=`,`zZYXrdZ=`,`IZFMRPj=`,`1qGoAen=`,`Orv=`,`jTwtjTSH`,`5Z==`,`sYw+hKn=`,`0Yu38iI=`,`wofMBIO=`,`VtcV`,`OBTL6nn=`,`UZ==`,`/RsbIk6=`,`ex7b6Ex=`,`Tprt8Jn=`,`EbzJmL6=`,`iaKo0Z==`,`/dj=`,`LaE=`,`MmTTJ7X=`,`WSzxav==`,`M4QZ+ZX=`,`KRLDvVI=`,`4L2KZB2=`,`9j7Rooj=`,`i+vZCNv=`,`V01Mjx2=`,`DWue`,`ImW7qBH=`,`zOaPLyX=`,`DHVEUR2=`,`GjgZ7M6=`,`Na625XO=`,`e6LLuF2=`,`dd/jbRH=`,`quiHKLn=`,`13Og0FX=`,`a2cfeSE=`,`HaYzshZ=`,`won=`,`XIyqZg1=`,`i/KfBuX=`,`5ms6Ccu=`,`e0IYKUO=`,`wvwFFSO=`,`GADfTeI=`,`6Tx=`,`kewenuE=`,`+C==`}for v,T in ipairs{{1,1979},{1,1977},{1978,1979}}do while(T)[1]<(T)[2]do(P)[(T)[1] ],(P)[(T)[2] ],(T)[1],(T)[2]=(P)[(T)[2] ],(P)[(T)[1] ],(T)[1]+1,(T)[2]-1 end end local function l(v)return(P)[v-20259]end do local v,T,t,l,j,E,c,Y,M=table.concat,table.insert,{j=24,p=10,Q=18,n=12,b=13,x=4,R=59,o=3,[`1`]=20,z=25,G=62,[`2`]=44,s=17,[`0`]=51,V=23,[`+`]=27,C=16,h=21,N=39,r=47,g=34,B=29,F=26,Z=48,e=38,[`9`]=1,W=43,y=53,J=22,[`3`]=9,T=54,I=28,[`/`]=63,[`4`]=14,D=11,u=60,A=42,f=6,q=31,m=36,a=2,O=40,w=61,v=0,d=45,[`7`]=15,i=30,S=5,P=41,l=50,L=55,[`5`]=37,[`6`]=56,M=7,E=8,k=49,Y=33,[`8`]=35,X=32,H=52,c=19,U=57,K=58,t=46},P,string.sub,string.char,type,math.floor,string.len for P=1,#l,1 do local n=(l)[P]if c(n)==`string`then local c,d,u,L,e=M(n),{},1,0,0 while u<=c do local v=j(n,u,u)local P=(t)[v]if P then L=L+P*64^(3-e)e=e+1 if e==4 then e=0 local v,t,P=Y(L/65536),Y((L%65536)/256),L%256 T(d,E(v,t,P))L=0 end elseif v==`=`then T(d,E(Y(L/65536)))if u>=c or j(n,u+1,u+1)~=`=`then T(d,E(Y((L%65536)/256)))end break end u=u+1 end(l)[P]=v(d)end end end do local v=true pcall(function()((getgenv()))[l(21316)]=function()end end)local T,t,P=(string)[l(21896)],function()error(l(21515))end,false local j,E,c,Y=pcall(function()P=true end)and P,(math)[l(20842)],(table)[l(22192)],table and(table)[l(21821)]or unpack local M,n,d,u=E(3,65),0,0,{pcall(function()local v=3776222-l(22113)^9501606 return l(21813)/v end)}local L=(u)[2]local e=tonumber((T(tostring(L),l(21446)))())for t=1,M,1 do local P,j=(math)[l(20842)](1,100),E(0,255)local c,u,m=E(1,P),E(1,2)==1,L:gsub(l(21446),l(21053)..(tostring(E(0,10000))..l(21053)))local O={pcall(function()if E(1,2)==1 or t==M then local t=tonumber((T(tostring((({pcall(function()local v=16494938-l(20604)^2129545 return l(21123)/v end)}))[2]),l(21446)))())v=v and e==t end if u then error(m,0)end local n={}for v=1,P,1 do(n)[v]=E(0,255)end(n)[c]=j return Y(n)end)}if u then v=v and((O)[1]==false and(O)[2]==m)else v=v and(O)[1]n=(n+(O)[c+1])%256 d=(d+j)%256 end end local m=loadstring or load or((getfenv(print)))[l(20486)]or((getfenv(print)))[l(20933)]if not m then local v,T=pcall(function()return require(l(20692))end)m=T and(T)[l(20486)]end local O=true if m then local v,t=tonumber((T(tostring((({(m(l(20542)))()}))[2]),l(21446)))()),tonumber((T(tostring((({(m(l(21239)))()}))[2]),l(21446)))())O=v~=t end v=v and(n==d and O)local C=not v and t()if v then else repeat return(function()while true do l1,l2=l2,l1 t()end end)()until true while true do l2=E(1,6)if l2>2 then l2=tostring(l1)else l1=l2 end end return end end local t,T,v=function(v)local T,t=(v)[#v],l(21337)for P=1,#T,1 do t=t..(T)[(v)[P] ]end return t end do local P,j,E,c,Y,M,n,d,u,L=(math)[l(21610)],(math)[t{2,1,{l(22236),l(20495)}}],(table)[t{1,2,{l(20383),l(20790)}}],(string)[l(21209)],0,2,{},{},0,{}for v=1,256,1 do(L)[v]=v end repeat local v=j(1,#L)local T=E(L,v);(d)[T]=c(T-1)until#L==0 local e={}local function m()if#e==0 then Y=(Y*45+6433335035455)%35184372088832 repeat M=(M*41)%257 until M~=1 local v=M%32 local T=(P(Y/2^(13-(M-v)/32))%4294967296)/2^v local j=P((T%1)*4294967296)+P(T)local E=j%65536 local c,n=(j-E)/65536,E%256 local d,u=(E-n)/256,c%256 local L=(c-u)/256 e={n,d,u,L}end return(table)[t{2,1,{l(20790),l(20383)}}](e)end local O={}T=setmetatable({},{[t{1,2,{l(20440),l(21651)}}]=O,[t{1,2,3,{l(21289),l(21710),l(20790)}}]=false})function v(T,t)local P=O if(P)[t]then else e={}local v=d Y=t%35184372088832 M=t%255+2 local j=(string)[l(21904)](T);(P)[t]=l(21337)local E=7 for j=1,j,1 do E=(((string)[l(22152)](T,j)+m())+E)%256(P)[t]=(P)[t]..(v)[E+1]end end return t end end return(function(P,E,c,Y,M,n,d,m,O,r,e,f,z,U,G,j,g,L,w,u,A,C,y,...)y,U,g,L,O,e,f,G,C,m,r,w,u,z,j,A=function(v,T,...)local t=O(T)local P=function(P,...)return j(v,{P},T,t)end return P end,function(v,T,...)local t=O(T)local P=function(P,l,E,c,Y,...)return j(v,{P,l,E,c,Y},T,t)end return P end,function(v,T,...)local t=O(T)local P=function(P,l,E,...)return j(v,{P,l,E},T,t)end return P end,{},function(P,...)for v=1,#P,1 do(L)[(P)[v] ]=1+(L)[(P)[v] ]end if c then local j=c(true)local E=M(j);(E)[(T)[v(t{1,2,{l(21138),l(20537)}},17309878993191)] ],(E)[(T)[v(l(21878),10959246010817)] ],(E)[(T)[v(l(20368),23452973984017)] ]=P,C,function(...)return 984599 end return j else return Y({},{[(T)[v(l(20363),17155666006901)] ]=C,[(T)[v(t{2,1,{l(21447),l(20986)}},9699435371954)] ]=P,[(T)[v(l(20650),6613274787634)] ]=function(...)return 984599 end})end end,function(...)m=1+m;(L)[m]=1 return m end,function(v,T,...)local t=O(T)local P=function(P,l,E,c,Y,M,...)return j(v,{P,l,E,c,Y,M},T,t)end return P end,function(v,...)(L)[v]=(L)[v]-1 if(L)[v]==0 then(L)[v],(u)[v]=nil,nil end end,function(v,...)local T,t=1,(v)[1]while t do(L)[t],T=(L)[t]-1,T+1 if(L)[t]==0 then(L)[t],(u)[t]=nil,nil end t=(v)[T]end end,0,function(v,T,...)local t=O(T)local P=function(...)return j(v,{...},T,t)end return P end,function(v,T,...)local t=O(T)local P=function(P,l,...)return j(v,{P,l},T,t)end return P end,{},function(v,T,...)local t=O(T)local P=function(P,l,E,c,...)return j(v,{P,l,E,c},T,t)end return P end,function(j,c,Y,M,...)local d,DV,fV,IV,WV,oV,VV,N,zV,R,CV,X,GV,ck,jV,a,yV,dk,O,QV,OV,L,m,LV,uV,JV,B,TV,I,MV,eV,jk,Pk,F,gV,h,Z,mV,tV,FV,K,D,iV,x,wV,BV,S,qV,sV,nk,H,xV,EV,dV,V,KV,Mk,b,Q,nV,cV,Tk,k,o,lV,p,vk,aV,Yk,AV,rV,q,pV,C,UV,s,Ek,PV,kV,tk,vV,J,lk,W,RV,r,HV,hV,i,YV,ZV,SV,NV,XV,bV while j do if j<8348205 then if j<4894667 then if j<2216968 then if j<907116 then if j<322955 then if j<116710 then if j<65789 then if j<50317 then if j<3836 then r=nil j=4649221 C=nil else j=r and 8979482 or 8602957 s=r C=m end else p=(T)[v(t{1,2,{l(21625),l(21155)}},12008334011167)]Q=(T)[v(l(20820),32631819898101)]j=15051208 Q=(r)[Q]Q=Q(r,p)o=Q end else if j<109911 then if j<81120 then p=(T)[v(l(20528),4967557903110)]s=false(u)[o]=s Q=(P)[p]p=(T)[v(l(21969),15468204503325)]k=g(335628,{o})q=(Q)[p]p=2 j=8244119 Q=q(p,k)Q=(u)[o]q=not Q else lV=420 PV=(u)[vV]TV=(PV)[lV]PV=(T)[v(l(21733),658018574546)]W=TV~=PV j=W and 3772801 or 8167629 end else j=true(u)[(Y)[1] ]=j d={}j=(P)[(T)[v(t{2,3,1,{l(21432),l(20865),l(21731)}},2321251552053)] ]end end else if j<264752 then if j<193648 then if j<169517 then I=(u)[C]j=I and 7859639 or 10884104 else L=(c)[1]j=L m=j;(u)[(Y)[1] ]=j O=(u)[(Y)[2] ]d=O j=O and 5580459 or 1077610 end else d=(u)[(Y)[5] ]j=d and 5789992 or 6018376 end else if j<284700 then j=7536742 else Q=(T)[v(l(22007),23899029945942)]q=(s)[Q]j=6083236 Q=(T)[v(l(21226),18411214304429)]o=q~=Q I=o end end end else if j<598853 then if j<434656 then if j<382569 then if j<334963 then d=(u)[(Y)[1] ]L=(T)[v(l(21039),26711770163945)]j=(d)[L]j=j and 12229780 or 15023921 else j=true(u)[(Y)[1] ]=j j=(P)[(T)[v(t{2,3,1,{l(20530),l(21474),l(21262)}},8013639076054)] ]d={}end else Q=(T)[v(l(21677),21149384784289)]q=(s)[Q]Q=(T)[v(l(21050),8351091735826)]o=q~=Q j=899705 I=o end else if j<540175 then j=L and 5170484 or 2662664 else I=(u)[(Y)[2] ]Q=(T)[v(l(21985),17603161651980)]j=(T)[v(l(20660),10313889072813)];(s)[j]=I q=(P)[Q]j=(T)[v(t{2,1,{l(20564),l(21576)}},14481577287621)]Q=(T)[v(t{1,2,{l(20474),l(21802)}},25162665249609)]o=(q)[Q]q=(T)[v(t{2,1,{l(21459),l(21567)}},13890413704779)]I=(o)[q];(s)[j]=I j=9813539 end end else if j<895175 then if j<879780 then if j<661885 then j=(T)[v(t{2,3,1,{l(21656),l(22177),l(21725)}},26971222632807)]d=(T)[v(t{1,3,2,{l(21763),l(20710),l(20480)}},19855631450361)]j=(m)[j]j=j(m,d)j=j and 1530789 or 7363352 else dV=true d={O}(u)[C]=dV j=(P)[(T)[v(t{2,3,1,{l(20833),l(22025),l(20760)}},9144287270564)] ]end else j=(u)[(Y)[3] ]j=j and 13447106 or 6229455 end else if j<899086 then j=s and 883073 or 7433595 else j=I and 10844396 or 4044047 end end end end else if j<1677293 then if j<1332114 then if j<941707 then if j<936050 then if j<927091 then N=g(8152666,{a})S=(T)[v(t{1,2,{l(21216),l(21929)}},17462567576665)]V=(P)[S]S=(T)[v(t{3,2,1,{l(21486),l(20800),l(21980)}},22169903360914)]b=(T)[v(t{2,1,{l(21794),l(21434)}},29137537340806)]S=(V)[S]S=S(V)V=(P)[b]F=(u)[a]i=#S J={F(i)}F=(T)[v(t{2,1,{l(21744),l(20605)}},13947203533196)]b=V(E(J))V=(P)[F]J=(u)[a]H=#S i={J(H)}F=V(E(i))i=j V=N(S)H=b~=F j=H and 12576504 or 13723230 J=H else j=7701115 end else d={O}j=(P)[(T)[v(t{2,3,1,{l(20743),l(21659),l(20621)}},14629625678757)] ]end else if j<968763 then if j<957315 then j=d and 8892358 or 6350111 else N=j K=(T)[v(t{1,2,{l(20910),l(21281)}},21097438570403)]B=(P)[K]j=B and 11015990 or 5043967 a=B end else j=m j=d and 9257267 or 3102341 end end else if j<1560646 then if j<1535502 then if j<1517975 then L=(c)[1]j=L O=(T)[v(t{2,1,{l(20962),l(20312)}},4209183967179)];(u)[(Y)[1] ]=j m=(u)[(Y)[2] ]d=(m)[O]j=d and 483337 or 1637096 else d=(T)[v(t{1,2,3,{l(21143),l(21661),l(21811)}},31227475287985)]j=(m)[d]d=(T)[v(t{1,2,{l(20789),l(21971)}},22338868089742)]d=(j)[d]d=d(j)j=7363352 end else r=(T)[v(t{6,15,12,5,8,2,16,4,9,3,14,17,7,11,10,1,13,{l(22178),l(21321),l(21479),l(22207),l(21259),l(20534),l(20343),l(20769),l(21717),l(22214),l(21999),l(21889),l(20478),l(21584),l(21634),l(20679),l(21872)}},30713224283048)]m=(T)[v(t{1,2,{l(21952),l(20873)}},17075128940523)]d=(P)[m]m=d()d=(T)[v(t{3,1,2,{l(21462),l(22049),l(21868)}},11750497924888)]O=true(m)[d]=O m=(T)[v(t{2,1,{l(20963),l(21621)}},5344131445475)]s=(T)[v(t{1,2,{l(20563),l(20671)}},16678526672855)]d=(P)[m]m=d()d=(T)[v(t{3,2,1,{l(21884),l(21846),l(20900)}},16033813397183)]O=false(m)[d]=O C=(T)[v(l(21086),12792799355908)]O=(T)[v(t{1,3,2,{l(21313),l(20703),l(21335)}},6246218104236)]m=(T)[v(t{2,1,{l(20867),l(22017)}},15213420911079)]d=(P)[m]m=d()d=(T)[v(t{4,3,5,2,1,{l(21598),l(20598),l(21703),l(20827),l(20797)}},32851801322070)];(m)[d]=O m=(T)[v(t{1,2,{l(20761),l(21064)}},21704349763242)]d=(P)[m]O=(P)[C]s=(O)[s]C={s(O,r)}m=d(E(C))d=m()j=11815672 end else if j<1609837 then j=12485532 else j=(P)[(T)[v(t{2,1,3,{l(20567),l(21088),l(20623)}},9382414960826)] ]d={}L=nil end end end else if j<2082821 then if j<2064082 then if j<1888537 then if j<1809005 then r=(T)[v(l(21714),26678679534566)]j=(P)[(T)[v(t{2,1,3,{l(20575),l(21412),l(20455)}},28291090792751)] ]C=(T)[v(l(21337),31714074907968)]O=(C)[r]C=O(m);(u)[(Y)[3] ]+=C O=(u)[(Y)[4] ]d={O}else m=(T)[v(t{1,2,{l(21042),l(20930)}},3265397223518)]d=(P)[m]O=false m=d()d=(T)[v(t{1,3,2,{l(20882),l(20387),l(21070)}},34555807172764)];(m)[d]=O j=11815672 end else C=(T)[v(l(21779),15648500854733)]m=(c)[2]j=1(u)[(Y)[1] ]+=j O=(P)[C]L=(c)[1]C=O(m)O=(T)[v(t{1,2,{l(21504),l(21774)}},19001295360011)]d=C==O j=d and 7599588 or 16766018 end else if j<2068454 then j=5568529 r=nil s=nil else m,r=O(L,m)j=m and 16068189 or 14545909 end end else if j<2161417 then if j<2150291 then if j<2093894 then j=943545 m=(T)[v(t{2,1,3,{l(20846),l(20876),l(20361)}},11487370223583)]m=(L)[m]O=(T)[v(t{4,3,2,1,{l(21628),l(21120),l(21067),l(20425)}},35072235626278)]m=m(L,O)d=m else O=(T)[v(t{2,1,{l(21169),l(20296)}},23966281565387)]m=(u)[(Y)[1] ]L=(m)[O]j=L and 15292330 or 15728186 d=L end else C=(T)[v(t{1,2,{l(21729),l(21665)}},12985035409830)]O=(u)[(Y)[2] ]d=(O)[C]j=d and 10223957 or 6116119 end else if j<2203172 then j=5485683 d=(u)[(Y)[7] ]r=(u)[(Y)[2] ]s=(T)[v(t{2,1,{l(20694),l(20946)}},18048927092707)]C=(r)[s]O=d(C)else d={h}j=(P)[(T)[v(t{1,2,3,{l(20311),l(20893),l(20471)}},695986922317)] ]end end end end end else if j<3549534 then if j<2957418 then if j<2789395 then if j<2547483 then if j<2515550 then if j<2497007 then d={}L=nil j=(P)[(T)[v(t{3,2,1,{l(20713),l(20736),l(21819)}},15846238492794)] ]else L=(c)[1]j=(u)[(Y)[1] ]d=j(L)j=(P)[(T)[v(t{1,3,2,{l(21359),l(21429),l(21454)}},26005797918855)] ]L=nil d={}end else o=(T)[v(t{2,1,3,{l(22173),l(20339),l(20452)}},18167563554900)]j=(T)[v(l(21438),34461809025985)]X=(T)[v(l(21485),10113254058899)]I=(P)[o]o=(T)[v(l(22153),4405269003279)]Q=(T)[v(t{1,2,{l(21185),l(20523)}},34666267628848)]s=(I)[o]q=(P)[Q]Q=(T)[v(t{1,2,{l(22008),l(22206)}},8818340721931)]o=(q)[Q]k=(P)[X]X=k()k=5 p=X%k k=5 Q=p/k p=1 k=1 q={o(Q,p,k)}I=s(E(q));(r)[j]=I j=10894668 end else if j<2698156 then if j<2665009 then d=(u)[(Y)[4] ]j=d and 11122414 or 5272809 else k=R j=h j=3377998 end else L=(c)[1]j=L d={}(u)[(Y)[1] ]=j L=nil j=(P)[(T)[v(t{2,1,3,{l(21200),l(20754),l(20678)}},6583650898624)] ]end end else if j<2873682 then if j<2861727 then if j<2820134 then d=(T)[v(t{4,2,3,1,{l(20922),l(20771),l(21553),l(21761)}},28079348134343)]j=(T)[v(t{2,3,1,{l(21037),l(20869),l(21590)}},22032435003509)]L=(c)[1]j=(L)[j]s=2 j=j(L,d)o=0 O=(T)[v(t{1,2,{l(20848),l(20265)}},22144098512201)]m=j j=(u)[(Y)[1] ]d=j(L)d=(P)[O]O=(T)[v(l(21152),33621392278732)]j=(d)[O]O=(T)[v(t{1,2,{l(21995),l(22080)}},8432654138282)]d=j(O)j=(T)[v(l(21866),15213730312338)]O=d d=(T)[v(t{2,3,1,{l(21919),l(21015),l(20875)}},34459518352188)];(O)[j]=d r=(T)[v(t{2,1,{l(21376),l(20496)}},30998832868036)]C=(P)[r]j=(T)[v(t{2,1,{l(20464),l(20916)}},19621387429435)]I=0 r=(T)[v(l(21232),32788110752075)]d=(C)[r]r=0 C=d(r,s,I);(O)[j]=C j=(T)[v(t{1,2,{l(21208),l(20278)}},28030690302792)]d=m;(O)[j]=d C=(T)[v(t{2,1,{l(21963),l(21967)}},32638660079005)]d=(P)[C]C=(T)[v(l(22027),5450201057948)]j=(d)[C]C=(T)[v(t{2,1,{l(21096),l(21122)}},2099841152747)]d=j(C)C=d s=(T)[v(t{2,1,{l(21615),l(21681)}},16580000869991)]k=1 j=(T)[v(l(21102),21358665854231)]I=-2 d=(T)[v(t{1,3,2,{l(21026),l(21608),l(20619)}},15773776861266)];(C)[j]=d j=(T)[v(t{1,2,{l(21581),l(21976)}},33289120415956)]r=(P)[s]Q=(T)[v(t{1,5,3,2,4,{l(21746),l(21834),l(21688),l(20968),l(20316)}},20222009440220)]s=(T)[v(l(20890),12675363792119)]d=(r)[s]s=0 r=d(s,I,o);(C)[j]=r d=m j=(T)[v(t{2,1,{l(21942),l(20477)}},26112732511906)];(C)[j]=d r=(T)[v(t{2,1,{l(21237),l(21960)}},295201204928)]d=(P)[r]r=(T)[v(l(21343),6283434434453)]j=(d)[r]r=(T)[v(l(21935),918498587572)]d=j(r)r=d j=(T)[v(t{3,1,2,{l(20467),l(22100),l(21327)}},18289393857022)]d=O;(r)[j]=d j=(T)[v(t{3,1,2,{l(20287),l(21386),l(20747)}},16226094398714)]d=C;(r)[j]=d d=(u)[(Y)[2] ]j=(T)[v(t{1,2,{l(21837),l(21013)}},15731810333893)];(r)[j]=d I=(T)[v(t{2,1,3,{l(21937),l(20680),l(21784)}},18516366937481)]j=(T)[v(t{2,1,3,{l(22170),l(21851),l(20421)}},32701169975721)]s=(P)[I]I=(T)[v(l(21574),34062433008546)]d=(s)[I]q=(P)[Q]Q=(T)[v(l(20994),20863428433981)]o=(q)[Q]Q=0 p=(u)[(Y)[3] ]q=o(Q,p)p=(T)[v(t{3,5,2,1,4,{l(21939),l(21025),l(21465),l(21583),l(20319)}},15423202105163)]Q=(P)[p]p=(T)[v(l(21627),34501922059312)]o=(Q)[p]m=nil p=1 Q={o(p,k)}I={q,E(Q)}s=d(I)I=(T)[v(t{1,2,3,{l(20350),l(22231),l(20268)}},1124014134854)];(r)[j]=s j=(T)[v(l(21619),19580206232687)]s=(P)[I]I=(T)[v(l(20288),23489456152359)]d=(s)[I]I=(u)[(Y)[4] ]s=d(I)d=0.7(r)[j]=s j=(T)[v(t{3,2,1,{l(20888),l(21484),l(21320)}},25749293204005)];(r)[j]=d d=true j=(T)[v(t{1,2,{l(20622),l(21903)}},1387699640265)];(r)[j]=d j=(T)[v(t{1,2,{l(21354),l(21281)}},20995388509569)]d=L;(r)[j]=d d=r j=(u)[(Y)[5] ]C=nil r=nil(j)[L]=d L=nil j=(P)[(T)[v(t{1,3,2,{l(21043),l(22125),l(22094)}},4458132569095)] ]d={}O=nil else B=nil Z=G(Z)h=nil vV=G(vV)V=nil K=nil TV=true F=nil D=G(D)i=nil o=G(o)Q=G(Q)N=nil b=nil I=G(I)m=TV R=nil k=nil J=nil S=nil a=G(a)H=G(H)j=117280 end else j=C d=O j=1077610 end else if j<2955355 then o=(T)[v(t{1,2,{l(22091),l(20776)}},11112594094574)]I=(T)[v(l(20902),9067335297)]I=(r)[I]C=m I=I(r,o)s=I j=I and 15494034 or 898623 else j=5048563 end end end else if j<3274205 then if j<3152728 then if j<3097124 then if j<2975170 then j=true(u)[(Y)[1] ]=j j=13234418 else d={}j=(P)[(T)[v(t{3,2,1,{l(21157),l(21349),l(22062)}},21873347285430)] ]end else j=(P)[(T)[v(t{1,2,3,{l(20400),l(20510),l(20583)}},83984273824)] ]d={}L=nil end else if j<3252844 then r=not C L=L+O d=L<=m d=r and d r=L>=m r=C and r d=r or d r=16475957 j=d and r d=16220379 j=j or d else dV=lV~=jV j=13572554 EV=dV end end else if j<3386489 then if j<3356540 then if j<3325369 then L=(T)[v(t{2,1,{l(20799),l(21912)}},14715429746297)]d=(P)[L]L=(T)[v(t{3,1,2,{l(20473),l(21743),l(20465)}},1491675065854)]j=(d)[L]L=(u)[(Y)[1] ]d=j(L)j=true(u)[(Y)[2] ]=j j=(P)[(T)[v(t{2,3,1,{l(21187),l(21493),l(21569)}},13921447692245)] ]d={}else j=1637096 end else j=Z j=k and 9124457 or 9830043 end else if j<3438786 then j=6010211 else j=(P)[(T)[v(t{1,2,3,{l(22220),l(22024),l(21585)}},17176811531591)] ]d={}L=nil end end end end else if j<4048827 then if j<3884901 then if j<3796314 then if j<3761930 then if j<3575418 then Z=1 X=k(Z)j=9789165 X=k()else o=(T)[v(t{2,3,1,{l(20431),l(21287),l(20390)}},6975166104963)]I=(P)[o]j=(T)[v(l(21501),6987984520619)]o=(T)[v(l(20796),16120396878382)]s=(I)[o]o=(u)[(Y)[6] ]I=s(o);(r)[j]=I j=10894668 end else j=(P)[(T)[v(t{1,3,2,{l(20469),l(21857),l(22216)}},24017606489972)] ]d={O}W=true(u)[C]=W end else if j<3874424 then if j<3839149 then r=(T)[v(t{5,7,4,1,6,3,2,{l(21272),l(20775),l(20351),l(20284),l(22202),l(20308),l(22155)}},24222956396709)]q=4483362458 j=(u)[(Y)[1] ]d=j()I=3 s=(T)[v(t{1,2,{l(21732),l(21066)}},25733479137478)]j=(u)[(Y)[2] ]m=(T)[v(l(21271),1613203371165)]O=(T)[v(t{2,3,4,1,{l(20286),l(21282),l(22097),l(21422)}},6847254730699)]d=(T)[v(t{2,1,{l(20627),l(20497)}},25415448182229)]d=(j)[d]C=(T)[v(t{2,1,{l(21242),l(21899)}},17353513224496)]o=(T)[v(l(20596),24430601298507)]L={[m]=O,[C]=r,[s]=I,[o]=q}d=d(j,L)j=(P)[(T)[v(t{1,2,3,{l(20517),l(20665),l(21352)}},8658180634395)] ]d={}else I=nil j=1 s=C m+=j s=nil j=10076051 end else j=(u)[(Y)[1] ]d={j()}d={E(d)}j=(P)[(T)[v(t{2,3,1,{l(20823),l(20732),l(22089)}},19563787296018)] ]end end else if j<4011520 then if j<3978706 then if j<3945715 then C=(T)[v(t{2,1,{l(20861),l(21126)}},13994725977358)]d=(T)[v(t{2,1,{l(21045),l(20868)}},25800647216290)]m=(T)[v(l(22095),20319599901151)]j=(P)[d]O=(T)[v(t{20,23,26,4,18,19,11,3,2,21,12,25,9,14,15,1,16,24,10,5,13,27,6,7,17,22,8,{l(20595),l(20577),l(21943),l(21797),l(22033),l(22021),l(21984),l(21290),l(21057),l(21510),l(20975),l(22222),l(21410),l(22041),l(22032),l(21539),l(21755),l(21810),l(20412),l(21170),l(22110),l(21948),l(20589),l(20857),l(21953),l(21171),l(22076)}},10301515802770)]L=(P)[m]C=(L)[C]m={C(L,O)}d=j(E(m))j=d()j=true(u)[(Y)[1] ]=j j=3086588 else j=(u)[(Y)[4] ]d=j(L)j=7053826 end else C=nil r=nil j=2079436 end else if j<4036084 then d=(T)[v(l(21356),7248060237856)]j=(P)[d]O=(u)[(Y)[1] ]C={j(O)}j=2079436 L=(C)[2]m=(C)[3]d=(C)[1]O=d else j=5580796 s=nil r=nil end end end else if j<4599442 then if j<4541407 then if j<4348644 then if j<4253877 then d={h}j=(P)[(T)[v(t{1,2,3,{l(21816),l(21375),l(21097)}},6626622506162)] ]else Z=j h=(T)[v(l(22072),33679744280290)]R=(P)[h]j=R and 3377998 or 10149560 k=R end else d={h}j=(P)[(T)[v(t{2,3,1,{l(20662),l(20645),l(21974)}},28607109222050)] ]end else if j<4593779 then r=O j=r and 9541524 or 8290597 I=r else L=(c)[1]j=L;(u)[(Y)[1] ]=j j=L and 1549075 or 1848848 end end else if j<4670028 then if j<4646532 then if j<4608815 then d={}j=true(u)[(Y)[1] ]=j j=(P)[(T)[v(t{2,1,3,{l(22057),l(21302),l(20844)}},34988583681974)] ]else j=14163822 end else m,r=O(L,m)j=m and 33572 or 13685871 end else if j<4818948 then d=1 L=100 j=15334491 m=L L=1 O=L L=0 C=O<L L=d-O else j=(T)[v(t{1,3,2,{l(21611),l(20483),l(21820)}},12351186354372)]s=(u)[(Y)[3] ];(r)[j]=s j=(u)[(Y)[4] ]j=j and 6432576 or 11057365 end end end end end end else if j<6343620 then if j<5736464 then if j<5417072 then if j<5174308 then if j<5047381 then if j<5042854 then if j<5041106 then W=(T)[v(t{1,2,{l(22221),l(20411)}},10101119399839)]i=(T)[v(l(21445),18668472840458)]H=(T)[v(l(22065),11794657194229)]j=11005056 D=(T)[v(t{2,1,{l(22227),l(21595)}},5220367867788)]J={i,H,W,D}H=1 i=0 W=#J D=W W=1 vV=W W=0 TV=vV<W W=H-vV else m=(T)[v(l(22111),32172360547300)]d=(P)[m]L=(c)[1]m=(T)[v(l(20454),27153347936458)]j=(d)[m]m=0.5 d=j(m)j=(u)[(Y)[1] ]j=j and 8733552 or 6379814 end else K=(T)[v(l(21341),13827111975184)]B=(P)[K]a=B j=11015990 end else if j<5166320 then if j<5061582 then PV=nil H=nil j=11005056 else o=j Q=(T)[v(t{2,1,{l(21736),l(20739)}},7922893915078)]q=(r)[Q]I=q j=q and 8349985 or 5196710 end else d=(u)[(Y)[3] ]C=(u)[(Y)[2] ]r=(T)[v(t{2,1,{l(21340),l(21003)}},10590612785218)]O=(C)[r]m=d(O)d=(u)[(Y)[4] ]j=d and 8337932 or 12214848 end end else if j<5360324 then if j<5247281 then if j<5202484 then j=o j=13190301 s=I else p=true j=6246908(u)[C]=p end else I=(T)[v(t{1,2,{l(21413),l(20463)}},24241349543243)]O=(u)[(Y)[7] ]j=3348832 s=(u)[(Y)[2] ]r=(s)[I]C=O(r)end else if j<5400864 then j=(u)[(Y)[1] ]L=(c)[1]r=(T)[v(t{2,3,1,{l(20879),l(21398),l(20357)}},11957774831028)]d={}(j)[L]=d d=(T)[v(l(20482),3971644932706)]j=(P)[d]r=(L)[r]C={r(L)}r={j(E(C))}j=5580796 O=(r)[3]m=(r)[2]d=(r)[1]C=d else j=PV j=TV and 936631 or 2860082 end end end else if j<5579772 then if j<5522607 then if j<5487135 then if j<5478415 then L=nil j=15023921 else d=(u)[(Y)[4] ]j=d and 12747389 or 14590382 end else j=(P)[(T)[v(t{2,3,1,{l(22150),l(21270),l(20359)}},28723266735672)] ]d={O}end else if j<5565480 then O=true j=O and 9934460 or 6287911 else O,s=C(m,O)j=O and 4569336 or 7962623 end end else if j<5673519 then if j<5583896 then if j<5580720 then C=j s=(u)[(Y)[3] ]r=not s j=r and 16443869 or 2862408 O=r else O,s=C(m,O)j=O and 5772146 or 3463371 end else b=(T)[v(l(20325),31427226617490)]h=(T)[v(t{7,1,5,6,2,4,3,{l(22134),l(21142),l(22004),l(20562),l(21431),l(21342),l(21048)}},15439559020938)]N=z(8304776,{})K=(T)[v(t{2,1,{l(21629),l(20294)}},28349073099126)]V=(T)[v(t{2,1,{l(20826),l(21421)}},9606877234615)]a=e();(u)[a]=N B=(P)[K]K=(T)[v(l(21168),5381026702017)]N=(B)[K]K=(T)[v(l(20728),28842853143958)]B=N(K)S=(T)[v(l(22045),27840410107274)]K=(P)[V]V=(T)[v(l(21150),10205619479900)]N=(K)[V]V=(T)[v(l(21836),23828617224199)]K=N(V)V=(B)[S]S=(K)[b]N=V~=S j=N and 6384773 or 8128608 end else if j<5706280 then m=(T)[v(l(21098),32477326856006)]d=(P)[m]m=(T)[v(t{1,2,{l(21257),l(21597)}},22246852196969)]j=(d)[m]C=(T)[v(t{1,2,{l(20376),l(21092)}},17940200859746)]d=(T)[v(t{1,2,{l(20651),l(21441)}},4332224099044)]O=(P)[C]C=(T)[v(t{1,2,{l(20943),l(21606)}},10124512815229)]r=5 m=(O)[C]C=5 s=5 O=m(C,r,s);(j)[d]=O m=(T)[v(l(20821),1561791046586)]C=(T)[v(t{1,2,{l(20727),l(21545)}},20824517505381)]d=(P)[m]m=(T)[v(t{1,2,{l(21456),l(21016)}},22198705795547)]j=(d)[m]O=(P)[C]s=0 d=(T)[v(t{1,3,2,4,{l(20822),l(21278),l(20653),l(22234)}},31050310558832)]C=(T)[v(t{2,1,{l(20568),l(20862)}},30109528273808)]m=(O)[C]r=0 C=0 O=m(C,r,s);(j)[d]=O m=(T)[v(l(21579),11812622046732)]d=(P)[m]C=(T)[v(t{1,2,{l(22161),l(21437)}},185810650236)]r=10 s=10 m=(T)[v(t{2,1,{l(21291),l(21250)}},27465145262709)]j=(d)[m]d=(T)[v(t{1,3,2,{l(21477),l(21035),l(21741)}},28643691617104)]O=(P)[C]C=(T)[v(t{1,2,{l(20758),l(21370)}},25764020969049)]m=(O)[C]C=10 O=m(C,r,s);(j)[d]=O j=5426054 else d=(T)[v(l(20606),10846386722052)]j=(P)[d]r=(u)[(Y)[1] ]C=(r)[L]r={j(C)}j=5568529 d=(r)[1]O=(r)[3]m=(r)[2]C=d end end end end else if j<6107610 then if j<5996669 then if j<5868499 then if j<5790128 then if j<5778184 then r=O q=(T)[v(t{1,2,{l(21847),l(21950)}},7516343384681)]o=(T)[v(l(21737),11282219783847)]o=(s)[o]o=o(s,q)j=o and 414765 or 899705 I=o else O=(T)[v(t{2,1,{l(22028),l(21069)}},24281693356937)]d=(u)[(Y)[5] ]O=(d)[O]O=O(d)j=6018376 d=nil(u)[(Y)[5] ]=d end else L=(c)[1]d=(u)[(Y)[1] ]j=(d)[L]j=j and 9171720 or 9799911 end else if j<5938985 then if j<5902431 then r=(T)[v(t{1,2,{l(20841),l(21756)}},2497837648753)]j=(u)[(Y)[1] ]C=(T)[v(t{1,2,{l(20444),l(20878)}},20138275175015)]d=(T)[v(t{2,1,{l(22038),l(20550)}},32350425008880)]O=(u)[(Y)[1] ]x=1 m=(O)[C]C=(P)[r]Q=0 X=0.65 p=0 s=0 r=(T)[v(l(21887),1313314878274)]I=0 O=(C)[r]q=0 r=0 o=1 Z=(u)[(Y)[2] ]k=X+Z Z=0 R=0 X=0 C=O(r,s,I,o,q,Q,p,k,X,Z,R,x)L=m*C;(j)[d]=L d={}j=(P)[(T)[v(t{2,3,1,{l(20945),l(21178),l(20634)}},14562760063066)] ]else d=true(u)[(Y)[1] ]=d j=14163822 end else L=(c)[1]j=L;(u)[(Y)[1] ]=j j=L and 8902884 or 233517 end end else if j<6054678 then if j<6018678 then if j<6017354 then k=true j=k and 3425003 or 7875080 else C=(T)[v(t{2,1,{l(21212),l(21407)}},32167416073148)]r=nil j=8939193 O=(P)[C]C=O()O=(T)[v(t{2,3,1,{l(21046),l(21478),l(20957)}},19608985317150)];(C)[O]=r end else d=1 L=100 m=L L=1 O=L L=0 j=13005466 C=O<L L=d-O end else if j<6082046 then j=true(u)[(Y)[1] ]=j d=g(3882774,{(Y)[2]})j=(P)[(T)[v(t{2,3,1,{l(20304),l(21093),l(21146)}},27896684042819)] ]d={d}else j=I and 571523 or 9813539 end end end else if j<6238458 then if j<6149853 then if j<6135856 then if j<6119552 then d=(u)[(Y)[4] ]j=d and 16388868 or 9462286 else j=o j=I and 9815501 or 14439513 end else j=2295449 end else if j<6188157 then m=(T)[v(l(21004),29389452649026)]d=(P)[m]O=A(4685009,{})m=d(O)j=m and 4644181 or 5936406 else s=(u)[(Y)[4] ]j=(T)[v(l(20958),18947240348268)];(r)[j]=s j=13930494 end end else if j<6291899 then if j<6284580 then if j<6245194 then d=(u)[(Y)[3] ]C=(u)[(Y)[2] ]r=(T)[v(t{2,1,{l(20491),l(21700)}},16590980968181)]O=(C)[r]m=d(O)d=(u)[(Y)[4] ]j=d and 16410596 or 9227721 else k=z(16118542,{C})x=(T)[v(l(20472),5358515954407)]h=2 R=(P)[x]x=(T)[v(t{1,2,{l(21000),l(20832)}},6436082708956)]Z=(R)[x]x=1 R=Z(x,h)Z=1 X=R==Z j=X and 3556708 or 9237930 end else j=1793444 end else if j<6326260 then j=(T)[v(l(20354),21691516707753)]o=(T)[v(l(21507),24996969791678)]I=(s)[o];(r)[j]=I o=(T)[v(t{2,1,{l(21009),l(21149)}},23763439098980)]j=(T)[v(t{1,2,{l(20987),l(20609)}},30583637689525)]I=(s)[o];(r)[j]=I j=2065110 else j=13892966 end end end end end else if j<7461439 then if j<6862922 then if j<6433223 then if j<6378270 then if j<6360236 then if j<6348734 then C=(u)[(Y)[2] ]r=(T)[v(t{2,1,{l(21029),l(21301)}},34136781749280)]O=(C)[r]j=11381719 d=O else d={}j=(P)[(T)[v(t{1,2,3,{l(21136),l(20845),l(21914)}},24018953082952)] ]L=nil end else m=(T)[v(l(20565),2812575846409)]L=(P)[m]m=(T)[v(t{1,2,{l(21034),l(21336)}},28480138717325)]d=(L)[m]L=(T)[v(t{3,4,2,1,5,{l(21498),l(21800),l(20892),l(20260),l(21775)}},29132533836609)]m=(T)[v(l(20461),23658568370319)]L=(d)[L]L=L(d,m)j=not L j=j and 15971740 or 13862402 end else if j<6430717 then if j<6381528 then j=(u)[(Y)[3] ]j=j and 3972307 or 7053826 else j=(P)[(T)[v(t{1,3,2,{l(21234),l(21028),l(20531)}},23392539140479)] ]d={h}end else p=(T)[v(l(21637),12122392626579)]o=(T)[v(t{2,1,{l(21116),l(20267)}},34729417672236)]I=(P)[o]j=(T)[v(l(21526),18173620762895)]o=(T)[v(t{1,2,{l(21828),l(20417)}},28610812848527)]s=(I)[o]Q=(P)[p]p=Q()Q=5 q=p%Q Q=5 o=q/Q Q=1 q=1 I=s(o,q,Q);(r)[j]=I j=10684645 end end else if j<6606717 then if j<6575787 then if j<6527912 then d={}L=nil j=(P)[(T)[v(t{3,1,2,{l(21655),l(21205),l(20602)}},15124578101955)] ]else d=L j=L and 2092714 or 943545 end else j=Z R=(u)[Q]Z=k(R)k=not m j=k and 4348625 or 9519370 end else if j<6636883 then EV=0 jV=(u)[D]j=5407440 lV=jV==EV TV=lV else L=(c)[1]j=L m=j d=L;(u)[(Y)[1] ]=j j=L and 6347762 or 11381719 end end end else if j<7309837 then if j<7070692 then if j<7048490 then if j<6905901 then o=(T)[v(l(21416),19587976723559)]o=(s)[o]r=O q=(T)[v(t{1,2,{l(21624),l(20384)}},33789067375988)]o=o(s,q)j=o and 314084 or 6083236 I=o else d=(u)[(Y)[3] ]O=(T)[v(t{2,1,{l(21233),l(22023)}},2396645298873)]O=(d)[O]O=O(d)d=nil j=6137651(u)[(Y)[3] ]=d end else j=(u)[(Y)[5] ]j=j and 10168385 or 11433372 end else if j<7191813 then j=(P)[(T)[v(t{1,3,2,{l(20324),l(21719),l(21079)}},13244177568805)] ]L=nil d={}else j=(T)[v(t{2,1,{l(21570),l(20273)}},19279872814765)]s=(T)[v(t{1,9,3,2,6,4,7,8,5,{l(21160),l(20672),l(21832),l(22139),l(22193),l(20488),l(20669),l(22188),l(21715)}},5387466873434)];(r)[j]=s j=(T)[v(t{2,1,{l(20810),l(20740)}},15127816436192)]s=(T)[v(t{1,7,6,9,2,4,8,5,3,{l(20859),l(20618),l(21764),l(22127),l(21994),l(21538),l(20637),l(21894),l(21541)}},16083380783548)];(r)[j]=s j=(T)[v(t{1,2,{l(21888),l(21618)}},11403742858014)]s=(T)[v(t{2,9,6,7,4,1,3,5,8,{l(21716),l(21383),l(20549),l(21405),l(21760),l(20853),l(20547),l(21803),l(21679)}},22735987734535)];(r)[j]=s s=(T)[v(t{7,9,5,1,4,3,6,8,2,{l(21582),l(21256),l(21061),l(21055),l(21172),l(20285),l(21635),l(21571),l(22211)}},6356267592604)]j=(T)[v(t{2,1,{l(21153),l(21305)}},24907842856549)];(r)[j]=s j=(T)[v(t{2,1,{l(22179),l(21638)}},8872912482359)]s=(T)[v(t{7,1,2,6,9,5,4,3,8,{l(21793),l(21873),l(20476),l(21017),l(20573),l(21833),l(21601),l(20685),l(20913)}},1129501951805)];(r)[j]=s j=(T)[v(t{1,2,{l(21161),l(21119)}},29348111454938)]s=(T)[v(t{4,6,8,7,2,9,5,3,1,{l(20896),l(21849),l(21905),l(20447),l(22042),l(21675),l(20607),l(22203),l(21513)}},2810778528030)];(r)[j]=s j=12679639 end end else if j<7438366 then if j<7420241 then if j<7345454 then L=(T)[v(l(20889),28607939576712)]d=(P)[L]L=(T)[v(l(21752),34436997481339)]j=(d)[L]L=(u)[(Y)[1] ]d=j(L)j=true(u)[(Y)[2] ]=j j=(P)[(T)[v(t{1,2,3,{l(21095),l(20544),l(20395)}},15966462328396)] ]d={}else m=nil j=6350111 end else j=12946132 C=nil r=nil end else if j<7459588 then C=(u)[(Y)[2] ]r=(T)[v(t{2,1,{l(20372),l(21081)}},7304429447457)]j=15714136 O=(C)[r]d=O else d=(T)[v(l(21012),4381328939776)]j=(P)[d]O=(u)[(Y)[1] ]C={j(O)}d=(C)[1]j=4649221 L=(C)[2]O=d m=(C)[3]end end end end else if j<7951714 then if j<7673036 then if j<7508740 then if j<7491195 then if j<7462004 then m=(T)[v(t{2,1,{l(21107),l(21838)}},14436048095072)]d=(P)[m]s=(T)[v(t{1,2,{l(22223),l(20643)}},9217789346129)]O=true m=d()d=(T)[v(t{2,3,1,{l(21163),l(20885),l(22073)}},27968994753492)];(m)[d]=O m=(T)[v(t{1,2,{l(21926),l(21882)}},23599552948919)]d=(P)[m]m=d()O=false C=(T)[v(l(21415),30163129392462)]d=(T)[v(t{1,2,3,{l(22063),l(21367),l(22123)}},2578361571755)];(m)[d]=O m=(T)[v(t{1,2,{l(21217),l(22156)}},21486769913879)]d=(P)[m]O=(T)[v(t{2,3,1,{l(21667),l(21865),l(20347)}},174998212797)]j=10662072 m=d()d=(T)[v(t{4,3,5,2,1,{l(21032),l(21186),l(21133),l(21927),l(21936)}},7959519623341)]r=(T)[v(t{5,13,8,4,11,2,16,9,3,7,12,14,1,10,6,17,15,{l(21900),l(21453),l(22160),l(21476),l(21220),l(21380),l(21724),l(21698),l(22034),l(21839),l(20989),l(21796),l(20907),l(22060),l(20828),l(21135),l(21489)}},34122403931736)];(m)[d]=O m=(T)[v(t{1,2,{l(21877),l(20270)}},27272203961041)]d=(P)[m]O=(P)[C]s=(O)[s]C={s(O,r)}m=d(E(C))d=m()else j=13892966 end else Q=e()k=(T)[v(l(21288),3127648816691)]q=U(115075,{C});(u)[Q]=q p=(T)[v(l(20752),12972203803031)]q=(u)[Q];(P)[p]=q p=(P)[k]X=y(3308772,{Q,C})k=p(X)k=(T)[v(l(20355),30901318876492)]X=(T)[v(t{2,1,3,{l(20382),l(21228),l(20839)}},7701359240941)]p=(P)[k]k=(T)[v(t{3,1,2,{l(22009),l(20283),l(20807)}},33059599663530)]k=(p)[k]k=k(p,X)j=k and 5203142 or 6246908 end else if j<7545777 then TV=true j=TV and 279563 or 13938620 else C=(T)[v(l(20628),7632611986789)]s=(T)[v(l(21337),21247028859360)]I=(T)[v(l(20815),13611930364394)]O=(P)[C]r=(s)[I]s=1 I=20 C=O(r,m,s,I)d=not C j=d and 9485568 or 1793444 end end else if j<7812943 then if j<7740352 then if j<7686392 then L=(c)[1]j=L;(u)[(Y)[1] ]=j d=(u)[(Y)[2] ]m=d()j=(P)[(T)[v(t{1,2,3,{l(20749),l(20594),l(21325)}},24252496978488)] ]L=nil d={}else j=14396048 end else j=15613905 X=true(u)[C]=X end else if j<7866554 then j=(P)[(T)[v(t{2,3,1,{l(20505),l(20996),l(20498)}},24985919194139)] ]d={O}else j=9830043 end end end else if j<8200907 then if j<8128726 then if j<7994656 then if j<7964468 then j=(u)[(Y)[1] ]m={}(j)[L]=m j=6435383 else L=(c)[1]j=L L=nil(u)[(Y)[1] ]=j d=(u)[(Y)[2] ]m=d()d={}j=(P)[(T)[v(t{3,1,2,{l(20778),l(21798),l(21145)}},10639776005008)] ]end else J=(T)[v(l(20720),16144959869276)]i=(T)[v(l(21268),5811804401635)]V=(u)[a]F=(B)[J]J=(K)[i]b=F==J S=V(b)V=(u)[a]W=(T)[v(l(22013),22084745546860)]J=(u)[a]H=(B)[W]i=J(H)D=(T)[v(l(20840),25222308148489)]J=(u)[a]W=(K)[D]H=J(W)F=i==H b=V(F)N=S~=b j=N and 4349394 or 924290 end else if j<8158748 then j=0 m=j d=(T)[v(l(21748),24517183959997)]j=(P)[d]L=(c)[1]r={j(L)}d=(r)[1]C=(r)[3]j=10076051 O=(r)[2]r=d else PV=j lV=(u)[C]j=lV and 5407440 or 6613271 TV=lV end end else if j<8317575 then if j<8299982 then if j<8265699 then j=10647378 else j=I and 6307874 or 2065110 end else C=900000000 O=(T)[v(t{1,2,{l(20332),l(20767)}},363867422428)]L=(c)[1]d=(T)[v(l(21337),277499164751)]m=(T)[v(l(20432),27101320085629)]j=(d)[m]m=(P)[O]O=m(L)m=1 d={j(O,m,C)}d={E(d)}j=(P)[(T)[v(t{2,3,1,{l(20765),l(20704),l(21362)}},7100720504442)] ]end else if j<8340300 then d=(u)[(Y)[4] ]m=(T)[v(t{1,2,{l(20663),l(22180)}},16678081939405)]m=(d)[m]m=m(d)j=12214848 else a=(T)[v(t{1,2,{l(21773),l(21633)}},9025668164388)]h=(P)[a]a=(T)[v(t{1,2,{l(21909),l(21346)}},12195364830511)]R=(h)[a]k=R j=6579773 end end end end end end end else if j<12484102 then if j<10167309 then if j<9469541 then if j<9091258 then if j<8721046 then if j<8450467 then if j<8380880 then if j<8354073 then p=(u)[(Y)[2] ]k=(T)[v(t{1,2,{l(21105),l(21885)}},4353981428035)]Q=(p)[k]q=C==Q j=5196710 I=q else m,r=O(L,m)j=m and 13036511 or 16755022 end else W=1 TV=100 PV=TV TV=1 j=13458902 lV=TV TV=0 jV=lV<TV TV=W-lV end else if j<8610660 then if j<8518376 then a=(T)[v(l(20574),2911645012361)]Z=(T)[v(t{2,1,{l(21660),l(20715)}},16817494921487)]k=(P)[Z]N=(T)[v(l(21409),14375498209419)]h=(P)[a]a=(T)[v(t{2,1,{l(20795),l(21772)}},27320173838355)]R=(h)[a]h={R()}Z=k(E(h))R=(T)[v(t{1,2,{l(20386),l(21206)}},7843862971754)]k=(P)[R]j=6131453 a=(P)[N]N=(T)[v(t{2,1,{l(20881),l(21720)}},5942456648489)]h=(a)[N]a={h()}R=k(E(a))Q=Z==R I=Q else j=s and 15758738 or 3315 end else O=(T)[v(t{2,1,{l(20334),l(20974)}},6809418407788)]L=(T)[v(l(21283),18738287183634)]d=(P)[L]m=(P)[O]O=(T)[v(l(21306),33512432329491)]r=(T)[v(l(20297),10737619292325)]L=(m)[O]C=(P)[r]s=120 r=(T)[v(t{1,2,{l(22071),l(21218)}},1829955173168)]O=(C)[r]r=1 C={O(r,s)}m=L(E(C))j=(d)[m]L=(T)[v(t{24,20,16,9,11,12,8,23,6,3,25,18,5,2,22,17,10,21,7,13,4,14,19,1,15,{l(22058),l(20391),l(22217),l(20603),l(21124),l(21854),l(20435),l(20804),l(20897),l(21829),l(20809),l(20353),l(20511),l(21183),l(20837),l(21466),l(21115),l(21563),l(21139),l(21091),l(21506),l(20540),l(20903),l(21856),l(21945)}},32930411297964)]d=j(L)j=(P)[(T)[v(t{3,2,1,{l(20460),l(21378),l(21315)}},26665401090282)] ]d={}end end else if j<8903334 then if j<8899866 then if j<8824469 then j=(u)[(Y)[2] ]d=j(L)j=6379814 else d=(T)[v(t{3,4,1,2,{l(20774),l(20790),l(20874),l(22128)}},10417865873918)]j=(L)[d]d=(T)[v(t{2,1,3,{l(21528),l(21782),l(21683)}},16230225482076)]m=j j=(T)[v(t{1,2,3,{l(20716),l(20801),l(21845)}},14662716124248)]j=(m)[j]j=j(m,d)j=j and 13363928 or 642180 end else m=(T)[v(t{1,2,{l(21559),l(21862)}},29438297898046)]d=(P)[m]O=(T)[v(t{1,2,{l(20389),l(21388)}},10629938903383)]m=d()d=(T)[v(t{1,3,2,{l(20630),l(21385),l(21890)}},29122453939948)];(m)[d]=O m=(u)[(Y)[2] ]O=(T)[v(t{1,2,3,{l(20990),l(20448),l(20981)}},10560248525625)]d=(m)[O]m=(T)[v(t{2,1,{l(21762),l(21706)}},29308276357084)]O=z(5871463,{(Y)[3],(Y)[4]})m=(d)[m]j=8939193 m=m(d,O);(u)[(Y)[5] ]=m end else if j<8944737 then L=nil j=(P)[(T)[v(t{1,3,2,{l(20666),l(21537),l(21440)}},21768215618809)] ]d={}else o=j Q=(T)[v(t{2,1,{l(20302),l(20982)}},30561088518956)]q=(r)[Q]j=q and 10028591 or 13795192 I=q end end end else if j<9230708 then if j<9180423 then if j<9145848 then if j<9116781 then cV=true dV=nil(u)[C]=cV j=1560974 else k=(T)[v(t{2,1,10,4,6,8,5,9,3,7,{l(22198),l(20381),l(21678),l(21202),l(20365),l(22136),l(20436),l(21639),l(21892),l(21962)}},20300721721247)]d={k}j=(P)[(T)[v(t{1,3,2,{l(20631),l(21104),l(21966)}},4219488815376)] ]end else d=(u)[(Y)[1] ]j=(d)[L]d=(T)[v(t{1,2,{l(20652),l(21668)}},20759913402475)]d=(j)[d]d=d(j)j=(u)[(Y)[1] ]d=nil(j)[L]=d j=9799911 end else if j<9220573 then j=(u)[(Y)[1] ]d={j}j=(P)[(T)[v(t{1,3,2,{l(21114),l(20811),l(20656)}},33892342188676)] ]else m=(u)[(Y)[5] ]O=(T)[v(t{2,1,{l(22105),l(22224)}},8052319190641)]d=(m)[O]m=(T)[v(t{1,2,{l(21085),l(21616)}},1812594786915)]m=(d)[m]j=11735051 O=(u)[(Y)[6] ]m=m(d,O);(u)[(Y)[4] ]=m end end else if j<9372972 then if j<9274205 then if j<9256315 then X=k()Z=1 j=9789165 X=k(Z)else d=(u)[(Y)[5] ]r=(T)[v(t{1,2,{l(21300),l(22087)}},7020291571670)]C=(u)[(Y)[4] ]O=(C)[r]m=d(O)j=3102341 end else o=1 s={}I=e();(u)[I]=s s=(u)[I]q=(u)[I];(s)[o]=q o=(T)[v(l(20406),25962560902823)]q=A(7316821,{I,C})s=(P)[o]o=s(q)q=A(12305918,{C})o=(T)[v(l(21374),9834687870799)]s=(P)[o]o=s(q)s=(u)[C]j=s and 16402735 or 12091586 end else if j<9444477 then d=(u)[(Y)[1] ]j=not d j=j and 3886687 or 3086588 else j=15872575 end end end end else if j<9823838 then if j<9730839 then if j<9552597 then if j<9529136 then if j<9511457 then j=5553829 d=true(u)[(Y)[2] ]=d else VV=255 N=(T)[v(t{3,1,2,4,{l(21244),l(21983),l(21789),l(21602)}},2608330329910)]O=nil DV=100 Q=G(Q)H=240 YV=0 Z=(T)[v(t{1,2,{l(21312),l(20860)}},2122054368767)]UV=255 SV=80 a=(T)[v(t{2,3,1,{l(20433),l(20558),l(20742)}},10466469353551)]k=(T)[v(t{6,3,4,5,2,1,{l(21959),l(21518),l(21461),l(20462),l(21303),l(21277)}},3132069133350)]Q=(T)[v(l(21314),32938949598641)]C=G(C)r=G(r)C=(T)[v(t{2,1,{l(21979),l(21758)}},30225910338350)]EV=0 B=(T)[v(t{2,1,{l(21932),l(22122)}},596820215910)]JV=255 O=(P)[C]ZV=25 D=240 r=(P)[Q]uV=200 K=false PV=5 R=(T)[v(t{2,3,1,{l(20851),l(21970),l(21387)}},33241870808079)]Z=(r)[Z]Q={Z(r,k)}NV=15 C=O(E(Q))i=(T)[v(t{1,2,{l(21653),l(20825)}},17064952876532)]V=(T)[v(l(21592),11903455497010)]Z=(T)[v(t{2,1,3,{l(20817),l(21906),l(22176)}},25016495035745)]O=C()oV=5 rV=30 C=e();(u)[C]=O Tk=70 lV=10 h=(T)[v(t{4,5,3,1,2,{l(20271),l(20838),l(20988),l(21214),l(22037)}},33800776058305)]k=(T)[v(l(20661),11914715952817)]O=(u)[C]zV=10 b=(T)[v(t{1,2,{l(21083),l(21658)}},9304518636289)]MV=5 jV=10 jk=15 J=(P)[i]tk=25 i=(T)[v(t{1,2,{l(20670),l(20379)}},30502529285042)]F=(J)[i]i=240 vV=5 J=F(i,H,D)D=(T)[v(t{1,2,{l(21047),l(20922)}},29052812649605)]LV=200 H=(P)[D]F=(T)[v(t{1,2,{l(22084),l(21785)}},19848805209786)]D=(T)[v(t{2,1,{l(21148),l(21609)}},28064324383608)]i=(H)[D]D=5 H=i(D,vV,PV)xV=255 PV=(T)[v(t{1,2,{l(20438),l(20396)}},27649132788723)]GV=30 i=(T)[v(t{2,1,{l(21955),l(20335)}},28765889304690)]hV=120 vV=(P)[PV]kV=70 PV=(T)[v(t{1,2,{l(22068),l(20836)}},1038202993335)]D=(vV)[PV]PV=10 sV=20 vV=D(PV,lV,jV)QV=100 D=(T)[v(t{2,1,{l(22118),l(21594)}},21982887642902)]jV=(T)[v(t{1,2,{l(21021),l(21879)}},13230754396429)]eV=15 lV=(P)[jV]jV=(T)[v(t{2,1,{l(21549),l(20914)}},6856375294117)]PV=(lV)[jV]jV=0 yV=240 nV=5 XV=25 CV=80 lV=PV(jV,EV,YV)PV=(T)[v(t{3,5,4,1,2,{l(22157),l(21547),l(20831),l(20553),l(20451)}},5906479463052)]YV=(T)[v(t{1,2,{l(21269),l(22131)}},9345753540946)]EV=(P)[YV]YV=(T)[v(t{1,2,{l(21530),l(20597)}},2597111895253)]jV=(EV)[YV]YV=5 iV=120 OV=80 EV=jV(YV,MV,nV)nV=(T)[v(t{1,2,{l(20629),l(21605)}},7476373797523)]RV=70 jV=(T)[v(t{3,1,6,4,2,5,{l(21371),l(21020),l(20641),l(21972),l(20912),l(21311)}},17614266271407)]pV=255 MV=(P)[nV]nV=(T)[v(t{1,2,{l(20993),l(21211)}},13324060236495)]YV=(MV)[nV]nV=200 MV=YV(nV,uV,LV)YV=(T)[v(t{1,3,2,{l(21543),l(22168),l(22196)}},6948675222439)]mV=15 LV=(T)[v(t{1,2,{l(20915),l(21428)}},4095645899368)]uV=(P)[LV]LV=(T)[v(t{2,1,{l(20762),l(20295)}},12118759126714)]nV=(uV)[LV]LV=15 uV=nV(LV,eV,mV)mV=(T)[v(t{2,1,{l(22019),l(21307)}},13214601445421)]nV=(T)[v(t{2,1,{l(21439),l(21391)}},10180400397279)]eV=(P)[mV]mV=(T)[v(t{1,2,{l(21808),l(21859)}},30470795079725)]LV=(eV)[mV]mV=80 eV=LV(mV,OV,CV)gV=240 fV=20 KV=15 CV=(T)[v(t{1,2,{l(22104),l(20896)}},19362742813105)]LV=(T)[v(t{3,5,2,4,1,{l(21116),l(20378),l(20453),l(20991),l(22066)}},34256306911849)]wV=10 OV=(P)[CV]CV=(T)[v(t{1,2,{l(20909),l(21863)}},20892490144819)]mV=(OV)[CV]CV=30 OV=mV(CV,GV,rV)AV=255 rV=(T)[v(t{1,2,{l(22137),l(21463)}},7543420961398)]mV=(T)[v(t{1,3,2,{l(20397),l(20377),l(20441)}},28426429716273)]GV=(P)[rV]rV=(T)[v(t{2,1,{l(21492),l(21188)}},16399834344133)]CV=(GV)[rV]rV=240 IV=5 GV=CV(rV,gV,yV)CV=(T)[v(t{4,1,2,3,{l(21641),l(21132),l(21471),l(21951)}},7111129967425)]yV=(T)[v(t{1,2,{l(20705),l(20470)}},8507482408149)]gV=(P)[yV]yV=(T)[v(t{1,2,{l(20690),l(21175)}},34378750125965)]qV=100 rV=(gV)[yV]yV=255 gV=rV(yV,AV,UV)rV=(T)[v(t{3,4,2,1,{l(21002),l(21154),l(21203),l(21788)}},6477593390156)]UV=(T)[v(t{1,2,{l(21285),l(21032)}},16061587041772)]AV=(P)[UV]UV=(T)[v(t{2,1,{l(22099),l(21473)}},8698219963302)]yV=(AV)[UV]UV=10 AV=yV(UV,wV,zV)aV=120 zV=(T)[v(t{1,2,{l(22138),l(21712)}},5969819043003)]wV=(P)[zV]yV=(T)[v(t{4,5,1,3,2,{l(21324),l(20342),l(22035),l(20967),l(20664)}},29791807970571)]zV=(T)[v(t{1,2,{l(22116),l(21998)}},32056054380997)]lk=15 UV=(wV)[zV]zV=20 bV=80 HV=100 wV=UV(zV,fV,sV)UV=(T)[v(t{6,5,2,1,3,4,{l(20843),l(20413),l(20504),l(22055),l(21735),l(21326)}},1205104869786)]sV=(T)[v(t{2,1,{l(22186),l(21435)}},14359920325797)]fV=(P)[sV]sV=(T)[v(t{2,1,{l(20847),l(21022)}},8611266056344)]zV=(fV)[sV]sV=5 fV=zV(sV,IV,oV)Ek=15 zV=(T)[v(t{2,3,1,{l(22215),l(20536),l(21525)}},7758650043309)]oV=(T)[v(t{2,1,{l(21575),l(21274)}},4856683139644)]IV=(P)[oV]FV=255 oV=(T)[v(t{2,1,{l(21404),l(21044)}},30097629617574)]sV=(IV)[oV]oV=100 ck=15 IV=sV(oV,qV,QV)QV=(T)[v(t{1,2,{l(20625),l(20654)}},27342920163566)]sV=(T)[v(t{1,5,3,4,2,{l(21121),l(21487),l(20344),l(20566),l(21600)}},24942134568124)]qV=(P)[QV]QV=(T)[v(t{2,1,{l(22051),l(21109)}},16335542609189)]oV=(qV)[QV]Pk=25 QV=70 qV=oV(QV,kV,RV)oV=(T)[v(t{3,1,4,2,{l(21024),l(20449),l(21394),l(21036)}},3689970175054)]vk=70 RV=(T)[v(t{2,1,{l(21981),l(20624)}},1863864848932)]kV=(P)[RV]nk=150 RV=(T)[v(t{1,2,{l(21925),l(20416)}},22897851521128)]QV=(kV)[RV]RV=25 kV=QV(RV,ZV,XV)XV=(T)[v(t{1,2,{l(21075),l(21049)}},21321258629932)]ZV=(P)[XV]XV=(T)[v(t{2,1,{l(20725),l(20675)}},9194307212268)]r=(T)[v(t{3,1,2,{l(21276),l(21103),l(20457)}},12941769871993)]RV=(ZV)[XV]XV=0 QV=(T)[v(t{3,2,1,{l(20555),l(21558),l(22135)}},20782652578950)]ZV=RV(XV,pV,xV)xV=(T)[v(t{2,1,{l(20924),l(20906)}},23361234855368)]RV=(T)[v(t{3,1,2,{l(21757),l(21589),l(21540)}},24610015632552)]pV=(P)[xV]dk=150 xV=(T)[v(t{1,2,{l(20539),l(21365)}},7082820457924)]XV=(pV)[xV]xV=120 WV=120 pV=XV(xV,hV,aV)aV=(T)[v(t{1,2,{l(20948),l(21944)}},11850190659790)]hV=(P)[aV]XV=(T)[v(t{3,2,1,4,{l(21750),l(20766),l(21709),l(21281)}},32663015649429)]aV=(T)[v(t{2,1,{l(20485),l(21196)}},5791190157901)]BV=255 xV=(hV)[aV]aV=15 hV=xV(aV,NV,KV)KV=(T)[v(t{2,1,{l(20411),l(20338)}},4453589144361)]NV=(P)[KV]KV=(T)[v(t{2,1,{l(22165),l(20745)}},11301907396245)]xV=(T)[v(t{2,3,1,{l(21040),l(21992),l(20877)}},34319282740476)]aV=(NV)[KV]KV=0 NV=aV(KV,BV,VV)VV=(T)[v(t{1,2,{l(20969),l(21448)}},5419647681561)]BV=(P)[VV]aV=(T)[v(t{1,2,3,{l(21626),l(21644),l(21332)}},3312871371714)]VV=(T)[v(t{2,1,{l(20977),l(21201)}},26213771706653)]KV=(BV)[VV]VV=80 BV=KV(VV,SV,bV)bV=(T)[v(t{2,1,{l(21942),l(21225)}},7607169046517)]KV=(T)[v(t{3,2,4,1,{l(21483),l(21880),l(21818),l(20757)}},31718218723247)]SV=(P)[bV]bV=(T)[v(t{2,1,{l(21449),l(21728)}},6087033766543)]VV=(SV)[bV]bV=0 SV=VV(bV,JV,FV)FV=(T)[v(t{1,2,{l(21258),l(21463)}},21286291243026)]VV=(T)[v(t{4,3,2,1,{l(21355),l(21176),l(22070),l(20788)}},34409215788802)]JV=(P)[FV]FV=(T)[v(t{2,1,{l(21254),l(21286)}},34727787600571)]bV=(JV)[FV]FV=120 JV=bV(FV,iV,WV)bV=(T)[v(t{3,1,2,4,5,{l(20279),l(22114),l(20659),l(20588),l(21108)}},2526282170705)]WV=(T)[v(t{2,1,{l(21965),l(20262)}},24896791933490)]iV=(P)[WV]WV=(T)[v(t{1,2,{l(21131),l(20352)}},13722044452102)]FV=(iV)[WV]WV=100 iV=FV(WV,HV,DV)DV=(T)[v(t{2,1,{l(20706),l(20323)}},26123212243059)]HV=(P)[DV]FV=(T)[v(t{1,4,5,2,3,{l(21799),l(21347),l(21947),l(22016),l(21509)}},6850283365787)]DV=(T)[v(t{2,1,{l(21500),l(20887)}},11896075857074)]WV=(HV)[DV]DV=70 HV=WV(DV,vk,Tk)WV=(T)[v(t{4,3,1,2,{l(22132),l(22082),l(21338),l(21827)}},21624904782936)]Tk=(T)[v(t{2,1,{l(20272),l(20327)}},2509187700134)]vk=(P)[Tk]Tk=(T)[v(t{1,2,{l(21264),l(22119)}},34724367616572)]DV=(vk)[Tk]Tk=25 vk=DV(Tk,tk,Pk)Pk=(T)[v(t{1,2,{l(20522),l(20506)}},34706314288262)]tk=(P)[Pk]Pk=(T)[v(t{1,2,{l(20612),l(21823)}},9451875836283)]DV=(T)[v(t{4,1,2,3,{l(21248),l(22117),l(21938),l(20657)}},3846589777331)]Tk=(tk)[Pk]Pk=15 tk=Tk(Pk,lk,jk)jk=(T)[v(t{1,2,{l(20519),l(21840)}},7470386809053)]lk=(P)[jk]jk=(T)[v(t{2,1,{l(21516),l(21063)}},22647415327180)]Tk=(T)[v(t{2,1,3,{l(21464),l(20929),l(22107)}},13851458263330)]Yk=80 Mk=80 Pk=(lk)[jk]jk=15 lk=Pk(jk,Ek,ck)Pk=(T)[v(t{2,3,1,{l(21712),l(20541),l(21423)}},16239418641944)]ck=(T)[v(t{2,1,{l(20333),l(21791)}},23963841161259)]Ek=(P)[ck]ck=(T)[v(t{1,2,{l(20941),l(21297)}},28596858972195)]jk=(Ek)[ck]ck=80 Ek=jk(ck,Yk,Mk)Mk=(T)[v(t{2,1,{l(21879),l(21806)}},3704282573801)]Yk=(P)[Mk]jk=(T)[v(t{2,3,4,1,{l(21408),l(21503),l(21987),l(21113)}},34771451315182)]Mk=(T)[v(t{1,2,{l(22187),l(22098)}},10607461849031)]ck=(Yk)[Mk]Mk=150 Yk=ck(Mk,nk,dk)S={[b]=J,[F]=H,[i]=vV,[D]=lV,[PV]=EV,[jV]=MV,[YV]=uV,[nV]=eV,[LV]=OV,[mV]=GV,[CV]=gV,[rV]=AV,[yV]=wV,[UV]=fV,[zV]=IV,[sV]=qV,[oV]=kV,[QV]=ZV,[RV]=pV,[XV]=hV,[xV]=NV,[aV]=BV,[KV]=SV,[VV]=JV,[bV]=iV,[FV]=HV,[WV]=vk,[DV]=tk,[Tk]=lk,[Pk]=Ek,[jk]=Yk}r=(O)[r]Q={[k]=Z,[R]=h,[a]=N,[B]=K,[V]=S}LV=(T)[v(t{2,1,{l(22197),l(20529)}},23735415987837)]r=r(O,Q)i=(T)[v(t{5,18,17,2,16,13,6,20,9,1,22,3,8,14,12,7,19,15,23,10,11,4,21,{l(21166),l(20944),l(20813),l(22020),l(20966),l(21505),l(21956),l(20300),l(21084),l(21531),l(21586),l(21692),l(20320),l(20358),l(21074),l(21173),l(20340),l(21730),l(21812),l(20513),l(20475),l(20422),l(20593)}},3184290116018)]Z=(T)[v(l(21826),30522540985184)]O=e()F=(T)[v(t{4,2,5,3,1,{l(21265),l(20920),l(20402),l(20516),l(21452)}},16834466677990)]XV=false(u)[O]=r k=(P)[Z]Z=(T)[v(t{2,1,{l(21568),l(21650)}},14298696832937)]R=(T)[v(t{1,2,{l(21247),l(20507)}},12536931345415)]Q=(k)[Z]k=(T)[v(t{2,3,1,{l(21298),l(21322),l(20305)}},30350458084066)]r=(Q)[k]Z=(T)[v(t{1,2,{l(20756),l(20770)}},23906903245216)]Q=e();(u)[Q]=r k=(P)[Z]Z=(T)[v(t{3,2,1,{l(21578),l(20635),l(21361)}},6589115002493)]r=(k)[Z]B=e()H=(T)[v(t{1,2,{l(21891),l(20581)}},24708682712289)]Z=(T)[v(l(20348),3609187842486)]k=e();(u)[k]=r r=(P)[Z]Z=(T)[v(t{1,2,{l(20428),l(21411)}},29003307323320)]N=e()a=e()Z=(r)[Z]h=e()Z=Z(r,R)R=e()V=(T)[v(t{1,2,{l(22184),l(21886)}},21365468595250)]hV=(T)[v(t{2,1,{l(20533),l(20290)}},34104370248269)]r=e()MV=false(u)[r]=Z OV=(T)[v(t{1,2,3,{l(21058),l(20918),l(21215)}},24813373795075)]K=e()Z=false(u)[R]=Z Z=false YV=(T)[v(t{3,1,2,{l(21162),l(20714),l(21780)}},14483640294929)];(u)[h]=Z J=(T)[v(t{1,2,{l(21393),l(20489)}},28454020892906)]Z=false(u)[a]=Z AV=(T)[v(t{2,3,1,{l(21614),l(20442),l(21940)}},5238676426949)]uV=(T)[v(t{1,2,{l(20403),l(20784)}},28818295041472)]Z=false(u)[N]=Z Z=false(u)[B]=Z S=(T)[v(l(22124),4425070178553)]Z=false b=4483362458(u)[K]=Z nV=(T)[v(l(21077),26880059910518)]Z=(u)[O]V=(Z)[V]V=V(Z,S,b)b=(T)[v(l(20648),3219883246716)]S={[b]=F,[J]=i}b=(T)[v(t{3,2,1,{l(20947),l(20371),l(20871)}},14296638984845)]Z=(T)[v(t{1,2,3,{l(21455),l(20834),l(22133)}},32746431568756)]Z=(V)[Z]J=e()Z=Z(V,S)F=4483362458 S=(T)[v(t{1,2,{l(22129),l(20321)}},10954541570361)]Z=(u)[O]S=(Z)[S]S=S(Z,b,F)F=e()Z={}b=e();(u)[b]=Z vV=255 CV=(T)[v(t{1,2,{l(22043),l(20418)}},32503155505462)]Z=0.3(u)[F]=Z Z=false EV=(T)[v(t{3,4,1,2,{l(21420),l(21790),l(22092),l(21191)}},1664893790478)];(u)[J]=Z jV=(T)[v(l(20613),1595494490698)]RV=(T)[v(t{2,1,{l(20814),l(21860)}},13344248985391)]i=(P)[H]H=(T)[v(t{1,2,{l(21499),l(21358)}},5182336692439)]Z=(i)[H]H=0 D=255 i=Z(H,D,vV)Z=e();(u)[Z]=i UV=(T)[v(t{1,2,{l(21874),l(22015)}},18276214838048)]D=g(5791242,{b})H=e()i=nil(u)[H]=i i=e();(u)[i]=D vV=y(14215711,{i,F,Z,b})D=e();(u)[D]=vV vV=e()mV=(T)[v(l(21897),9976910259129)]qV=(T)[v(t{1,2,{l(22054),l(22039)}},14011194232965)]PV=z(4035965,{b,Q,F,J,Z})eV=f(15175596,{R,Q,D,H,r,vV,i})lV={[jV]=EV,[YV]=MV,[nV]=uV,[LV]=eV}EV=(T)[v(t{1,3,2,{l(20952),l(22055),l(22030)}},263565133560)];(u)[vV]=PV VV=(T)[v(t{1,2,{l(22056),l(21566)}},1021507721022)]jV=(T)[v(l(20949),4307800938673)]MV=false GV=z(7970096,{F,vV})uV=(T)[v(t{2,1,{l(21207),l(20487)}},22389963641287)]eV=y(13750420,{J,vV})YV=(T)[v(t{2,1,3,{l(21704),l(21068),l(20468)}},29834257833653)]LV=(T)[v(t{1,2,{l(21542),l(21514)}},14694835774066)]nV=(T)[v(l(21054),12383884610509)]PV=(T)[v(t{2,3,1,{l(21753),l(21801),l(21663)}},20604585136644)]PV=(S)[PV]PV=PV(S,lV)kV=(T)[v(t{1,2,{l(21005),l(20711)}},34914027300142)]PV=(T)[v(t{1,2,3,{l(21018),l(21552),l(20578)}},14471304984403)]lV={[jV]=EV,[YV]=MV,[nV]=uV,[LV]=eV}uV=1 eV=0.3 jV=(T)[v(l(20899),26998597705087)]EV=(T)[v(t{3,1,2,{l(20856),l(21520),l(20999)}},12058439232715)]nV=0 gV=false PV=(S)[PV]YV=(T)[v(l(20649),25651159794344)]PV=PV(S,lV)LV=(T)[v(t{1,3,2,{l(20503),l(21224),l(20346)}},31958149453503)]MV={nV,uV}uV=0.01 PV=(T)[v(t{2,1,3,{l(21557),l(21842),l(20557)}},18604329485537)]rV=(T)[v(t{3,2,1,{l(20684),l(20430),l(21249)}},20778521720844)]nV=(T)[v(t{2,1,{l(21630),l(21613)}},18977104069210)]lV={[jV]=EV,[YV]=MV,[nV]=uV,[LV]=eV,[mV]=OV,[CV]=GV}YV=(T)[v(l(22185),8999660966125)]EV=(T)[v(t{2,1,{l(21472),l(22201)}},23811626048535)]jV=(T)[v(l(21193),4560280364490)]PV=(S)[PV]GV=(T)[v(t{3,1,2,{l(22005),l(21177),l(21835)}},638536860764)]uV=(T)[v(t{2,1,{l(20881),l(21722)}},21314441172065)]yV=(T)[v(l(21482),7562384215268)]LV=255 PV=PV(S,lV)nV=(P)[uV]eV=255 uV=(T)[v(t{2,1,{l(21309),l(20689)}},3391089486015)]MV=(nV)[uV]PV=(T)[v(t{3,1,2,4,{l(20787),l(21227),l(22143),l(20730)}},14768183044160)]uV=0 nV=MV(uV,LV,eV)LV=(T)[v(t{1,2,{l(20921),l(22026)}},3250501983969)]eV=z(7676990,{Z,vV})PV=(S)[PV]uV=(T)[v(t{1,2,{l(21078),l(21430)}},28338964493090)]MV=(T)[v(l(20532),19930819791710)]lV={[jV]=EV,[YV]=nV,[MV]=uV,[LV]=eV}PV=PV(S,lV)YV=e()PV=(u)[O]EV=4483362458 lV=(T)[v(t{2,1,{l(20806),l(20891)}},13984206792529)]fV=(T)[v(t{1,3,2,{l(22048),l(22183),l(20571)}},10238207832693)]lV=(PV)[lV]jV=(T)[v(l(22012),16745070825606)]lV=lV(PV,jV,EV)jV=e()MV=e()LV=255 eV=255 uV=(T)[v(t{2,1,{l(20502),l(20501)}},11717771746710)]PV={}sV=(T)[v(t{2,1,{l(20310),l(20695)}},22083480038918)];(u)[jV]=PV PV=0.5 EV=e();(u)[EV]=PV PV=0(u)[YV]=PV PV=false CV=(T)[v(l(22083),13399454998369)];(u)[MV]=PV nV=(P)[uV]uV=(T)[v(t{1,2,{l(20580),l(20938)}},9559713684902)]PV=(nV)[uV]uV=0 nV=PV(uV,LV,eV)PV=e();(u)[PV]=nV uV=e()nV=nil LV=z(15037776,{jV});(u)[uV]=nV nV=e()mV=w(7461236,{jV,Q,EV,YV,MV,PV})xV=(T)[v(t{2,3,1,4,{l(20726),l(20658),l(21771),l(20449)}},1844781309988)];(u)[nV]=LV eV=g(2808488,{nV,EV,YV,PV,jV})LV=e();(u)[LV]=eV eV=e()wV=y(6859725,{h,Q,LV,uV,r,eV,nV})oV=(T)[v(t{3,2,1,{l(21481),l(22181),l(21529)}},32512851254016)]OV={[CV]=GV,[rV]=gV,[yV]=AV,[UV]=wV}(u)[eV]=mV yV=(T)[v(l(22208),21578432156730)]GV=(T)[v(t{1,2,3,{l(21199),l(22078),l(22002)}},32776915074612)]wV=g(10778770,{MV,eV})AV=(T)[v(t{1,2,3,{l(20398),l(22225),l(20380)}},12898537974448)]IV=g(10070094,{EV,eV})gV=false mV=(T)[v(t{1,3,2,{l(21993),l(20263),l(22074)}},28322712282381)]mV=(lV)[mV]rV=(T)[v(t{3,1,2,{l(20721),l(21229),l(21915)}},6491533764457)]mV=mV(lV,OV)mV=(T)[v(t{3,1,2,{l(21876),l(21711),l(20984)}},34838569509091)]mV=(lV)[mV]CV=(T)[v(l(21444),24499795361540)]UV=(T)[v(t{1,2,{l(20883),l(20423)}},16378547804229)]OV={[CV]=GV,[rV]=gV,[yV]=AV,[UV]=wV}GV=(T)[v(t{2,3,1,{l(21357),l(20655),l(20717)}},24199089551444)]UV=(T)[v(t{3,2,1,{l(20620),l(20819),l(20759)}},25620088790352)]CV=(T)[v(l(21684),16388408837634)]rV=(T)[v(l(21033),9124686980118)]mV=mV(lV,OV)wV=0.5 yV=0.1 AV=3 zV=(T)[v(l(22106),270494019887)]gV={yV,AV}yV=(T)[v(t{2,1,{l(21418),l(21426)}},8468597494062)]AV=0.1 OV={[CV]=GV,[rV]=gV,[yV]=AV,[UV]=wV,[zV]=fV,[sV]=IV}zV=(T)[v(l(20870),21199458788730)]mV=(T)[v(t{2,3,1,{l(21988),l(21179),l(21151)}},5178045622268)]GV=(T)[v(t{1,2,4,3,{l(21786),l(21738),l(22014),l(20942)}},8009497103412)]CV=(T)[v(l(22126),11268919990769)]fV=(T)[v(t{3,4,2,1,{l(20556),l(21670),l(20835),l(21713)}},5189260121229)]IV=y(16482756,{YV,eV})wV=0 AV=1 yV=0 gV={yV,AV}mV=(lV)[mV]sV=(T)[v(t{2,1,{l(21125),l(20414)}},31027061469958)]UV=(T)[v(t{1,3,2,{l(20737),l(20546),l(20731)}},25835386939366)]rV=(T)[v(l(21512),28466443103537)]mV=mV(lV,OV)AV=0.01 yV=(T)[v(t{1,2,{l(21701),l(21617)}},29009763700138)]OV={[CV]=GV,[rV]=gV,[yV]=AV,[UV]=wV,[zV]=fV,[sV]=IV}mV=(T)[v(t{1,3,2,{l(20940),l(21643),l(20456)}},28710772369193)]CV=(T)[v(l(20973),32221010099955)]GV=(T)[v(t{3,2,1,{l(20673),l(21468),l(20543)}},11541363255824)]mV=(lV)[mV]UV=255 AV=(T)[v(t{1,2,{l(22112),l(20272)}},4604513157106)]wV=255 fV=(T)[v(t{2,1,{l(20303),l(21747)}},15819046317378)]rV=(T)[v(l(20676),5301806516663)]mV=mV(lV,OV)yV=(P)[AV]mV=(T)[v(t{4,1,3,2,{l(21255),l(21682),l(21195),l(22081)}},23727585706183)]AV=(T)[v(t{1,2,{l(21930),l(20751)}},24655406093836)]gV=(yV)[AV]mV=(lV)[mV]AV=0 yV=gV(AV,UV,wV)wV=f(16457552,{PV,eV})AV=(T)[v(t{1,2,{l(21334),l(21652)}},7589398942049)]UV=(T)[v(t{1,2,{l(21933),l(21815)}},12718978037259)]gV=(T)[v(l(21792),10902569110337)]OV={[CV]=GV,[rV]=yV,[gV]=AV,[UV]=wV}GV=4483362458 gV=(T)[v(l(20439),17729241039878)]CV=(T)[v(t{2,1,{l(20266),l(22144)}},9758508343084)]UV=false mV=mV(lV,OV)mV=(u)[O]AV=(T)[v(t{1,3,2,{l(21908),l(20901),l(22200)}},508397173644)]OV=(T)[v(t{1,2,{l(21140),l(21442)}},9060890838303)]yV=(T)[v(t{4,2,3,1,{l(21647),l(21110),l(21296),l(22163)}},4859276917277)]OV=(mV)[OV]zV=(T)[v(t{1,2,3,{l(21076),l(20264),l(22130)}},2013363137183)]wV=(T)[v(l(21243),13541791880800)]OV=OV(mV,CV,GV)CV=e()GV=e()mV=0(u)[CV]=mV sV=U(5989508,{N,r,k,CV,GV})mV=nil rV={[gV]=yV,[AV]=UV,[wV]=zV,[fV]=sV}(u)[GV]=mV wV=0 zV=0.2 yV=(T)[v(t{3,1,2,{l(20980),l(21928),l(21867)}},31575729645722)]IV=(T)[v(l(20551),21934037366106)]AV=(T)[v(l(21536),7328473865236)]QV=z(16195184,{CV})sV=0 mV=(T)[v(t{1,3,2,{l(21560),l(21850),l(21740)}},13631857109641)]mV=(OV)[mV]UV={wV,zV}mV=mV(OV,rV)fV=(T)[v(t{3,2,1,{l(21913),l(20526),l(20330)}},30808604716800)]mV=(T)[v(t{2,1,3,{l(20632),l(21240),l(20995)}},16919848625377)]zV=0.001 gV=(T)[v(l(21436),7394634887280)]mV=(OV)[mV]wV=(T)[v(t{1,2,{l(21783),l(21555)}},20657048155486)]rV={[gV]=yV,[AV]=UV,[wV]=zV,[fV]=sV,[IV]=oV,[qV]=QV}mV=mV(OV,rV)qV=12 gV=(T)[v(l(21674),33057377019075)]rV=(T)[v(t{1,2,{l(21702),l(22064)}},20600100782803)]yV=4483362458 mV=(u)[O]oV=(T)[v(t{1,2,3,{l(22237),l(22077),l(20616)}},31660198111443)]sV=0 UV=(T)[v(t{1,2,{l(20802),l(20688)}},1305656221334)]rV=(mV)[rV]rV=rV(mV,gV,yV)yV=(T)[v(t{2,1,{l(21295),l(21977)}},18057532096923)]zV=(T)[v(l(21491),32194318975933)]gV=(T)[v(l(22204),17682978591836)]mV=(P)[gV]gV=(T)[v(t{2,1,{l(20691),l(20682)}},29713718816994)]gV=(mV)[gV]AV=(T)[v(t{2,1,{l(21561),l(21687)}},16429055310615)]gV=gV(mV,yV)mV=e();(u)[mV]=gV yV=(u)[mV]gV=(yV)[AV]yV=e();(u)[yV]=gV AV=(u)[r]gV=(AV)[UV]QV=(T)[v(l(21767),6587446272656)]AV=(T)[v(t{1,2,{l(20644),l(21705)}},21318918187639)]UV=U(15455162,{mV,yV})AV=(gV)[AV]pV=(T)[v(l(20894),4317213801661)]IV=24 AV=AV(gV,UV)fV={sV,IV}sV=(T)[v(t{2,1,{l(21830),l(21190)}},124854154014)]UV=(T)[v(l(20718),14832504155170)]ZV=U(2781536,{yV})gV=(T)[v(t{1,3,2,{l(21968),l(21284),l(21777)}},10911665380314)]wV=(T)[v(t{1,3,2,{l(21564),l(20744),l(20698)}},22893042538442)]gV=(rV)[gV]IV=0.1 AV={[UV]=wV,[zV]=fV,[sV]=IV,[oV]=qV,[QV]=kV,[RV]=ZV}BV=(T)[v(t{1,3,2,4,{l(20592),l(20329),l(20493),l(20683)}},12656528834725)]fV=y(6362664,{})gV=gV(rV,AV)UV=(T)[v(l(20408),28111675104396)]wV=(T)[v(t{2,1,{l(22229),l(21795)}},21834927942759)]zV=(T)[v(t{1,2,{l(20786),l(21294)}},18772362696384)]AV={[UV]=wV,[zV]=fV}gV=(T)[v(t{1,3,2,{l(21924),l(20374),l(20364)}},844991832409)]zV=128 gV=(rV)[gV]kV=(T)[v(l(20459),19930898501035)]gV=gV(rV,AV)wV=4483362458 UV=(T)[v(t{2,1,{l(22172),l(20601)}},10247167167529)]AV=(T)[v(t{1,2,{l(20292),l(21292)}},24395994837774)]gV=(u)[O]AV=(gV)[AV]ZV=(T)[v(t{2,3,1,{l(20798),l(21825),l(22233)}},14828771613289)]AV=AV(gV,UV,wV)fV=128 wV=(T)[v(t{2,1,{l(21475),l(21666)}},27656967336494)]UV=(P)[wV]wV=(T)[v(t{2,1,{l(22040),l(21401)}},15376101352438)]gV=(UV)[wV]wV=128 UV=gV(wV,zV,fV)gV=e()wV=e();(u)[gV]=UV zV=e()UV=false(u)[wV]=UV fV=e()UV={}(u)[zV]=UV UV=nil oV=w(2095298,{Q,a,wV,gV})sV=g(5392571,{zV});(u)[fV]=UV UV=e()qV=g(10156056,{zV});(u)[UV]=sV IV=w(14488076,{UV,gV})sV=e();(u)[sV]=IV IV=e()RV=(T)[v(t{4,1,2,3,{l(21304),l(20812),l(20322),l(21159)}},14779948257155)];(u)[IV]=oV oV=e()aV=f(1490624,{a,Q,sV,fV,r,IV,oV})QV={[kV]=RV,[ZV]=XV,[pV]=xV,[hV]=aV}ZV=(T)[v(t{1,2,3,{l(21766),l(20484),l(21424)}},26681003034178)];(u)[oV]=qV qV=(T)[v(t{1,3,2,{l(20908),l(21551),l(20590)}},31599412403358)]qV=(AV)[qV]qV=qV(AV,QV)XV=false hV=(T)[v(t{2,1,{l(21062),l(20437)}},9999954083237)]pV=(T)[v(l(21502),28981406360856)]aV=z(13037144,{wV,IV})kV=(T)[v(l(20674),31409947855221)]xV=(T)[v(t{1,2,{l(21164),l(21869)}},3503858709279)]RV=(T)[v(t{2,3,1,4,{l(21392),l(22194),l(21008),l(21642)}},3200895856390)]qV=(T)[v(t{2,3,1,{l(22159),l(20275),l(20443)}},31011882678818)]qV=(AV)[qV]QV={[kV]=RV,[ZV]=XV,[pV]=xV,[hV]=aV}ZV=(T)[v(l(20956),5693114331860)]kV=(T)[v(l(21804),30672489984268)]qV=qV(AV,QV)xV=(T)[v(t{2,1,{l(20326),l(20905)}},2694688667331)]pV=(P)[xV]xV=(T)[v(t{2,1,{l(20427),l(20735)}},2631848152981)]RV=(T)[v(t{3,1,4,2,{l(20772),l(21031),l(22022),l(22230)}},34645974387089)]aV=128 XV=(pV)[xV]hV=128 xV=128 pV=XV(xV,hV,aV)aV=y(186775,{gV,a,wV,Q,sV})qV=(T)[v(t{3,2,4,1,{l(22205),l(21646),l(20793),l(21522)}},24712710027252)]hV=(T)[v(t{1,2,{l(20992),l(21329)}},25309285184511)]XV=(T)[v(l(22166),16651090480147)]xV=(T)[v(t{2,1,{l(20693),l(21848)}},6100104169821)]QV={[kV]=RV,[ZV]=pV,[XV]=xV,[hV]=aV}qV=(AV)[qV]kV=(T)[v(l(20748),2525527048818)]RV=4483362458 qV=qV(AV,QV)hV=(T)[v(t{1,4,2,3,5,{l(21348),l(20317),l(22141),l(21527),l(20919)}},2801436366393)]QV=(T)[v(t{1,2,{l(20576),l(21299)}},7410585881140)]qV=(u)[O]QV=(qV)[QV]QV=QV(qV,kV,RV)aV=(T)[v(t{2,1,{l(21038),l(20508)}},25629823550241)]qV=nil ZV=z(9443657,{K})kV=nil RV=e();(u)[RV]=kV xV=(T)[v(l(20931),7731365656340)]kV=e()XV=U(14095623,{B,Q,RV,C})NV=z(3822065,{kV,C});(u)[kV]=ZV pV={[xV]=hV,[aV]=NV}KV=(T)[v(l(21881),32422360737706)]ZV=e()aV=(T)[v(t{3,2,1,{l(21184),l(21111),l(20764)}},14452955236449)];(u)[ZV]=XV NV=false XV=(T)[v(t{1,2,3,{l(20738),l(22219),l(21181)}},25723612157438)]XV=(QV)[XV]XV=XV(QV,pV)hV=(T)[v(t{1,2,3,{l(21275),l(20579),l(20741)}},10730915019328)]SV=U(2511361,{ZV})XV=(T)[v(t{1,3,2,{l(21893),l(21864),l(21204)}},24677282828665)]xV=(T)[v(l(22088),14569463063821)]pV={[xV]=hV,[aV]=NV,[KV]=BV,[VV]=SV}XV=(QV)[XV]XV=XV(QV,pV)xV=(T)[v(t{1,2,{l(20559),l(20615)}},23606859418594)]pV=(u)[r]XV=(pV)[xV]xV=U(330242,{O})pV=(T)[v(t{1,2,{l(20872),l(21251)}},16773657179548)]pV=(XV)[pV]pV=pV(XV,xV)XV=w(5042009,{R,D,h,LV,a,sV})hV=(T)[v(t{3,2,1,{l(22036),l(20318),l(21395)}},21558948959364)]xV=(u)[Q]pV=(xV)[hV]xV=(T)[v(t{1,2,{l(21360),l(21680)}},8491344968597)]hV=(T)[v(t{2,1,{l(20824),l(21961)}},30686663006681)]xV=(pV)[xV]xV=xV(pV,XV)xV=(u)[Q]pV=(xV)[hV]j=pV and 10117000 or 15574674 end else q=j p=(T)[v(t{1,2,{l(20646),l(22154)}},27065050557060)]Q=(r)[p]j=Q and 59090 or 15051208 o=Q end else if j<9692743 then if j<9596595 then x=true j=5598471(u)[C]=x else j=12731674 end else q=400 O=(T)[v(t{1,2,{l(20261),l(21319)}},26434193741970)]m=(P)[O]O=(T)[v(l(20959),11318341305707)]d=(m)[O]s=(T)[v(t{1,2,{l(20779),l(20331)}},39605900135)]O=(T)[v(t{2,1,{l(21672),l(21911)}},9046747785692)]r=(u)[(Y)[2] ]C=(r)[s]I=350 m=d(O,C)C=(T)[v(t{2,3,1,{l(20569),l(22006),l(20734)}},19671487326827)]O=(T)[v(l(20269),8635291700884)];(u)[(Y)[3] ]=m d=(u)[(Y)[3] ]X=4483362458(d)[O]=C Q=(T)[v(t{2,1,{l(21014),l(20998)}},18550873435527)]C=false d=(u)[(Y)[3] ]s=(T)[v(l(20617),19438693714106)]O=(T)[v(t{3,2,1,{l(20336),l(21223),l(22147)}},11961883524493)];(d)[O]=C C=(T)[v(t{1,2,{l(20420),l(21100)}},21928927048595)]O=(P)[C]C=(T)[v(l(20829),10255009326192)]o=0 p=3 d=(O)[C]r=(u)[(Y)[3] ]C=(T)[v(t{1,2,{l(21934),l(22209)}},19785005926490)]O=d(C,r)k=(T)[v(l(21194),20584074758322)]d=(T)[v(l(20394),29588294415576)]C=(T)[v(t{1,2,{l(21368),l(21345)}},534187480871)];(O)[d]=C d=(T)[v(l(20866),21856434198067)]C=(T)[v(t{7,9,10,4,2,8,1,3,6,5,{l(21443),l(20699),l(22232),l(20934),l(21822),l(21673),l(20668),l(21727),l(20932),l(21106)}},3722084294089)];(O)[d]=C r=(P)[s]d=(T)[v(l(21059),25546085124302)]s=(T)[v(l(20884),30241401375312)]C=(r)[s]s=0 r=C(s,I,o,q)o=0(O)[d]=r s=(T)[v(l(21198),10093358050057)]r=(P)[s]q=10 d=(T)[v(t{2,1,{l(21330),l(20494)}},14837733869001)]s=(T)[v(l(21535),32881272366335)]I=-25 C=(r)[s]s=1 r=C(s,I,o,q);(O)[d]=r d=(T)[v(t{1,3,2,{l(20509),l(21144),l(21910)}},29935575657319)]s=(T)[v(t{2,1,{l(21852),l(22164)}},35159192907189)]r=(P)[s]I=0 s=(T)[v(l(21690),18639508219911)]C=(r)[s]s=1 j=2295449 r=C(s,I)s=(T)[v(l(21957),13746047835714)];(O)[d]=r C=1 d=(T)[v(t{1,4,2,5,3,{l(20687),l(21261),l(20805),l(20610),l(20554)}},32386335312065)]I=(T)[v(t{1,3,2,{l(21941),l(20512),l(21982)}},29246061002696)];(O)[d]=C d=(u)[(Y)[4] ]q=(T)[v(t{9,10,11,1,3,6,2,4,7,5,8,{l(22174),l(20450),l(20927),l(20864),l(20521),l(21197),l(21065),l(21279),l(20301),l(20707),l(21883)}},28313499253321)]C=(T)[v(t{1,2,{l(21975),l(22199)}},19507249434359)]o=(T)[v(t{1,2,{l(21469),l(20781)}},34826962781325)]O=nil r={[s]=I,[o]=q,[Q]=p,[k]=X}C=(d)[C]C=C(d,r)end end else if j<9807741 then if j<9800771 then if j<9796282 then X=nil Z=e();(u)[Z]=X x=A(10155898,{Z})R=(T)[v(l(20723),416901705601)]X=(P)[R]R=X(x)x=(u)[Z]X=not x j=X and 7772157 or 15613905 else d={}L=nil j=(P)[(T)[v(t{1,2,3,{l(21572),l(21052),l(21749)}},24533822689518)] ]end else j=EV and 819974 or 14396048 end else if j<9813802 then j=11243627 s=nil r=nil else I=true j=(P)[(T)[v(t{1,3,2,{l(22218),l(20639),l(20445)}},17043496465231)] ];(u)[C]=I d={O}end end end else if j<10086392 then if j<10059934 then if j<9981842 then if j<9845940 then j=9519370 else j=5553829 end else k=(T)[v(t{1,2,{l(20280),l(20925)}},35036480622869)]p=(u)[(Y)[2] ]j=13795192 Q=(p)[k]q=C==Q I=q end else if j<10071969 then L=(c)[1]j=L L=nil(u)[(Y)[1] ]=j d=(u)[(Y)[2] ]m=d()d={}j=(P)[(T)[v(t{1,2,3,{l(22018),l(21565),l(21734)}},4273622494919)] ]else C,I=r(O,C)j=C and 3847012 or 15974836 end end else if j<10151554 then if j<10147720 then if j<10125735 then aV=(T)[v(t{2,1,{l(21550),l(20600)}},17288657338883)]hV=(u)[Q]j=15574674 xV=(hV)[aV]pV=XV(xV)else j=16212585 end else h=j N=(T)[v(t{1,2,{l(22101),l(21949)}},27886966298656)]a=(P)[N]R=a j=a and 2665636 or 966762 end else if j<10155997 then L=200 m=L j=true d=1 L=1(u)[(Y)[1] ]=j O=L L=0 C=O<L j=3216531 L=d-O else d=(u)[(Y)[1] ]L=(c)[1]j=(d)[L]j=j and 5720271 or 6435383 end end end end end else if j<11109743 then if j<10681265 then if j<10412211 then if j<10260106 then if j<10233963 then if j<10223434 then j=(u)[(Y)[6] ]d=j(L)j=11433372 else d=(u)[(Y)[7] ]r=(u)[(Y)[2] ]s=(T)[v(t{2,1,{l(20803),l(20964)}},32919334952736)]C=(r)[s]j=6116119 O=d(C)end else L=nil d={}j=(P)[(T)[v(t{3,2,1,{l(20951),l(20782),l(21406)}},26606537226882)] ]end else if j<10405328 then if j<10361538 then i=(T)[v(l(21946),20283115789664)]d={h}j=(P)[(T)[v(t{2,1,3,{l(21451),l(21363),l(20281)}},23868007624720)] ]J=(P)[i]i=J(b,F,V)else j=7701115 end else lV=nil j=2955393 jV=nil end end else if j<10647344 then if j<10599508 then if j<10591675 then j=(P)[(T)[v(t{3,2,1,{l(20500),l(21495),l(21739)}},33065128295384)] ]d={}else d={}j=(P)[(T)[v(t{2,1,3,{l(21235),l(20830),l(20401)}},12612051705338)] ]end else j=14399309 end else if j<10651703 then Q=(u)[o]q=not Q j=q and 7492193 or 8244119 else L=nil d={}j=(P)[(T)[v(t{2,3,1,{l(20697),l(21377),l(21488)}},17903524039023)] ]end end end else if j<10863097 then if j<10728111 then if j<10710363 then if j<10692072 then j=4004836 else d=(T)[v(l(21907),30349897640584)]j=(P)[d]r=(T)[v(t{1,2,{l(20375),l(22000)}},11000632073641)]C=(u)[(Y)[1] ]O=(C)[r]r=(T)[v(t{1,2,3,{l(20466),l(21745),l(21721)}},8147828288058)]r=(O)[r]C={r(O)}O={j(E(C))}j=12946132 m=(O)[3]L=(O)[2]d=(O)[1]O=d end else d=(T)[v(l(21080),532977598043)]L=(T)[v(l(22175),30895213070442)]j=(P)[d]d=j(L)j=(P)[(T)[v(t{1,3,2,{l(21991),l(22061),l(21027)}},23849990610132)] ]d={}end else if j<10780306 then L=(c)[1]j=L;(u)[(Y)[1] ]=j d=(u)[(Y)[2] ]j=(P)[(T)[v(t{1,3,2,{l(21010),l(21751),l(21331)}},18741405480922)] ]m=d()d={}L=nil else o=(T)[v(l(21318),27086896558423)]I=(u)[(Y)[1] ]Q=(T)[v(l(20599),10530622133323)]j=(I)[L]q=(s)[Q]k=(T)[v(t{1,2,{l(20392),l(22167)}},26191409606393)]p=(s)[k]Q=(T)[v(t{2,1,{l(21266),l(21280)}},22633359432103)]I={[o]=q,[Q]=p}(j)[s]=I j=4044047 end end else if j<11015056 then if j<10905461 then if j<10889433 then R=(T)[v(l(21523),22782865667112)]Z=(P)[R]o=j R=(T)[v(t{1,2,{l(21089),l(20552)}},32870194041415)]h=(T)[v(l(21433),11887740678553)]k=(Z)[R]Z=k()R=(P)[h]h=(T)[v(t{1,2,{l(20785),l(21246)}},22427051686004)]k=(R)[h]R=k()Q=Z==R j=Q and 6131453 or 8458817 I=Q else j=3315 end else tV=not TV W=W+vV H=W<=D H=tV and H tV=W>=D tV=TV and tV H=tV or H tV=11737565 j=H and tV H=12428027 j=j or H end else if j<11019287 then j=N j=2665636 R=a else s=(u)[(Y)[5] ]j=(T)[v(l(21723),27832327647781)];(r)[j]=s j=10684645 end end end end else if j<11923479 then if j<11546911 then if j<11304173 then if j<11277179 then if j<11233236 then j=5272809 d=(u)[(Y)[4] ]O=(T)[v(t{2,1,{l(21419),l(21147)}},2217664614387)]O=(d)[O]O=O(d)d=nil(u)[(Y)[4] ]=d else O,s=C(m,O)j=O and 6864854 or 10236813 end else d={}j=(P)[(T)[v(t{2,3,1,{l(21769),l(20746),l(21989)}},32193365702447)] ]m=nil L=nil end else if j<11409863 then if j<11339604 then d=(u)[(Y)[3] ]C=(u)[(Y)[2] ]r=(T)[v(t{2,1,{l(21245),l(21861)}},4856304737141)]O=(C)[r]m=d(O)d=(u)[(Y)[4] ]j=d and 14721551 or 15311280 else j=m j=d and 11330203 or 2159664 end else j=(P)[(T)[v(t{3,2,1,{l(20560),l(21458),l(21094)}},29490591814698)] ]d={}L=nil end end else if j<11750542 then if j<11737760 then if j<11737391 then d={}j=(P)[(T)[v(t{2,1,3,{l(20763),l(21920),l(20434)}},10085003648569)] ]L=nil else H=W PV=(T)[v(t{1,2,{l(20306),l(21130)}},14963175801785)]tV=(P)[PV]lV=(J)[H]PV=(T)[v(t{5,2,1,4,3,{l(21562),l(21824),l(21591),l(20808),l(20880)}},25810979738518)]PV=(tV)[PV]PV=PV(tV,lV)j=PV and 13911855 or 5048563 end else d={O}j=(P)[(T)[v(t{2,3,1,{l(20415),l(21396),l(22120)}},23209308570977)] ]end else if j<11845286 then d={}L=nil j=(P)[(T)[v(t{3,2,1,{l(20681),l(22149),l(21599)}},28986903682362)] ]else j=o s=I j=898623 end end end else if j<12297472 then if j<12165075 then if j<12094176 then if j<12082348 then j=EV and 935672 or 9098626 else Q=j q=(T)[v(l(21831),32355562757559)]o=(P)[q]R=(T)[v(l(20978),17301616399343)]k=j Z=(P)[R]R=(T)[v(t{1,2,{l(22103),l(21697)}},34744753562493)]k=(T)[v(l(21293),34243473653046)]X=(Z)[R]Z=(T)[v(t{1,2,{l(21373),l(22067)}},26206101857511)]j=13659194 Q=(T)[v(l(21364),17930049001521)]p=X and Z q=p or k s=(o)[q]q=U(4600506,{C})o=s(q,Q)Q=(T)[v(l(20341),5961964324920)]s=false o=e();(u)[o]=s q=(P)[Q]Q=(T)[v(l(20276),2683606594918)]s=(q)[Q]p=U(14016947,{o})Q=0 q=s(Q,p)Q=(T)[v(l(20926),2634657996703)]q=(P)[Q]Q=(T)[v(l(21230),12115509083901)]s=(q)[Q]Q=0.1 q=s(Q)s=(u)[o]end else d={}j=(P)[(T)[v(t{2,1,3,{l(20849),l(20985),l(21657)}},10429979081195)] ]end else if j<12226601 then O=(T)[v(t{2,1,{l(21990),l(21267)}},27245320485531)]m=(u)[(Y)[5] ]d=(m)[O]j=3348832 m=(T)[v(t{1,2,{l(21817),l(21524)}},28750366911134)]O=(u)[(Y)[6] ]m=(d)[m]m=m(d,O);(u)[(Y)[4] ]=m else O=(T)[v(l(21699),23899675061179)]m=(u)[(Y)[1] ]L=(m)[O]m=(T)[v(t{1,2,{l(21607),l(20399)}},5656508168867)]d=(L)[m]j=not d L=j j=L and 5689765 or 5426054 end end else if j<12418647 then if j<12380051 then if j<12335810 then L=(T)[v(l(20854),27991487295985)]d=(P)[L]L=(T)[v(l(21182),18384455533624)]j=(d)[L]L={}d=j(L)j=true(u)[(Y)[1] ]=j j=(P)[(T)[v(t{2,3,1,{l(21073),l(21158),l(21221)}},6478984419043)] ]d={}else dV=(T)[v(l(21337),34345778252542)]W=TV YV=(T)[v(l(20388),6496208665740)]cV=(dV)[YV]MV=(u)[vV]YV=(MV)[W]MV=(u)[D]nV=(u)[D]dV=cV(YV,MV,nV)cV=(T)[v(l(20334),15216884260562)]EV=dV==cV dV=(u)[H]cV=W==dV j=cV and 11975539 or 9804232 end else d={}j=(P)[(T)[v(t{2,3,1,{l(20708),l(20667),l(21778)}},21782243979221)] ]end else if j<12430551 then j=15918493 i=nil J=nil else r=L d=(T)[v(t{2,1,{l(20429),l(22228)}},29824269418317)]j=(T)[v(t{2,10,21,25,24,4,23,6,5,16,8,18,12,13,17,3,20,11,22,14,15,9,1,7,19,{l(20585),l(21127),l(22102),l(20426),l(21554),l(20852),l(22052),l(21263),l(20719),l(21707),l(20548),l(21238),l(20750),l(20858),l(20481),l(21219),l(20535),l(20582),l(20545),l(21742),l(21921),l(20960),l(21156),l(22148),l(22053)}},15840035129499)]r=nil(P)[d]=j j=13005466 end end end end end end else if j<14719566 then if j<13697681 then if j<13048873 then if j<12935764 then if j<12691635 then if j<12640768 then if j<12537317 then dV=nil j=dV and 10405142 or 1560974 else j=i j=J and 10349613 or 5040154 end else r=nil C=nil j=8368092 end else if j<12868328 then if j<12735574 then s=true j=s and 9655483 or 10632655 else O=(T)[v(t{2,1,{l(20638),l(21118)}},24563624221983)]j=14590382 d=(u)[(Y)[4] ]O=(d)[O]O=O(d)d=nil(u)[(Y)[4] ]=d end else p=(T)[v(t{1,2,{l(22093),l(21353)}},31825264259052)]Z=(T)[v(l(21580),2575996276740)]Q=(r)[p]X=(P)[Z]Z=(T)[v(t{1,2,{l(21470),l(21556)}},17457494322092)]k=(X)[Z]X=(T)[v(t{2,1,{l(20277),l(21414)}},18504472612095)]j=11882593 p=(k)[X]q=Q==p I=q end end else if j<13036689 then if j<13012872 then if j<12986168 then m,r=O(L,m)j=m and 2955153 or 13509011 else r=not C L=L+O d=L<=m d=r and d r=L>=m r=C and r d=r or d r=12468320 j=d and r d=10726678 j=j or d end else I=(T)[v(l(21781),19165224747613)]s=(r)[I]C=m I=(T)[v(l(21544),2840427264372)]j=s==I j=j and 7243082 or 12679639 end else if j<13037161 then L=(c)[1]j=L;(u)[(Y)[1] ]=j L=nil j=(P)[(T)[v(t{2,3,1,{l(21521),l(21381),l(21344)}},15528037563066)] ]d=(u)[(Y)[2] ]m=d()d={}else L=c j=nil s=(T)[v(l(20961),15838031855937)]m=j j=(T)[v(t{6,4,1,3,5,2,7,{l(21855),l(21328),l(21241),l(21853),l(20407),l(20309),l(21390)}},35080012074532)]O=j j=false C=e();(u)[C]=j j=nil r=e();(u)[r]=j j=y(6076520,{C,r});(u)[r]=j d=(u)[r];(P)[s]=d s=(u)[C]j=s and 5487159 or 14399309 end end end else if j<13447828 then if j<13358142 then if j<13262558 then if j<13231224 then j=s and 4868792 or 4004836 else m=nil j=7150791 end else L=(T)[v(l(20950),27696069055433)]d=(P)[L]L=(T)[v(l(20345),33899662688554)]j=(d)[L]L=1 d=j(L)L=true j=(u)[(Y)[2] ]d=j(L)j=10598080 end else if j<13393676 then d=(T)[v(t{1,3,2,{l(20642),l(20370),l(20701)}},22077411360435)]j=(m)[d]d=(T)[v(t{1,2,{l(22010),l(20424)}},2685486204633)]d=(j)[d]d=d(j)j=642180 else o=(T)[v(t{1,2,{l(22212),l(22038)}},2042648385452)]j=(T)[v(l(20626),27372682762500)]p=(T)[v(l(21308),29976286541475)]I=(P)[o]o=(T)[v(t{1,2,{l(21631),l(20677)}},29999648474134)]s=(I)[o]Q=(P)[p]p=Q()Q=5 q=p%Q Q=5 o=q/Q q=1 Q=1 I=s(o,q,Q);(r)[j]=I j=13930494 end end else if j<13599947 then if j<13544442 then if j<13469336 then TV=TV+lV W=TV<=PV EV=not jV W=EV and W EV=TV>=PV EV=jV and EV W=EV or W EV=12373234 j=W and EV W=96018 j=j or W else j=12126948 end else j=cV j=EV and 4196119 or 10407411 end else if j<13680091 then j=15827187 else d={}j=(P)[(T)[v(t{1,3,2,{l(21534),l(21954),l(22090)}},32516583042380)] ]end end end end else if j<14203863 then if j<13916168 then if j<13820536 then if j<13768438 then if j<13731062 then H=F~=V j=12576504 J=H else L=(c)[1]j=L;(u)[(Y)[1] ]=j j=(P)[(T)[v(t{3,2,1,{l(21636),l(21640),l(22213)}},21225784961288)] ]d=(u)[(Y)[2] ]L=nil m=d()d={}end else s=I j=o j=8602957 end else if j<13903105 then if j<13888445 then r=(T)[v(t{1,2,{l(20773),l(20970)}},11554240176371)]d=(T)[v(t{2,1,{l(21346),l(21685)}},11901290850404)]C=(T)[v(l(21620),283094924068)]j=(P)[d]O=(P)[C]C=(T)[v(t{1,2,{l(22086),l(21923)}},12814048502598)]C=(O)[C]C=C(O,r)r=(T)[v(t{3,1,2,{l(20307),l(22146),l(20928)}},27509969750291)]r=(C)[r]O={r(C)}C={j(E(O))}d=(C)[1]j=8368092 O=d L=(C)[2]m=(C)[3]else j=true j=j and 7463588 or 12393922 end else tV=1 i+=tV lV=i>b j=lV and 2216329 or 14958450 end end else if j<14021040 then if j<13978570 then if j<13935353 then j=7433595 else j=2860082 end else j=true(u)[(Y)[1] ]=j d={}j=(P)[(T)[v(t{1,3,2,{l(21858),l(20895),l(21041)}},7037946342511)] ]end else if j<14098982 then L=(c)[1]j=L;(u)[(Y)[1] ]=j j=L and 9704662 or 14505923 else m=nil j=7150791 end end end else if j<14404446 then if j<14378210 then if j<14315502 then if j<14232812 then m=(T)[v(l(21776),7363245382323)]d=(P)[m]L=(c)[1]m=(T)[v(l(21997),16832086241986)]j=(d)[m]m=0.1 d=j(m)d=(T)[v(l(21958),10084751465438)]j=(T)[v(t{1,3,2,{l(21931),l(20712),l(21691)}},14063527782534)]j=(L)[j]j=j(L,d)m=j O=(T)[v(t{1,2,{l(21417),l(21787)}},601644406298)]j=(u)[(Y)[1] ]d=j(L)d=(P)[O]O=(T)[v(l(20702),10874197899248)]j=(d)[O]Q=1.1 O=(T)[v(l(21011),31151625654852)]d=j(O)O=d q=(T)[v(t{1,2,{l(21718),l(21382)}},22098938576464)]d=(T)[v(l(20997),19936807345098)]j=(T)[v(l(21087),25054357653557)];(O)[j]=d s=(T)[v(l(20794),4169386140172)]d=(u)[(Y)[2] ]I=1.6 j=(T)[v(t{3,2,1,{l(21648),l(22109),l(21030)}},20760579366716)];(O)[j]=d d=(u)[(Y)[3] ]j=(T)[v(l(20753),17512593621620)];(O)[j]=d j=(T)[v(t{1,2,{l(21508),l(20570)}},287533297846)]r=(P)[s]s=(T)[v(t{1,2,{l(21519),l(21210)}},19832771939857)]C=(r)[s]r=(T)[v(l(20366),28208836978054)]d=(C)[r]C=(T)[v(t{2,1,{l(21654),l(21587)}},26408487298920)];(O)[j]=d d=false s=(T)[v(t{2,1,{l(22145),l(20953)}},11292280769422)]j=(T)[v(t{1,2,{l(22050),l(20976)}},20027417076259)];(O)[j]=d d=(P)[C]C=(T)[v(l(20935),790979509140)]j=(d)[C]C=(T)[v(t{1,2,3,{l(21082),l(22226),l(20334)}},16860604872915)]d=j(C)C=d j=(T)[v(t{2,1,{l(21986),l(21333)}},9064592772218)]d=(T)[v(t{2,4,1,3,{l(20709),l(20937),l(20733),l(20939)}},34879694117612)]o=2.4 p=0(C)[j]=d j=(T)[v(l(21754),3901957282751)]r=(P)[s]s=(T)[v(l(22169),33656059432235)]d=(r)[s]s=2.4 r=d(s,I,o);(C)[j]=r d=O j=(T)[v(t{2,1,{l(21623),l(21922)}},29048965495584)];(C)[j]=d r=(T)[v(t{1,2,{l(20298),l(21450)}},4570662235134)]d=(P)[r]r=(T)[v(l(21844),9744391136471)]j=(d)[r]r=(T)[v(t{2,1,3,{l(20780),l(20792),l(21496)}},13562771042518)]d=j(r)j=(T)[v(l(21532),12769103770412)]r=d I=(T)[v(t{2,1,{l(21944),l(21573)}},28488882590792)]d=m;(r)[j]=d d=O j=(T)[v(l(20404),20864206534229)];(r)[j]=d j=(T)[v(t{2,1,{l(21032),l(20791)}},7264271711420)]d=O;(r)[j]=d j=(T)[v(t{2,1,{l(20337),l(20954)}},30374442074541)]s=(m)[I]m=nil o=(P)[q]q=(T)[v(l(21807),23151568400769)]C=nil I=(o)[q]q=0 r=nil o=I(q,Q,p)d=s*o;(O)[j]=d d=L j=(T)[v(t{2,1,{l(21736),l(21350)}},7025631268643)];(O)[j]=d d=O j=(u)[(Y)[4] ];(j)[L]=d j=(P)[(T)[v(t{3,2,1,{l(21060),l(21511),l(20520)}},33546464654098)] ]L=nil O=nil d={}else EV=1 jV=(S)[EV]cV=j EV=(T)[v(l(22059),11127769819886)]lV=(jV)[EV]EV=(T)[v(l(21072),4017848422910)]jV=(PV)[EV]YV=(u)[a]MV=YV(lV)YV=(u)[a]nV=YV(jV)dV=MV~=nV j=dV and 13572554 or 3253064 EV=dV end else d=(T)[v(t{2,1,{l(20561),l(21310)}},16183267928962)]j=(T)[v(t{23,25,22,9,19,6,2,15,3,11,7,4,8,12,20,1,24,17,5,18,10,13,14,16,21,{l(21805),l(21384),l(20524),l(21533),l(20373),l(22047),l(22158),l(21317),l(21901),l(20362),l(20917),l(21480),l(20898),l(20755),l(21726),l(22171),l(20816),l(20611),l(21379),l(20640),l(21213),l(20686),l(20538),l(22151),l(21165)}},20015203395494)];(P)[d]=j j=15334491 r=L r=nil end else if j<14399169 then EV=nil W=nil j=13458902 else s=true j=s and 9307715 or 117280 end end else if j<14544306 then if j<14499975 then if j<14459050 then Q=e()h=(T)[v(l(20863),8179594008628)]o=nil Z=j;(u)[Q]=o o=U(9216589,{Q});(u)[Q]=o R=(P)[h]j=R and 6579773 or 8345755 k=R else j=(u)[(Y)[1] ]r=(T)[v(t{3,1,2,{l(21403),l(22044),l(20965)}},4877147473725)]L=(c)[1]r=(L)[r]d=j(L)d=(T)[v(l(20936),29823433198625)]j=(P)[d]C={r(L)}r={j(E(C))}d=(r)[1]O=(r)[3]C=d m=(r)[2]j=11243627 end else d=(u)[(Y)[3] ]j=d and 6946830 or 6137651 end else if j<14571811 then d={}j=(P)[(T)[v(t{1,2,3,{l(20647),l(20410),l(22191)}},5639818575076)] ]else j=11735051 end end end end end else if j<16012166 then if j<15494808 then if j<15251293 then if j<15033373 then if j<15017618 then if j<14914619 then j=15311280 m=(T)[v(t{1,2,{l(21389),l(20955)}},2034641628595)]d=(u)[(Y)[4] ]m=(d)[m]m=m(d)else jV=1 lV=b==jV j=lV and 14252293 or 2955393 end else j=(P)[(T)[v(t{3,1,2,{l(20886),l(22085),l(21588)}},3159049089652)] ]d={}end else if j<15120275 then if j<15038314 then d=(u)[(Y)[1] ]L=(c)[1]j=(d)[L]j=j and 16451683 or 6554641 else I=o j=q j=8290597 end else L=(c)[1]j=L d=L;(u)[(Y)[1] ]=j m=j j=L and 7441566 or 15714136 end end else if j<15404880 then if j<15318701 then if j<15307483 then L=(u)[(Y)[2] ]d=L j=15728186 else O=(T)[v(t{1,2,{l(21632),l(21916)}},34964208142605)]m=(u)[(Y)[5] ]j=15872575 d=(m)[O]m=(T)[v(t{2,1,{l(22069),l(21843)}},12151662048912)]O=(u)[(Y)[6] ]m=(d)[m]m=m(d,O);(u)[(Y)[4] ]=m end else r=not C L=L+O d=L<=m d=r and d r=L>=m r=C and r d=r or d r=14364521 j=d and r d=10473909 j=j or d end else if j<15477904 then d=(T)[v(t{1,2,{l(20768),l(20923)}},15848140660697)]j=(u)[(Y)[1] ]L=(u)[(Y)[2] ];(j)[d]=L d={}j=(P)[(T)[v(t{3,2,1,{l(20904),l(22189),l(22115)}},16609710484610)] ]else p=(T)[v(l(20850),31596348845241)]o=j Q=(r)[p]p=(T)[v(l(20419),5782381188083)]q=Q~=p j=q and 12934000 or 11882593 I=q end end end else if j<15801003 then if j<15722669 then if j<15713060 then if j<15588521 then LV=G(LV)GV=G(GV)uV=G(uV)xV=(u)[Q]hV=(T)[v(t{1,2,3,{l(20490),l(20700),l(22182)}},30948432326925)]QV=nil i=G(i)F=G(F)FV=(T)[v(t{2,1,{l(20289),l(21978)}},2795618671934)]pV=(xV)[hV]hV=z(16475606,{B,ZV})V=nil gV=G(gV)xV=(T)[v(t{1,2,{l(21645),l(22031)}},5525772406201)]AV=nil kV=G(kV)SV=false xV=(pV)[xV]BV=(T)[v(t{1,2,{l(21129),l(21402)}},31070916682283)]xV=xV(pV,hV)S=nil rV=nil hV=(T)[v(t{3,1,2,{l(21676),l(22046),l(21112)}},23594717349544)]xV=(T)[v(t{2,1,{l(21351),l(20393)}},18581455284861)]pV=(u)[O]xV=(pV)[xV]aV=4483362458 KV=(T)[v(l(22003),17104772766448)]a=G(a)b=G(b)xV=xV(pV,hV,aV)r=G(r)MV=G(MV)pV=false bV=(T)[v(l(21101),9894574240203)]zV=G(zV)lV=nil nV=G(nV)yV=G(yV)k=G(k)hV=e()oV=G(oV);(u)[hV]=pV JV=(T)[v(t{1,2,3,{l(21323),l(21252),l(20818)}},25887388475054)]iV=U(4594127,{hV})D=G(D)m=nil aV=e()VV=(T)[v(t{1,2,3,{l(21494),l(21117),l(21167)}},6570476694414)]pV=false(u)[aV]=pV pV=(T)[v(t{2,3,1,{l(21593),l(20855),l(20911)}},8776196729204)]sV=G(sV)qV=nil UV=G(UV)K=G(K)mV=G(mV)C=G(C)wV=G(wV)pV=(xV)[pV]O=G(O)jV=G(jV)N=G(N)h=G(h)CV=G(CV)Q=G(Q)NV={[KV]=BV,[VV]=SV,[bV]=JV,[FV]=iV}d={}bV=(T)[v(l(22162),9102265840186)]Z=G(Z)vV=G(vV)SV=false JV=(T)[v(t{1,2,3,{l(20636),l(21006),l(21898)}},20124028393629)]J=G(J)KV=(T)[v(l(21603),29146692780169)]EV=G(EV)iV=y(16261661,{aV})aV=G(aV)pV=pV(xV,NV)H=G(H)B=G(B)pV=(T)[v(t{3,1,2,{l(21273),l(21460),l(20979)}},18670837117521)]RV=G(RV)BV=(T)[v(t{2,1,{l(21664),l(21694)}},18733363179741)]YV=G(YV)IV=G(IV)ZV=G(ZV)pV=(xV)[pV]FV=(T)[v(t{2,1,{l(22096),l(20360)}},16391608987261)]j=(P)[(T)[v(t{1,3,2,{l(21964),l(21427),l(21546)}},32426079191468)] ]eV=G(eV)R=G(R)VV=(T)[v(t{2,1,3,{l(21604),l(21768),l(21007)}},1141659962664)]XV=nil NV={[KV]=BV,[VV]=SV,[bV]=JV,[FV]=iV}OV=nil pV=pV(xV,NV)PV=G(PV)hV=G(hV)xV=nil fV=G(fV)else x=not R j=x and 9582761 or 5598471 end else j=m j=d and 6240347 or 16470924 end else if j<15733345 then j=d and 10700082 or 12126948 else p=(T)[v(t{4,3,5,2,1,{l(20633),l(20591),l(21366),l(20729),l(21902)}},16270287996769)]s=(u)[(Y)[3] ]j=(T)[v(t{2,1,{l(21686),l(21814)}},5027602286534)]o=(T)[v(t{2,3,1,{l(21372),l(21490),l(21134)}},13191702816607)];(r)[j]=s I=(P)[o]o=(T)[v(l(22029),24610137001652)]j=(T)[v(t{3,2,1,{l(20971),l(21695),l(20783)}},6348699027020)]s=(I)[o]Q=(P)[p]p=(T)[v(l(21662),33504664064313)]X=1 q=(Q)[p]k=(u)[(Y)[4] ]p=0 Q=q(p,k)k=(T)[v(t{3,5,1,4,2,{l(21708),l(20724),l(20349),l(20608),l(22140)}},23594566143906)]p=(P)[k]k=(T)[v(l(21019),12317310281374)]q=(p)[k]k=1 p={q(k,X)}o={Q,E(p)}I=s(o);(r)[j]=I j=(u)[(Y)[5] ]j=j and 2526641 or 3641133 end end else if j<15937005 then if j<15900134 then if j<15866809 then s=(u)[o]j=s and 72524 or 13659194 else j=(P)[(T)[v(t{2,3,1,{l(21669),l(20525),l(20328)}},10787221247959)] ]d={}L=nil end else i=(T)[v(t{2,1,{l(22001),l(20369)}},8735149167523)]D=(T)[v(t{1,5,3,8,7,2,4,6,{l(21253),l(20527),l(21001),l(22195),l(21137),l(21973),l(20479),l(20315)}},26549209508842)]jV=(T)[v(t{1,2,{l(20777),l(21918)}},24677511367308)]W=(T)[v(l(21128),21103222693384)]J=(P)[i]H=(P)[W]dV=(T)[v(t{1,2,{l(21693),l(22142)}},19389830056081)]W=(T)[v(t{1,2,{l(21369),l(22075)}},10666697319307)]uV=(T)[v(l(20356),5507542785520)]MV=(T)[v(t{2,1,{l(21895),l(21841)}},7264534780965)]lV={jV}EV=(T)[v(t{1,2,{l(21231),l(21400)}},12014169474742)]W=(H)[W]YV=(T)[v(t{2,1,{l(21870),l(21649)}},12257449841678)]W=W(H,D)H=(T)[v(t{3,2,10,6,9,8,1,5,7,11,4,{l(21689),l(20972),l(21622),l(21875),l(20299),l(21260),l(22238),l(20514),l(22235),l(20518),l(21397)}},2901468059612)]i=J(W,H)vV=e()J=U(6343232,{})W=0 D=e()PV=(T)[v(t{2,1,3,{l(20696),l(21192),l(21759)}},31225699000794)]H=0(u)[D]=H H=e()eV=false(u)[H]=W W={}(u)[vV]=W cV=f(2063992,{D,C,H,vV})nV=(T)[v(t{1,2,{l(20405),l(21756)}},7961550114060)]TV=(P)[PV]LV=(T)[v(t{2,3,1,{l(20683),l(20409),l(21339)}},31679323464809)]jV={[EV]=cV,[dV]=J,[YV]=J,[MV]=J,[nV]=J,[uV]=J,[LV]=eV}PV={TV(lV,jV)}W=i(E(PV))j=W and 11741652 or 8396639 end else if j<15972214 then L=(T)[v(t{2,1,{l(20314),l(21189)}},29637792607785)]d=(P)[L]L=(T)[v(l(21056),21450000798236)]j=(d)[L]L=(T)[v(l(21099),17067761122436)]C=(T)[v(l(21467),22180499886859)]O=(P)[C]C=(T)[v(t{2,1,{l(20586),l(22011)}},10848737201414)]m=(O)[C]d=j(L,m)j=13862402 else C=(T)[v(t{1,2,{l(21425),l(21765)}},14810392025605)]O=(P)[C]r=(u)[(Y)[1] ]j=(P)[(T)[v(t{1,3,2,{l(21770),l(21548),l(20385)}},25818220195274)] ]s={r(m)}C={O(E(s))}d={E(C)}end end end end else if j<16410527 then if j<16213313 then if j<16123911 then if j<16110118 then if j<16030149 then d=(T)[v(l(20515),28222140923930)]j=(P)[d]m=w(6019618,{})d=j(m)m=d j=m and 2958141 or 13234418 else s=r C=m j=r and 5097937 or 13190301 end else d=1 L=(c)[1]j=L==d j=j and 16024309 or 6165954 end else if j<16212279 then L=(c)[1]j=L L=nil(u)[(Y)[1] ]=j d={}j=(P)[(T)[v(t{3,2,1,{l(21612),l(20313),l(21696)}},9546085219648)] ]else r=true j=r and 10142114 or 11294894 end end else if j<16383055 then if j<16261956 then if j<16230470 then j=(P)[(T)[v(t{3,2,1,{l(21809),l(20499),l(21023)}},31528126553449)] ]d={}else L=(c)[1]j=L;(u)[(Y)[1] ]=j j=L and 7461593 or 16277218 end else j=10662072 m=(T)[v(t{2,1,{l(21497),l(22210)}},22163613750976)]d=(P)[m]m=d()O=false d=(T)[v(t{3,2,1,{l(22190),l(20572),l(21222)}},6493433072086)];(m)[d]=O end else if j<16399631 then j=9462286 O=(T)[v(t{2,1,{l(20367),l(21180)}},15893546107039)]d=(u)[(Y)[4] ]O=(d)[O]O=O(d)d=nil(u)[(Y)[4] ]=d else s=(T)[v(t{3,8,4,5,2,7,1,6,{l(21917),l(21596),l(21577),l(20291),l(20492),l(21996),l(20722),l(21517)}},19450690753449)]j=(P)[(T)[v(t{3,1,2,{l(20584),l(21090),l(21236)}},17306780766362)] ]d={s}end end end else if j<16473442 then if j<16457486 then if j<16450336 then if j<16418749 then m=(T)[v(t{2,1,{l(21671),l(20293)}},31212824795066)]d=(u)[(Y)[4] ]m=(d)[m]j=9227721 m=m(d)else I=(T)[v(t{1,2,{l(20587),l(21399)}},32679765391616)]s=(u)[(Y)[4] ]j=2862408 r=(s)[I]O=r end else d=(u)[(Y)[1] ]j=(d)[L]d=(T)[v(t{2,1,{l(20614),l(20446)}},34785974474380)]d=(j)[d]d=d(j)j=(u)[(Y)[1] ]d=nil(j)[L]=d j=6554641 end else if j<16458525 then L=(c)[1]j=L;(u)[(Y)[1] ]=j d=(u)[(Y)[2] ]j=(P)[(T)[v(t{2,1,3,{l(21051),l(20458),l(21174)}},18509410471122)] ]m=d()d={}L=nil else O=(u)[(Y)[2] ]C=(T)[v(t{1,2,{l(21141),l(22121)}},2008568308954)]d=(O)[C]j=d and 2187718 or 5485683 end end else if j<16662705 then if j<16482064 then if j<16475841 then j=(u)[(Y)[1] ]j=j and 13311154 or 10598080 else s=(T)[v(l(22079),24697126102051)]j=3216531 r=L d=(P)[s]r=nil I=U(8619186,{})s=d(I)end else L=(c)[1]j=L L=nil(u)[(Y)[1] ]=j d=(u)[(Y)[2] ]j=(P)[(T)[v(t{1,3,2,{l(20983),l(21071),l(21457)}},18912469592086)] ]m=d()d={}end else if j<16761877 then j=(P)[(T)[v(t{3,1,2,{l(20282),l(22108),l(21871)}},17352890534152)] ]d={}else O=true(u)[(Y)[2] ]=O j=16212585 end end end end end end end end end j=#M return E(d)end,function(v,T,...)local t=O(T)local P=function(...)return j(v,{},T,t)end return P end return(r(13037269,{}))(E(d))end)(getfenv and getfenv()or _ENV,unpack or(table)[(T)[v(t{2,1,{l(21144),l(20274)}},15618051135859)] ],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- ======================================================
+-- ИНИЦИАЛИЗАЦИЯ И СЕРВИСЫ
+-- ======================================================
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local Lighting = game:GetService("Lighting")
+local Workspace = game:GetService("Workspace")
+
+local player = Players.LocalPlayer
+local LocalPlayer = player 
+local camera = Workspace.CurrentCamera
+local Camera = camera 
+
+-- ======================================================
+-- СОЗДАНИЕ ОКНА RAYFIELD
+-- ======================================================
+local Window = Rayfield:CreateWindow({
+   Name = "Universal Hub",
+   LoadingTitle = "Vetrex x Echeron",
+   LoadingSubtitle = "Combined Script",
+   KeySystem = false,
+   ConfigurationSaving = {
+      Enabled = true,
+      FolderName = "UniversalHubConfig",
+      FileName = "HubSave"
+   },
+   Theme = {
+      TextColor = Color3.fromRGB(240,240,240),
+      Background = Color3.fromRGB(5,5,5),
+      Topbar = Color3.fromRGB(10,10,10),
+      Shadow = Color3.fromRGB(0,0,0),
+      NotificationBackground = Color3.fromRGB(5,5,5),
+      NotificationActionsBackground = Color3.fromRGB(200,200,200),
+      TabBackground = Color3.fromRGB(15,15,15),
+      TabStroke = Color3.fromRGB(80,80,80),
+      TabBackgroundSelected = Color3.fromRGB(30,30,30),
+      TabTextColor = Color3.fromRGB(240,240,240),
+      SelectedTabTextColor = Color3.fromRGB(255,255,255),
+      ElementBackground = Color3.fromRGB(10,10,10),
+      ElementBackgroundHover = Color3.fromRGB(20,20,20),
+      SecondaryElementBackground = Color3.fromRGB(5,5,5),
+      ElementStroke = Color3.fromRGB(100,100,100),
+      SecondaryElementStroke = Color3.fromRGB(70,70,70),
+      SliderBackground = Color3.fromRGB(25,25,25),
+      SliderProgress = Color3.fromRGB(0,255,255),
+      SliderStroke = Color3.fromRGB(120,120,120),
+      ToggleBackground = Color3.fromRGB(15,15,15),
+      ToggleEnabled = Color3.fromRGB(0,255,255),
+      ToggleDisabled = Color3.fromRGB(80,80,80),
+      ToggleEnabledStroke = Color3.fromRGB(0,255,255),
+      ToggleDisabledStroke = Color3.fromRGB(120,120,120),
+      ToggleEnabledOuterStroke = Color3.fromRGB(100,100,100),
+      ToggleDisabledOuterStroke = Color3.fromRGB(70,70,70),
+      DropdownSelected = Color3.fromRGB(25,25,25),
+      DropdownUnselected = Color3.fromRGB(15,15,15),
+      InputBackground = Color3.fromRGB(15,15,15),
+      InputStroke = Color3.fromRGB(80,80,80),
+      PlaceholderColor = Color3.fromRGB(150,150,150)
+   }
+})
+
+-- ======================================================
+-- СОЗДАНИЕ ВКЛАДОК
+-- ======================================================
+local ProfileTab   = Window:CreateTab("Profile", 4483362458)
+local CombatTab    = Window:CreateTab("Combat & Aim", 4483362458)
+local MM2Tab       = Window:CreateTab("Murder Mystery 2", 4483362458)
+local VisualsTab   = Window:CreateTab("Visuals", 4483362458)
+local OtherTab     = Window:CreateTab("Other", 4483362458)
+
+-- ======================================================
+-- 1. ПРОФИЛЬ
+-- ======================================================
+local DEVELOPERS = { [9873358913] = "Developer" }
+local ORIGINAL_DEVS = { [10017073535] = "Original Dev" }
+
+local function getStatus()
+   if DEVELOPERS[player.UserId] then return DEVELOPERS[player.UserId]
+   elseif ORIGINAL_DEVS[player.UserId] then return ORIGINAL_DEVS[player.UserId]
+   else return "User" end
+end
+
+ProfileTab:CreateParagraph({
+   Title = "Player Profile",
+   Content = "Username: "..player.Name.."\nDisplayName: "..player.DisplayName.."\nUserId: "..player.UserId.."\nStatus: "..getStatus()
+})
+
+-- ======================================================
+-- 2. COMBAT & ESP (AIM + ESP)
+-- ======================================================
+local AimlockEnabled = false
+local VisibleCheckEnabled = false
+local ESPEnabled = false
+local TracerEnabled = false
+local MM2AimEnabled = false
+local MM2ESPEnabled = false
+local AimSensitivity = 0.5
+local TargetPartName = "Head"
+local FOVRadius = 100
+local TracerPosition = "Bottom"
+
+local FOVCircle = Drawing.new("Circle")
+FOVCircle.Color = Color3.fromRGB(255, 255, 255)
+FOVCircle.Thickness = 1
+FOVCircle.Filled = false
+FOVCircle.Transparency = 1
+FOVCircle.Radius = FOVRadius
+FOVCircle.Visible = false
+
+local TargetTracer = Drawing.new("Line")
+TargetTracer.Color = Color3.fromRGB(255, 255, 255)
+TargetTracer.Thickness = 1
+TargetTracer.Transparency = 1
+TargetTracer.Visible = false
+
+local ESPHighlights = {}
+
+local function GetPlayerRole(plr)
+    local char = plr.Character
+    if not char then return "Innocent" end
+    if char:FindFirstChild("Knife") or plr.Backpack:FindFirstChild("Knife") then return "Murderer"
+    elseif char:FindFirstChild("Gun") or plr.Backpack:FindFirstChild("Gun") then return "Sheriff" end
+    return "Innocent"
+end
+
+local function IsVisible(targetPart)
+    local char = LocalPlayer.Character
+    if not char then return false end
+    local params = RaycastParams.new()
+    params.FilterType = Enum.RaycastFilterType.Exclude
+    params.FilterDescendantsInstances = {char, Camera}
+    local origin = Camera.CFrame.Position
+    local direction = targetPart.Position - origin
+    local result = workspace:Raycast(origin, direction, params)
+    if result then
+        return result.Instance:IsDescendantOf(targetPart.Parent)
+    end
+    return true
+end
+
+local function GetClosestPlayerToCenter(ignoreVisibility, onlyMurder)
+    local Target = nil
+    local ShortestDistance = math.huge
+    local Center = Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y / 2)
+
+    for _, plr in pairs(Players:GetPlayers()) do
+        if plr ~= LocalPlayer and plr.Character and plr.Character:FindFirstChild("Humanoid") and plr.Character.Humanoid.Health > 0 then
+            if onlyMurder and GetPlayerRole(plr) ~= "Murderer" then continue end
+
+            local part = plr.Character:FindFirstChild(TargetPartName) or plr.Character:FindFirstChild("HumanoidRootPart")
+            if part then
+                if not ignoreVisibility and VisibleCheckEnabled and not IsVisible(part) then continue end
+                local Pos, OnScreen = Camera:WorldToViewportPoint(part.Position)
+                if OnScreen then
+                    local Distance = (Vector2.new(Pos.X, Pos.Y) - Center).Magnitude
+                    if Distance <= FOVRadius and Distance < ShortestDistance then
+                        Target = plr
+                        ShortestDistance = Distance
+                    end
+                end
+            end
+        end
+    end
+    return Target
+end
+
+local function UpdateESP()
+    for _, plr in pairs(Players:GetPlayers()) do
+        if plr ~= LocalPlayer then
+            local char = plr.Character
+            if char and char:FindFirstChild("Humanoid") and char.Humanoid.Health > 0 then
+                if ESPEnabled or MM2ESPEnabled then
+                    if not ESPHighlights[plr] then
+                        local highlight = Instance.new("Highlight")
+                        highlight.Name = "ESPHighlight"
+                        highlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+                        highlight.FillTransparency = 0.5
+                        highlight.OutlineTransparency = 0
+                        highlight.Parent = char
+                        ESPHighlights[plr] = highlight
+                    end
+                    
+                    local highlight = ESPHighlights[plr]
+                    if MM2ESPEnabled then
+                        local role = GetPlayerRole(plr)
+                        if role == "Murderer" then
+                            highlight.FillColor = Color3.fromRGB(255, 0, 0)
+                            highlight.OutlineColor = Color3.fromRGB(255, 0, 0)
+                        elseif role == "Sheriff" then
+                            highlight.FillColor = Color3.fromRGB(0, 0, 255)
+                            highlight.OutlineColor = Color3.fromRGB(0, 0, 255)
+                        else
+                            highlight.FillColor = Color3.fromRGB(0, 255, 0)
+                            highlight.OutlineColor = Color3.fromRGB(0, 255, 0)
+                        end
+                    else
+                        highlight.FillColor = plr.Team and plr.TeamColor.Color or Color3.fromRGB(255, 255, 255)
+                        highlight.OutlineColor = Color3.fromRGB(255, 255, 255)
+                    end
+                elseif ESPHighlights[plr] then
+                    ESPHighlights[plr]:Destroy()
+                    ESPHighlights[plr] = nil
+                end
+            elseif ESPHighlights[plr] then
+                ESPHighlights[plr]:Destroy()
+                ESPHighlights[plr] = nil
+            end
+        end
+    end
+end
+
+-- Combat UI
+local AimlockToggle = CombatTab:CreateToggle({
+    Name = "Aimlock", CurrentValue = false,
+    Callback = function(Value) AimlockEnabled = Value end,
+})
+
+CombatTab:CreateKeybind({
+    Name = "Aimlock Bind", CurrentKeybind = "E", HoldToInteract = false,
+    Callback = function() AimlockToggle:Set(not AimlockEnabled) end,
+})
+
+CombatTab:CreateDropdown({
+    Name = "Target Part", Options = {"Head", "Torso"}, CurrentOption = {"Head"},
+    Callback = function(Option) TargetPartName = Option[1] end,
+})
+
+CombatTab:CreateSlider({
+    Name = "Sensitivity", Range = {1, 100}, Increment = 1, CurrentValue = 50,
+    Callback = function(Value) AimSensitivity = Value / 100 end,
+})
+
+CombatTab:CreateToggle({
+    Name = "Visible Check", CurrentValue = false,
+    Callback = function(Value) VisibleCheckEnabled = Value end,
+})
+
+CombatTab:CreateToggle({
+    Name = "Show FOV", CurrentValue = false,
+    Callback = function(Value) FOVCircle.Visible = Value end,
+})
+
+CombatTab:CreateSlider({
+    Name = "FOV Size", Range = {10, 800}, Increment = 1, CurrentValue = 100,
+    Callback = function(Value) FOVRadius = Value; FOVCircle.Radius = Value end,
+})
+
+CombatTab:CreateToggle({
+    Name = "ESP", CurrentValue = false,
+    Callback = function(Value) ESPEnabled = Value end,
+})
+
+CombatTab:CreateToggle({
+    Name = "Show Target Tracer", CurrentValue = false,
+    Callback = function(Value) TracerEnabled = Value end,
+})
+
+CombatTab:CreateDropdown({
+    Name = "Tracer Position", Options = {"Top", "Center", "Bottom"}, CurrentOption = {"Bottom"},
+    Callback = function(Option) TracerPosition = Option[1] end,
+})
+
+-- MM2 UI
+local MM2AimToggle = MM2Tab:CreateToggle({
+    Name = "Aimlock Murder", CurrentValue = false,
+    Callback = function(Value) MM2AimEnabled = Value end,
+})
+
+MM2Tab:CreateKeybind({
+    Name = "MM2 Aim Bind", CurrentKeybind = "Q", HoldToInteract = false,
+    Callback = function() MM2AimToggle:Set(not MM2AimEnabled) end,
+})
+
+MM2Tab:CreateToggle({
+    Name = "ESP (Roles)", CurrentValue = false,
+    Callback = function(Value) MM2ESPEnabled = Value end,
+})
+
+RunService.RenderStepped:Connect(function()
+    FOVCircle.Position = Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y / 2)
+    UpdateESP()
+    
+    local TargetForTracer = GetClosestPlayerToCenter(true, false)
+    local TargetForAim = MM2AimEnabled and GetClosestPlayerToCenter(false, true) or (AimlockEnabled and GetClosestPlayerToCenter(false, false))
+    
+    if TracerEnabled and TargetForTracer and TargetForTracer.Character then
+        local part = TargetForTracer.Character:FindFirstChild(TargetPartName) or TargetForTracer.Character:FindFirstChild("HumanoidRootPart")
+        if part then
+            local Pos, OnScreen = Camera:WorldToViewportPoint(part.Position)
+            if OnScreen then
+                local StartPos = TracerPosition == "Top" and Vector2.new(Camera.ViewportSize.X / 2, 0) or (TracerPosition == "Center" and Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y / 2) or Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y))
+                TargetTracer.From = StartPos
+                TargetTracer.To = Vector2.new(Pos.X, Pos.Y)
+                TargetTracer.Visible = true
+            else
+                TargetTracer.Visible = false
+            end
+        else
+            TargetTracer.Visible = false
+        end
+    else
+        TargetTracer.Visible = false
+    end
+
+    if TargetForAim and TargetForAim.Character then
+        local part = TargetForAim.Character:FindFirstChild(TargetPartName) or TargetForAim.Character:FindFirstChild("HumanoidRootPart")
+        if part then
+            Camera.CFrame = Camera.CFrame:Lerp(CFrame.new(Camera.CFrame.Position, part.Position), AimSensitivity)
+        end
+    end
+end)
+
+-- ======================================================
+-- 3. VISUALS (COSMETICS + SKY)
+-- ======================================================
+VisualsTab:CreateSection("Cosmetics")
+
+local hatEnabled = false
+local hatParts, hatTransparency, hatRainbow, hatColor = {}, 0.3, false, Color3.fromRGB(0, 255, 255)
+local hatConnection
+
+local function removeHat(char)
+   if hatParts[char] then hatParts[char]:Destroy(); hatParts[char] = nil end
+end
+
+local function addHat(char)
+   task.wait(0.1)
+   local head = char:WaitForChild("Head")
+   removeHat(char)
+   local hat = Instance.new("Part")
+   hat.Name = "Hat"
+   hat.Transparency = hatTransparency
+   hat.Color = hatColor
+   hat.Material = Enum.Material.Neon
+   hat.CanCollide = false
+   local mesh = Instance.new("SpecialMesh")
+   mesh.MeshId = "rbxassetid://1033714"
+   mesh.Scale = Vector3.new(2.4, 1.6, 2.4)
+   mesh.Parent = hat
+   local weld = Instance.new("WeldConstraint")
+   weld.Part0 = head
+   weld.Part1 = hat
+   weld.Parent = hat
+   hat.CFrame = head.CFrame * CFrame.new(0, 1.1, 0)
+   hat.Parent = char
+   hatParts[char] = hat
+end
+
+local function updateHats()
+   for char, hat in pairs(hatParts) do
+      if hat and hat.Parent and char == player.Character then
+         hat.Transparency = hatTransparency
+         if hatRainbow then hat.Color = Color3.fromHSV(tick() % 5 / 5, 1, 1) else hat.Color = hatColor end
+      end
+   end
+end
+
+VisualsTab:CreateToggle({
+   Name = "Enable Chinese Hat", CurrentValue = false,
+   Callback = function(value)
+      hatEnabled = value
+      if value and player.Character then
+         addHat(player.Character)
+         if hatConnection then hatConnection:Disconnect() end
+         hatConnection = RunService.Heartbeat:Connect(updateHats)
+      else
+         if player.Character then removeHat(player.Character) end
+         if hatConnection then hatConnection:Disconnect(); hatConnection = nil end
+      end
+   end
+})
+
+VisualsTab:CreateToggle({
+   Name = "Rainbow Hat", CurrentValue = false,
+   Callback = function(value) hatRainbow = value; updateHats() end
+})
+
+VisualsTab:CreateColorPicker({
+   Name = "Hat Color", Color = Color3.fromRGB(0, 255, 255),
+   Callback = function(color) hatColor = color; if hatEnabled and not hatRainbow then updateHats() end end
+})
+
+-- Trail Logic
+local trailEnabled = false
+local trailParts, trailLifetime, trailTransparencyStart, trailRainbow, trailColorStatic = {}, 0.5, 0, false, Color3.fromRGB(0, 255, 255)
+local trailConnection
+
+local function removeTrail(char)
+   if trailParts[char] then trailParts[char]:Destroy(); trailParts[char] = nil end
+   if char and char:FindFirstChild("HumanoidRootPart") then
+      local torso = char.HumanoidRootPart
+      if torso:FindFirstChild("TrailAttach0") then torso.TrailAttach0:Destroy() end
+      if torso:FindFirstChild("TrailAttach1") then torso.TrailAttach1:Destroy() end
+   end
+end
+
+local function addTrail(character)
+   local torso = character:WaitForChild("HumanoidRootPart")
+   removeTrail(character)
+   local attachment0 = Instance.new("Attachment", torso)
+   attachment0.Name = "TrailAttach0"; attachment0.Position = Vector3.new(0, 2, 0)
+   local attachment1 = Instance.new("Attachment", torso)
+   attachment1.Name = "TrailAttach1"; attachment1.Position = Vector3.new(0, -2, 0)
+   local trail = Instance.new("Trail")
+   trail.Attachment0 = attachment0; trail.Attachment1 = attachment1
+   trail.Lifetime = trailLifetime
+   trail.Transparency = NumberSequence.new({NumberSequenceKeypoint.new(0, trailTransparencyStart), NumberSequenceKeypoint.new(1, 1)})
+   trail.Color = ColorSequence.new(trailColorStatic)
+   trail.LightEmission = 0.7; trail.Enabled = true; trail.Parent = character
+   trailParts[character] = trail
+end
+
+local function updateTrails()
+   for char, trail in pairs(trailParts) do
+      if trail and trail.Parent and char == player.Character then
+         trail.Lifetime = trailLifetime
+         trail.Transparency = NumberSequence.new({NumberSequenceKeypoint.new(0, trailTransparencyStart), NumberSequenceKeypoint.new(1, 1)})
+         if trailRainbow then trail.Color = ColorSequence.new(Color3.fromHSV(tick() % 5 / 5, 1, 1)) else trail.Color = ColorSequence.new(trailColorStatic) end
+      end
+   end
+end
+
+VisualsTab:CreateToggle({
+   Name = "Enable Trail", CurrentValue = false,
+   Callback = function(value)
+      trailEnabled = value
+      if value and player.Character then
+         addTrail(player.Character)
+         if trailConnection then trailConnection:Disconnect() end
+         trailConnection = RunService.Heartbeat:Connect(updateTrails)
+      else
+         if player.Character then removeTrail(player.Character) end
+         if trailConnection then trailConnection:Disconnect(); trailConnection = nil end
+      end
+   end
+})
+
+VisualsTab:CreateToggle({
+   Name = "Rainbow Trail", CurrentValue = false,
+   Callback = function(value) trailRainbow = value; updateTrails() end
+})
+
+VisualsTab:CreateColorPicker({
+   Name = "Trail Color", Color = Color3.fromRGB(0, 255, 255),
+   Callback = function(color) trailColorStatic = color; if trailEnabled and not trailRainbow then updateTrails() end end
+})
+
+-- Forcefield Logic
+local ffEnabled = false
+local ffColor, ffRainbow, originalColors, ffConnection = Color3.fromRGB(128, 128, 128), false, {}, nil
+
+local function saveOriginalColors(char)
+   originalColors[char] = {}
+   for _, part in pairs(char:GetDescendants()) do
+      if part:IsA("BasePart") and part.Name ~= "Hat" then
+         originalColors[char][part] = {Color = part.Color, Material = part.Material}
+      end
+   end
+end
+
+local function applyForceField(char)
+   saveOriginalColors(char)
+   for _, part in pairs(char:GetDescendants()) do
+      if part:IsA("BasePart") and part.Name ~= "Hat" then
+         part.Color = ffColor; part.Material = Enum.Material.ForceField
+      end
+   end
+end
+
+local function updateForceField()
+   if player.Character and ffEnabled then
+      for _, part in pairs(player.Character:GetDescendants()) do
+         if part:IsA("BasePart") and part.Name ~= "Hat" and part.Material == Enum.Material.ForceField then
+            if ffRainbow then part.Color = Color3.fromHSV(tick() % 5 / 5, 1, 1) else part.Color = ffColor end
+         end
+      end
+   end
+end
+
+local function removeForceField(char)
+   if originalColors[char] then
+      for part, data in pairs(originalColors[char]) do
+         if part and part.Parent and part:IsA("BasePart") then
+            part.Color = data.Color; part.Material = data.Material
+         end
+      end
+      originalColors[char] = {}
+   end
+end
+
+VisualsTab:CreateToggle({
+   Name = "Enable ForceField", CurrentValue = false,
+   Callback = function(value)
+      ffEnabled = value
+      if player.Character then
+         if value then
+            applyForceField(player.Character)
+            if ffConnection then ffConnection:Disconnect() end
+            ffConnection = RunService.Heartbeat:Connect(updateForceField)
+         else
+            if ffConnection then ffConnection:Disconnect(); ffConnection = nil end
+            removeForceField(player.Character)
+         end
+      end
+   end
+})
+
+VisualsTab:CreateToggle({
+   Name = "Rainbow ForceField", CurrentValue = false,
+   Callback = function(value) ffRainbow = value; updateForceField() end
+})
+
+VisualsTab:CreateColorPicker({
+   Name = "ForceField Color", Color = Color3.fromRGB(128, 128, 128),
+   Callback = function(color) ffColor = color; if ffEnabled and not ffRainbow and player.Character then applyForceField(player.Character) end end
+})
+
+VisualsTab:CreateSection("Environment & Sky")
+
+local currentTime = Lighting.ClockTime
+RunService.Heartbeat:Connect(function() Lighting.ClockTime = currentTime end)
+
+VisualsTab:CreateSlider({
+   Name = "Sky Time (0-24)", Range = {0, 24}, Increment = 0.1, CurrentValue = 12,
+   Callback = function(value) currentTime = value end
+})
+
+local function clearSkies()
+   for _, v in pairs(game.Lighting:GetChildren()) do if v:IsA("Sky") then v:Destroy() end end
+end
+
+VisualsTab:CreateButton({
+   Name = "Custom Sky 1 (Original)",
+   Callback = function()
+      clearSkies()
+      local s = Instance.new("Sky")
+      s.SkyboxBk = "http://www.roblox.com/asset/?id=171410628"
+      s.SkyboxDn = "http://www.roblox.com/asset/?id=171410649"
+      s.SkyboxFt = "http://www.roblox.com/asset/?id=171410620"
+      s.SkyboxLf = "http://www.roblox.com/asset/?id=171410666"
+      s.SkyboxRt = "http://www.roblox.com/asset/?id=171410657"
+      s.SkyboxUp = "http://www.roblox.com/asset/?id=171410636"
+      s.Parent = game.Lighting
+   end
+})
+
+VisualsTab:CreateButton({
+   Name = "Custom Sky 2",
+   Callback = function()
+      clearSkies()
+      local s = Instance.new("Sky")
+      for k,v in pairs({Bk=17279854976,Dn=17279856318,Ft=17279858447,Lf=17279860360,Rt=17279862234,Up=17279864507}) do 
+         s["Skybox"..k] = "rbxassetid://"..v
+      end 
+      s.Parent = game.Lighting
+   end
+})
+
+VisualsTab:CreateButton({
+   Name = "Custom Sky 3",
+   Callback = function()
+      clearSkies()
+      local s = Instance.new("Sky")
+      for k,v in pairs({Bk=12064107,Dn=12064152,Ft=12064121,Lf=12063984,Rt=12064115,Up=12064131}) do 
+         s["Skybox"..k] = "rbxassetid://"..v
+      end 
+      s.Parent = game.Lighting
+   end
+})
+
+local ratioConn
+VisualsTab:CreateButton({
+   Name = "Enable 4:3",
+   Callback = function()
+      if ratioConn then return end
+      ratioConn = RunService.RenderStepped:Connect(function() camera.CFrame = camera.CFrame * CFrame.new(0,0,0,1,0,0,0,0.65,0,0,0,1) end)
+   end
+})
+
+VisualsTab:CreateButton({
+   Name = "Reset 4:3",
+   Callback = function() if ratioConn then ratioConn:Disconnect(); ratioConn = nil end end
+})
+
+-- ======================================================
+-- 4. OTHER (MOVEMENT + MISC)
+-- ======================================================
+OtherTab:CreateSection("Movement")
+
+local WallHopEnabled = false
+local wallhopDebounce = true
+local wallhopRayParams = RaycastParams.new()
+wallhopRayParams.FilterType = Enum.RaycastFilterType.Blacklist
+
+local function getWallRaycastResult()
+    local char = player.Character
+    if not char then return nil end
+    local humanoidRootPart = char:FindFirstChild("HumanoidRootPart")
+    if not humanoidRootPart then return nil end
+
+    wallhopRayParams.FilterDescendantsInstances = {char}
+
+    local directions = {
+        humanoidRootPart.CFrame.LookVector,
+        -humanoidRootPart.CFrame.LookVector,
+        humanoidRootPart.CFrame.RightVector,
+        -humanoidRootPart.CFrame.RightVector
+    }
+    local detectionDistance = 2
+    local closestHit = nil
+    local minDistance = detectionDistance + 1
+
+    for _, direction in pairs(directions) do
+        local ray = Workspace:Raycast(
+            humanoidRootPart.Position,
+            direction * detectionDistance,
+            wallhopRayParams
+        )
+        if ray and ray.Instance then
+             if ray.Distance < minDistance then
+                 minDistance = ray.Distance
+                 closestHit = ray
+             end
+        end
+    end
+    return closestHit
+end
+
+-- Wallhop UI
+local WallhopToggle = OtherTab:CreateToggle({
+   Name = "Wallhop", 
+   CurrentValue = false,
+   Callback = function(v) WallHopEnabled = v end
+})
+
+OtherTab:CreateKeybind({
+    Name = "Wallhop Bind",
+    CurrentKeybind = "J",
+    HoldToInteract = false,
+    Callback = function()
+        WallhopToggle:Set(not WallHopEnabled)
+    end,
+})
+
+UserInputService.JumpRequest:Connect(function()
+    if not WallHopEnabled or not wallhopDebounce then return end
+
+    local char = player.Character
+    local humanoid = char and char:FindFirstChildOfClass("Humanoid")
+    local rootPart = char and char:FindFirstChild("HumanoidRootPart")
+
+    if not (humanoid and rootPart and camera) then return end
+
+    local wallRayResult = getWallRaycastResult()
+
+    if wallRayResult then
+        wallhopDebounce = false
+        local wallNormal = wallRayResult.Normal
+        local horizontalWallNormal = Vector3.new(wallNormal.X, 0, wallNormal.Z).Unit
+        if horizontalWallNormal.Magnitude < 0.1 then
+             horizontalWallNormal = (rootPart.CFrame.LookVector * Vector3.new(1,0,1)).Unit
+             if horizontalWallNormal.Magnitude < 0.1 then horizontalWallNormal = Vector3.new(0,0,-1) end
+        end
+        local baseDirectionAwayFromWall = horizontalWallNormal
+        local cameraLook = camera.CFrame.LookVector
+        local horizontalCameraLook = Vector3.new(cameraLook.X, 0, cameraLook.Z).Unit
+        if horizontalCameraLook.Magnitude < 0.1 then horizontalCameraLook = baseDirectionAwayFromWall end
+        local maxInfluenceAngle = math.rad(40)
+        local dot = math.clamp(baseDirectionAwayFromWall:Dot(horizontalCameraLook), -1, 1)
+        local angleBetween = math.acos(dot)
+        local cross = baseDirectionAwayFromWall:Cross(horizontalCameraLook)
+        local rotationSign = math.sign(cross.Y)
+        if rotationSign == 0 then angleBetween = 0 end
+        local actualInfluenceAngle = math.min(angleBetween, maxInfluenceAngle)
+        local adjustmentRotation = CFrame.Angles(0, actualInfluenceAngle * rotationSign, 0)
+        local initialTargetLookDirection = adjustmentRotation * baseDirectionAwayFromWall
+        rootPart.CFrame = CFrame.lookAt(rootPart.Position, rootPart.Position + initialTargetLookDirection)
+        RunService.Heartbeat:Wait()
+        local didJump = false
+        if humanoid and humanoid:GetState() ~= Enum.HumanoidStateType.Dead then
+             humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+             didJump = true
+        end
+        if didJump then
+             local directionTowardsWall = -baseDirectionAwayFromWall
+             rootPart.CFrame = CFrame.lookAt(rootPart.Position, rootPart.Position + directionTowardsWall)
+        end
+        task.wait(0.15)
+        wallhopDebounce = true
+    end
+end)
+
+-- Speed Glitch UI
+local SpeedEnabled = false
+local SpeedValue = 80
+
+local SpeedToggle = OtherTab:CreateToggle({
+   Name = "Speed Glitch", CurrentValue = false,
+   Callback = function(v) SpeedEnabled = v end
+})
+
+OtherTab:CreateKeybind({
+    Name = "Speed Glitch Bind",
+    CurrentKeybind = "L",
+    HoldToInteract = false,
+    Callback = function()
+        SpeedToggle:Set(not SpeedEnabled)
+    end,
+})
+
+OtherTab:CreateSlider({
+   Name = "Speed Value", Range = {16,500}, Increment = 1, CurrentValue = 80,
+   Callback = function(v) SpeedValue = v end
+})
+
+RunService.Heartbeat:Connect(function()
+   if not SpeedEnabled then return end
+   local char = player.Character
+   local hum = char and char:FindFirstChildOfClass("Humanoid")
+   local hrp = char and char:FindFirstChild("HumanoidRootPart")
+   if not hum or not hrp then return end
+
+   if hum:GetState() == Enum.HumanoidStateType.Jumping or hum:GetState() == Enum.HumanoidStateType.Freefall then
+      local dir = hum.MoveDirection
+      if dir.Magnitude > 0 then
+         hrp.AssemblyLinearVelocity = dir.Unit * SpeedValue + Vector3.new(0, hrp.AssemblyLinearVelocity.Y, 0)
+      end
+   end
+end)
+
+OtherTab:CreateSection("Misc")
+
+local fpsPingEnabled, animeImageEnabled = false, false
+local animeImageGui = nil
+
+OtherTab:CreateButton({
+   Name = "Activate FPS/Ping Counter",
+   Callback = function()
+      if not fpsPingEnabled then
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/GLAMOHGA/fling/refs/heads/main/хз%20как%20назвать%20типо%20фпс%20и%20пинг.md"))()
+         fpsPingEnabled = true
+         Rayfield:Notify({Title = "FPS/Ping Counter", Content = "Activated!", Duration = 3, Image = 4483362458})
+      end
+   end
+})
+
+local function toggleAnimeImage(value)
+   animeImageEnabled = value
+   if value then
+      animeImageGui = Instance.new("ScreenGui", player.PlayerGui)
+      animeImageGui.Name = "AnimeImageGui"
+      animeImageGui.ResetOnSpawn = false
+      local imageLabel = Instance.new("ImageLabel", animeImageGui)
+      imageLabel.Image = "http://www.roblox.com/asset/?id=117783035423570"
+      imageLabel.Size = UDim2.new(0, 350, 0, 400)
+      imageLabel.Position = UDim2.new(1, -25, 0, 10)
+      imageLabel.AnchorPoint = Vector2.new(1, 0)
+      imageLabel.BackgroundTransparency = 1
+      Rayfield:Notify({Title = "Anime Image", Content = "Activated!", Duration = 3, Image = 4483362458})
+   else
+      if animeImageGui then animeImageGui:Destroy(); animeImageGui = nil end
+   end
+end
+
+OtherTab:CreateToggle({
+   Name = "Anime Image", CurrentValue = false,
+   Callback = function(value) toggleAnimeImage(value) end
+})
+
+-- Glow Effect Logic
+RunService.Heartbeat:Connect(function()
+   if Window.Flags then
+      local isOpen = not Window.Flags.Minimized
+      if isOpen then
+         Lighting.Ambient = Color3.fromRGB(5, 5, 5)
+         Lighting.ColorShift_Bottom = Color3.fromRGB(0, 0, 0)
+         Lighting.ColorShift_Top = Color3.fromRGB(10, 10, 10)
+      end
+   end
+end)
+
+local function reapplyVisuals(char)
+   task.wait(0.5)
+   if hatEnabled then addHat(char) end
+   if trailEnabled then addTrail(char) end
+   if ffEnabled then applyForceField(char) end
+   if animeImageEnabled then task.wait(0.5); toggleAnimeImage(true) end
+end
+
+player.CharacterAdded:Connect(reapplyVisuals)
+if player.Character then reapplyVisuals(player.Character) end
+
+-- Accessories Tab
+local AccessoriesTab = Window:CreateTab("Accessories", 4483362458)
+
+local korbloxEnabled = false
+local headlessEnabled = false
+
+AccessoriesTab:CreateToggle({
+   Name = "Korblox",
+   CurrentValue = false,
+   Flag = "KorbloxToggle",
+   Callback = function(value)
+      korbloxEnabled = value
+      if value then
+         getgenv().Mscuaz_Korblox = true
+         getgenv().Mscuaz_Headless = false
+         getgenv().MscuazScriptIsTheBest = "MscuazScripter"
+         loadstring(game:HttpGet('https://raw.githubusercontent.com/gwnrdt/Try/refs/heads/main/Headless%26Korblox.lua'))()
+      else
+         getgenv().Mscuaz_Korblox = false
+      end
+   end
+})
+
+AccessoriesTab:CreateToggle({
+   Name = "Headless",
+   CurrentValue = false,
+   Flag = "HeadlessToggle",
+   Callback = function(value)
+      headlessEnabled = value
+      if value then
+         getgenv().Mscuaz_Headless = true
+         getgenv().Mscuaz_Korblox = false
+         getgenv().MscuazScriptIsTheBest = "MscuazScripter"
+         loadstring(game:HttpGet('https://raw.githubusercontent.com/gwnrdt/Try/refs/heads/main/Headless%26Korblox.lua'))()
+      else
+         getgenv().Mscuaz_Headless = false
+      end
+   end
+})
