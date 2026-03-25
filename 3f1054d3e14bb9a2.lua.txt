@@ -1,0 +1,243 @@
+-- ts file was generated at discord.gg/25ms
+
+local _UserInputService = game:GetService('UserInputService')
+local _RunService = game:GetService('RunService')
+local _LocalPlayer = game.Players.LocalPlayer
+local u4 = _LocalPlayer.Character or _LocalPlayer.CharacterAdded:Wait()
+local v5 = u4
+local u6 = u4.WaitForChild(v5, 'Humanoid')
+local v7 = u4
+local u8 = u4.WaitForChild(v7, 'HumanoidRootPart')
+local u9 = 50
+local u10 = true
+local _ScreenGui = Instance.new('ScreenGui')
+
+_ScreenGui.Name = 'MainGui'
+_ScreenGui.Parent = game:GetService('CoreGui')
+_ScreenGui.ResetOnSpawn = false
+
+local _Frame = Instance.new('Frame')
+
+_Frame.Name = 'MainFrame'
+_Frame.Parent = _ScreenGui
+_Frame.Size = UDim2.new(0, 230, 0, 260)
+_Frame.Position = UDim2.new(0.5, -115, 0.5, -130)
+_Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+_Frame.BorderSizePixel = 0
+_Frame.Active = true
+_Frame.Draggable = true
+_Frame.BackgroundTransparency = 0.1
+_Frame.Visible = true
+_Frame.ZIndex = 100
+Instance.new('UICorner').Parent = _Frame
+
+local _TextButton = Instance.new('TextButton')
+
+_TextButton.Name = 'CloseButton'
+_TextButton.Parent = _Frame
+_TextButton.Size = UDim2.new(0, 35, 0, 30)
+_TextButton.Position = UDim2.new(1, -50, 0, 10)
+_TextButton.Text = 'x'
+_TextButton.TextColor3 = Color3.new(1, 0, 0)
+_TextButton.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+_TextButton.TextSize = 20
+_TextButton.Font = Enum.Font.Gotham
+_TextButton.ZIndex = 100
+Instance.new('UICorner').Parent = _TextButton
+
+local _TextLabel = Instance.new('TextLabel')
+
+_TextLabel.Name = 'TitleLabel'
+_TextLabel.Parent = _Frame
+_TextLabel.Size = UDim2.new(0.5, 0, 0, 30)
+_TextLabel.Position = UDim2.new(0, 5, 0, 5)
+_TextLabel.Text = 'SpeedGlitch'
+_TextLabel.TextColor3 = Color3.new(1, 1, 1)
+_TextLabel.BackgroundTransparency = 1
+_TextLabel.TextSize = 14
+_TextLabel.Font = Enum.Font.GothamBold
+_TextLabel.TextStrokeTransparency = 0.5
+_TextLabel.ZIndex = 100
+
+local _TextLabel2 = Instance.new('TextLabel')
+
+_TextLabel2.Name = 'ByLabel'
+_TextLabel2.Parent = _Frame
+_TextLabel2.Size = UDim2.new(0.5, 0, 0, 25)
+_TextLabel2.Position = UDim2.new(0, 5, 0, 25)
+_TextLabel2.Text = 'By: Kolerot'
+_TextLabel2.TextColor3 = Color3.new(1, 0, 0)
+_TextLabel2.BackgroundTransparency = 1
+_TextLabel2.TextSize = 14
+_TextLabel2.Font = Enum.Font.GothamBold
+_TextLabel2.TextStrokeTransparency = 0.3
+_TextLabel2.ZIndex = 100
+
+local u16 = {}
+local _TextButton2 = Instance.new('TextButton')
+
+_TextButton2.Size = UDim2.new(0, 200, 0, 40)
+_TextButton2.Position = UDim2.new(0.5, -100, 0.25, 0)
+_TextButton2.Text = 'SpeedGlitch: ON'
+_TextButton2.BackgroundColor3 = Color3.fromRGB(50, 200, 50)
+_TextButton2.TextColor3 = Color3.new(1, 1, 1)
+_TextButton2.Parent = _Frame
+_TextButton2.ZIndex = 100
+
+table.insert(u16, _TextButton2)
+
+local _UICorner = Instance.new('UICorner')
+
+_UICorner.CornerRadius = UDim.new(0, 10)
+_UICorner.Parent = _TextButton2
+
+local _TextBox = Instance.new('TextBox')
+
+_TextBox.Size = UDim2.new(0, 200, 0, 40)
+_TextBox.Position = UDim2.new(0.5, -100, 0.45, 0)
+_TextBox.Text = tostring(u9)
+_TextBox.PlaceholderText = 'Enter Speed'
+_TextBox.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+_TextBox.TextColor3 = Color3.new(1, 1, 1)
+_TextBox.Parent = _Frame
+_TextBox.ZIndex = 100
+
+table.insert(u16, _TextBox)
+
+local _UICorner2 = Instance.new('UICorner')
+
+_UICorner2.CornerRadius = UDim.new(0, 10)
+_UICorner2.Parent = _TextBox
+
+local _TextButton3 = Instance.new('TextButton')
+
+_TextButton3.Size = UDim2.new(0, 200, 0, 40)
+_TextButton3.Position = UDim2.new(0.5, -100, 0.65, 0)
+_TextButton3.Text = 'Apply Speed'
+_TextButton3.BackgroundColor3 = Color3.fromRGB(100, 100, 200)
+_TextButton3.TextColor3 = Color3.new(1, 1, 1)
+_TextButton3.Parent = _Frame
+_TextButton3.ZIndex = 100
+
+table.insert(u16, _TextButton3)
+
+local _UICorner3 = Instance.new('UICorner')
+
+_UICorner3.CornerRadius = UDim.new(0, 10)
+_UICorner3.Parent = _TextButton3
+
+local u23 = false
+local _TextButton4 = Instance.new('TextButton')
+
+_TextButton4.Name = 'ToggleMenuButton'
+_TextButton4.Parent = _Frame
+_TextButton4.Size = UDim2.new(0, 35, 0, 30)
+_TextButton4.Position = UDim2.new(1, -95, 0, 10)
+_TextButton4.Text = '-'
+_TextButton4.TextColor3 = Color3.new(1, 1, 1)
+_TextButton4.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+_TextButton4.TextSize = 20
+_TextButton4.Font = Enum.Font.Gotham
+_TextButton4.ZIndex = 100
+Instance.new('UICorner').Parent = _TextButton4
+
+local function v33()
+    u23 = not u23
+
+    if u23 then
+        local v25, v26, v27 = ipairs(u16)
+
+        while true do
+            local v28
+
+            v27, v28 = v25(v26, v27)
+
+            if v27 == nil then
+                break
+            end
+
+            v28.Visible = false
+        end
+
+        _Frame.Size = UDim2.new(0, 230, 0, 50)
+        _TextButton4.Text = '+'
+    else
+        _Frame.Size = UDim2.new(0, 230, 0, 260)
+        _TextButton4.Text = '-'
+
+        local v29, v30, v31 = ipairs(u16)
+
+        while true do
+            local v32
+
+            v31, v32 = v29(v30, v31)
+
+            if v31 == nil then
+                break
+            end
+
+            v32.Visible = true
+        end
+    end
+end
+
+_TextButton4.MouseButton1Click:Connect(v33)
+_TextButton.MouseButton1Click:Connect(function()
+    u10 = false
+    _TextButton2.Text = 'SpeedGlitch: OFF'
+    _TextButton2.BackgroundColor3 = Color3.fromRGB(200, 50, 50)
+    _Frame.Visible = false
+end)
+
+local function u37()
+    if u10 then
+        if u6.FloorMaterial == Enum.Material.Air then
+            local _MoveDirection = u4.Humanoid.MoveDirection
+
+            if _MoveDirection.Magnitude > 0 then
+                local _Velocity = u8.Velocity
+                local v36 = Vector3.new(_MoveDirection.X * u9, _Velocity.Y, _MoveDirection.Z * u9)
+
+                u8.Velocity = v36
+                u8.AssemblyLinearVelocity = v36
+            end
+        end
+    end
+end
+
+_RunService.Heartbeat:Connect(function()
+    if u10 then
+        u37()
+    end
+end)
+_TextButton2.MouseButton1Click:Connect(function()
+    u10 = not u10
+
+    if u10 then
+        _TextButton2.Text = 'SpeedGlitch: ON'
+        _TextButton2.BackgroundColor3 = Color3.fromRGB(50, 200, 50)
+    else
+        _TextButton2.Text = 'SpeedGlitch: OFF'
+        _TextButton2.BackgroundColor3 = Color3.fromRGB(200, 50, 50)
+    end
+end)
+_TextButton3.MouseButton1Click:Connect(function()
+    local v38 = tonumber(_TextBox.Text)
+
+    if v38 and 0 < v38 then
+        u9 = v38
+        _TextBox.Text = tostring(u9)
+    else
+        _TextBox.Text = tostring(u9)
+    end
+end)
+_LocalPlayer.CharacterAdded:Connect(function(p39)
+    u4 = p39
+    u6 = u4:WaitForChild('Humanoid')
+    u8 = u4:WaitForChild('HumanoidRootPart')
+end)
+_UserInputService.InputBegan:Connect(function(p40)
+    if p40.KeyCode == Enum.KeyCode.T then
+        _Frame.Visible = not _Frame.Visible
+    end
+end)
