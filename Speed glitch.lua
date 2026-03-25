@@ -1,4 +1,3 @@
--- ts file was generated at discord.gg/25ms
 
 local _UserInputService = game:GetService('UserInputService')
 local _RunService = game:GetService('RunService')
